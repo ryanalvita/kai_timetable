@@ -1,0 +1,51 @@
+name: Run scrape_pdf and Commit CSV
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_index:
+        description: "Start index for kanumbers"
+        required: true
+        default: "1"
+      end_index:
+        description: "End index for kanumbers"
+        required: true
+        default: "10"
+
+jobs:
+  run-scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      - name: Install ghostscript
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ghostscript
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: Install dependencies
+        run: |
+          pip install camelot-py[cv] pandas
+
+      - name: Run scrape_pdf script
+        run: |
+          python scrape_pdf.py ${{ github.event.inputs.start_index }} ${{ github.event.inputs.end_index }}
+
+      - name: Configure Git
+        run: |
+          git config --local user.email "github-actions@github.com"
+          git config --local user.name "github-actions"
+
+      - name: Commit and push CSV files
+        run: |
+          git add page/*.csv
+          git diff --cached --quiet || git commit -m "Add scraped CSV files for kanumbers ${{ github.event.inputs.start_index }} to ${{ github.event.inputs.end_index }}"
+          git push
