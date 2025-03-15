@@ -36,7 +36,11 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install camelot-py[cv] pandas
+          python -m pip install --upgrade pip
+          python -m pip install "camelot-py[cv]" pandas
+
+      - name: Verify Camelot installation
+        run: python -c "import camelot; print('Camelot installed, version:', camelot.__version__)"
 
       - name: Run scrape_pdf script
         run: |
