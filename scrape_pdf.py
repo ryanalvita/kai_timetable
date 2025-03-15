@@ -9,21 +9,16 @@ if len(sys.argv) >= 3:
     start_index = int(sys.argv[1])
     end_index = int(sys.argv[2])
 else:
-    start_index = None
-    end_index = None
+    # If not provided, process all entries.
+    start_index = 0
+    end_index = len(kanumber_page_mapping) - 1
 
 # Filter the mapping based on the provided indices.
-if start_index is not None and end_index is not None:
-    filtered_mapping = {}
-    for k, pages in kanumber_page_mapping.items():
-        try:
-            key_int = int(k)
-        except ValueError:
-            continue  # Skip keys that can't be converted to an integer.
-        if start_index <= key_int <= end_index:
-            filtered_mapping[k] = pages
-else:
-    filtered_mapping = kanumber_page_mapping
+mapping_keys = list(kanumber_page_mapping.keys())
+filtered_keys = mapping_keys[start_index : end_index + 1]
+
+# Build a filtered mapping dictionary
+filtered_mapping = {key: kanumber_page_mapping[key] for key in filtered_keys}
 
 # Process each filtered mapping.
 for kanumber, pages in filtered_mapping.items():
