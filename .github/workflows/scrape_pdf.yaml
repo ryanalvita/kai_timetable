@@ -21,10 +21,13 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: Install ghostscript
+      - name: Install Ghostscript
         run: |
-          sudo apt-get update
-          sudo apt-get install -y ghostscript
+          sudo apt-get update && sudo apt-get install -y ghostscript
+      
+      - name: Verify Ghostscript installation
+        run: |
+          gs --version
 
       - name: Set up Python
         uses: actions/setup-python@v4
