@@ -1,0 +1,98 @@
+0,1,2,3,4
+No.,Stasiun dan Perhentian,Datang,Berangkat,Keterangan
+1,Purwokerto (PWT),,18:55:00,
+2,Notog (NTG),Ls,19:03:00,
+3,Kebasen (KBS),Ls,19:08:00,
+4,Randegan (RDN),Ls,19:11:00,
+5,Kroya (KYA),19:18:00,19:40:00,
+No.,Stasiun dan Perhentian,Datang,Berangkat,Keterangan
+1,Kroya (KYA),19:18:00,19:40:00,"X KA 284 
+// KA 2605 (KA 2605 =)"
+2,Sikampuh (SKP),Ls,19:46:00,
+3,Maos (MA),19:51:00,19:53:00,
+4,Kasugihan (KH),Ls,19:56:00,
+5,Lebeng (LBG),Ls,20:00:00,
+6,Jeruklegi (JRL),20:06:00,20:08:00,
+7,Kawunganten (KWG),Ls,20:20:00,
+8,Gandrungmangun (GDM),Ls,20:27:00,
+9,Sidareja (SDR),20:33:00,20:35:00,
+10  Cipari (CPI),,Ls,20:41:00,
+11  Meluwung (MLW),,Ls,20:47:00,
+12,Langen (LN),20:55:00,21:06:00,X KA 12 (KA 12 X)
+13  Banjar (BJR),,21:16:00,21:20:00,
+,14  Karangpucung (KNP),21:28:00,21:36:00,X KA 68 (KA 68 X)
+15  Bojong (BJG),,21:47:00,22:17:00,"X KA 306, KA 80 (KA 306, KA 80 X)"
+16  Ciamis (CI),,22:27:00,22:29:00,
+17  Manonjaya (MNJ),,22:43:00,22:52:00,X KA 72 (KA 72 X)
+18  Awipari (AW),,Ls,22:56:00,
+19,Tasikmalaya (TSM),23:04:00,23:06:00,
+20,Indihiang (IH),23:14:00,23:20:00,X KA 292 (KA 292 X)
+21  Rajapolah (RJP),,Ls,23:28:00,
+22  Ciawi (CAW),,Ls,23:37:00,
+23  Cirahayu (CAA),,Ls,23:46:00,
+24  Cipeundeuy (CPD),,23:59:00,00:13:00,X KA 274 (KA 274 X)
+,25  Bumiwaluya (BMW),Ls,00:23:00,
+,26  Warungbandrek (WB),Ls,00:35:00,
+27  Cibatu (CB),,00:45:00,00:49:00,X KA 288 (KA 288 X)
+28,Leuwigoong (LO),Ls,-,
+29  Karangsari (KRAI),,Ls,00:58:00,
+30,Leles (LL),Ls,01:04:00,
+31,Lebakjero (LBJ),Ls,01:15:00,
+32  Nagreg (NG),,Ls,01:23:00,
+33  Cicalengka (CCL),,Ls,01:36:00,
+No.,Stasiun dan Perhentian,Datang,Berangkat,Keterangan
+34  Haurpugur (HRP),,Ls,01:38:30,
+35  Rancaekek (RCK),,Ls,01:44:00,
+36  Cimekar (CMK),,Ls,-,
+37  Gedebage (GDB),,Ls,01:50:00,
+,38  Kiaracondong (KAC),01:57:00,02:00:00,
+,39  Cikudapateuh (CTH),Ls,-,
+40  Bandung (BD),,02:10:00,,
+No.,Stasiun dan Perhentian,Datang,Berangkat,Keterangan
+1,Bandung (BD),,07:55:00,
+2,Cikudapateuh (CTH),Ls,-,
+3,Kiaracondong (KAC),08:04:00,08:06:00,
+4,Gedebage (GDB),Ls,08:13:00,
+5,Cimekar (CMK),Ls,-,
+6,Rancaekek (RCK),Ls,08:18:00,
+7,Haurpugur (HRP),Ls,08:22:30,
+8,Cicalengka (CCL),Ls,08:25:00,// KA 348 (KA 348 =)
+9,Nagreg (NG),Ls,08:38:00,
+10,Lebakjero (LBJ),Ls,08:46:00,
+11,Leles (LL),Ls,08:55:00,
+12  Karangsari (KRAI),,Ls,09:00:00,X KA 305 (KA 305 X)
+13,Leuwigoong (LO),Ls,-,
+14  Cibatu (CB),,Ls,09:08:00,
+,15  Warungbandrek (WB),Ls,09:15:00,
+,16  Bumiwaluya (BMW),Ls,09:27:00,
+17  Cipeundeuy (CPD),,09:38:00,09:48:00,
+18  Cirahayu (CAA),,Ls,10:01:00,
+19  Ciawi (CAW),,Ls,10:09:00,
+20  Rajapolah (RJP),,Ls,10:19:00,
+21,Indihiang (IH),Ls,10:25:00,
+22,Tasikmalaya (TSM),10:32:00,10:36:00,X KA 283 (KA 283 X)
+23  Awipari (AW),,Ls,10:42:00,
+24  Manonjaya (MNJ),,Ls,10:45:00,
+25  Ciamis (CI),,10:56:00,10:58:00,
+26  Bojong (BJG),,Ls,11:07:00,
+,27  Karangpucung (KNP),Ls,11:15:00,
+28  Banjar (BJR),,11:22:00,11:29:00,X KA 77 (KA 77 X)
+29,Langen (LN),Ls,11:38:00,
+30  Meluwung (MLW),,Ls,11:44:00,
+31  Cipari (CPI),,Ls,11:50:00,
+32,Sidareja (SDR),11:56:00,11:58:00,
+,33  Gandrungmangun (GDM),Ls,12:05:00,
+No.,Stasiun dan Perhentian,Datang,Berangkat,Keterangan
+,34  Kawunganten (KWG),12:14:00,12:21:00,X KA 291 (KA 291 X)
+35,Jeruklegi (JRL),12:34:00,12:51:00,X KA 275 (KA 275 X)
+36,Lebeng (LBG),Ls,12:57:00,
+37  Kasugihan (KH),,Ls,13:01:00,
+38  Maos (MA),,13:04:00,13:06:00,
+39,Sikampuh (SKP),Ls,13:12:00,
+40  Kroya (KYA),,13:18:00,13:39:00,(KA 69 X)
+No.,Stasiun dan Perhentian,Datang,Berangkat,Keterangan
+1,Kroya (KYA),13:18:00,13:39:00,
+2,Randegan (RDN),Ls,13:46:00,
+3,Kebasen (KBS),Ls,13:49:00,
+4,Notog (NTG),Ls,13:55:00,
+5,Purwokerto (PWT),14:04:00,,
