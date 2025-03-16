@@ -12,6 +12,9 @@ on:
         required: true
         default: "10"
 
+permissions:
+  contents: write
+
 jobs:
   run-scrape:
     runs-on: ubuntu-latest
