@@ -54,6 +54,6 @@ jobs:
 
       - name: Commit and push CSV files
         run: |
-          git add page/*.csv
+          git add parsed/page/*.csv
           git diff --cached --quiet || git commit -m "Add scraped CSV files for kanumbers ${{ github.event.inputs.start_index }} to ${{ github.event.inputs.end_index }}"
           git push
