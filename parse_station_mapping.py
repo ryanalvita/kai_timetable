@@ -20,6 +20,8 @@ mask = ~(
 )
 
 # Apply the mask to the DataFrame
-df_clean = df[mask].reset_index(drop=True)
+df = df.applymap(lambda x: str(x).split("\nd.h.")[0])
+df = df[mask].reset_index(drop=True)
 
-a = 1
+df.columns = ["station_name","province","daop","station_code","operating_status"]
+df.to_csv("station.csv")

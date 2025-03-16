@@ -1,0 +1,834 @@
+,station_name,province,daop,station_code,operating_status
+0,Adan-Adan,Jawa Timur,Daop VII Madiun,ADN,Tidak beroperasi
+1,Adi Soemarmo,Jawa Tengah,Daop VI Yogyakarta,SMO,Beroperasi
+2,Ajung,Jawa Timur,Daop IX Jember,AJU,Tidak beroperasi
+3,Alastua,Jawa Tengah,Daop IV Semarang,ATA,Beroperasi
+4,Alkmaar,Jawa Timur,Daop VIII Surabaya,-,Tidak beroperasi
+5,Ambarawa,Jawa Tengah,Daop IV Semarang,ABR,Museum
+6,Ambulu,Jawa Timur,Daop IX Jember,ABL,Tidak beroperasi
+7,Ancol,DKI Jakarta,Daop I Jakarta,AC,Beroperasi
+8,Andir,Jawa Barat,Daop II Bandung,AND,Beroperasi
+9,Angke,DKI Jakarta,Daop I Jakarta,AK,Beroperasi
+10,Anyer Kidul,Banten,Daop I Jakarta,ANK,Tidak beroperasi
+11,Anyer Lor,Banten,Daop I Jakarta,ANL,Tidak beroperasi
+12,Argopuro,Jawa Timur,Daop IX Jember,AGO,Beroperasi
+13,Arjawinangun,Jawa Barat,Daop III Cirebon,AWN,Beroperasi
+14,Arjasa,Jawa Timur,Daop IX Jember,AJ,Beroperasi
+15,Awipari,Jawa Barat,Daop II Bandung,AW,Beroperasi
+16,Babadan,Jawa Timur,Daop VII Madiun,BBD,Beroperasi
+17,Babakan,Jawa Barat,Daop III Cirebon,BBK,Beroperasi
+18,Babat,Jawa Timur,Daop VIII Surabaya,BBT,Beroperasi
+19,Badas,Jawa Timur,Daop VII Madiun,BDS,Tidak beroperasi
+20,Badegan,Jawa Timur,Daop VII Madiun,BAN,Tidak beroperasi
+21,Bagor,Jawa Timur,Daop VII Madiun,BGR,Beroperasi
+22,Balapulang,Jawa Tengah,Daop V Purwokerto,BLP,Tidak beroperasi
+23,Balega,Jawa Timur,Daop VIII Surabaya,BGA,Tidak beroperasi
+24,Balong,Jawa Timur,Daop VII Madiun,BLO,Tidak beroperasi
+25,Balongbendo,Jawa Timur,Daop VIII Surabaya,BLB,Tidak beroperasi
+26,Balung,Jawa Timur,Daop IX Jember,BUG,Tidak beroperasi
+27,Bangkalan,Jawa Timur,Daop VIII Surabaya,BKL,Tidak beroperasi
+28,Banjar,Jawa Barat,Daop II Bandung,BJR,Beroperasi
+29,Banjaranyar,Jawa Timur,Daop VII Madiun,BNR,Tidak beroperasi
+30,Banjaran (ke Srg),Jawa Barat,Daop II Bandung,BJA,Tidak beroperasi
+31,Banjaran (ke Ppk),Jawa Tengah,Daop V Purwokerto,BJN,Tidak beroperasi
+32,Banjarkemantren,Jawa Timur,Daop VIII Surabaya,BJK,Tidak beroperasi
+33,Banjarnegara,Jawa Tengah,Daop V Purwokerto,BA,Tidak beroperasi
+34,Banjarsari (ke Cij),Jawa Barat,Daop II Bandung,BJI,Tidak beroperasi
+35,Banjarsari (ke Ws),Jawa Tengah,Daop V Purwokerto,BJRS,Tidak beroperasi
+36,Bandung,Jawa Barat,Daop II Bandung,BD,Beroperasi
+37,Bandung Gudang,Jawa Barat,Daop II Bandung,BDG,Tidak beroperasi
+38,Bangak,Jawa Tengah,Daop VI Yogyakarta,BGK,Tidak beroperasi
+39,Bangil,Jawa Timur,Daop VIII Surabaya,BG,Beroperasi
+40,Bangilan,Jawa Timur,Daop IV Semarang,BIA,Tidak beroperasi
+41,Bangkalan,Jawa Timur,Daop VIII Surabaya,BKL,Tidak beroperasi
+42,Bangoduwa,Jawa Barat,Daop III Cirebon,BDW,Beroperasi
+43,Bangsal SS,Jawa Timur,Daop VIII Surabaya,BSL,Tidak beroperasi
+44,Bangsalsari,Jawa Timur,Daop IX Jember,BSS,Beroperasi
+45,Banyudono,Jawa Tengah,Daop VI Yogyakarta,BNO,Tidak beroperasi
+46,Banyuwangi,Jawa Timur,Daop IX Jember,BW,Tidak beroperasi
+47,Banyuwangi Kota,Jawa Timur,Daop IX Jember,BWI,Beroperasi
+48,Banyuwangi Pelabuhan,Jawa Timur,Daop IX Jember,BWH,Tidak beroperasi
+49,Bareng,Jawa Tengah,Daop IV Semarang,BAE,Tidak beroperasi
+50,Baron,Jawa Timur,Daop VII Madiun,BRN,Beroperasi
+51,Batang,Jawa Tengah,Daop IV Semarang,BTG,Beroperasi
+52,Batavia Noord,DKI Jakarta,Daop I Jakarta,-,Tidak beroperasi
+53,Batavia Zuid,DKI Jakarta,Daop I Jakarta,-,Tidak beroperasi
+54,Batu Ceper,Banten,Daop I Jakarta,BPR,Beroperasi
+55,Batulawang,Jawa Barat,Daop II Bandung,BTW,Tidak beroperasi
+56,Baturetno,Jawa Tengah,Daop VI Yogyakarta,BRO,Tidak beroperasi
+57,Batutulis,Jawa Barat,Daop I Jakarta,BTT,Beroperasi
+58,Bayah,Banten,Daop I Jakarta,BAH,Tidak beroperasi
+59,Bayeman,Jawa Timur,Daop IX Jember,BYM,Beroperasi
+60,Bayongbong,Jawa Barat,Daop II Bandung,BYO,Tidak beroperasi
+61,Bedono,Jawa Tengah,Daop IV Semarang,BDN,Beroperasi terbatas
+62,Bekasi,Jawa Barat,Daop I Jakarta,BKS,Beroperasi
+63,Bekasi Timur,Jawa Barat,Daop I Jakarta,BKST,Beroperasi
+64,Benculuk,Jawa Timur,Daop IX Jember,BEN,Tidak beroperasi
+65,Bendo (Kediri),Jawa Timur,Daop VII Madiun,BEO,Tidak beroperasi
+66,Bendosendung,Jawa Timur,Daop VII Madiun,BDO,Tidak beroperasi
+67,Benowo,Jawa Timur,Daop VIII Surabaya,BNW,Beroperasi
+68,Benteng,Jawa Timur,Daop VIII Surabaya,BET,Beroperasi
+69,Beran,Jawa Tengah,Daop VI Yogyakarta,BRA,Tidak beroperasi
+70,Blabak,Jawa Tengah,Daop VI Yogyakarta,BAB,Tidak beroperasi
+71,Blimbing (Jombang),Jawa Timur,Daop VII Madiun,BLM,Tidak beroperasi
+72,Blimbing (Malang),Jawa Timur,Daop VIII Surabaya,BMG,Beroperasi
+73,Blitar,Jawa Timur,Daop VII Madiun,BL,Beroperasi
+74,Blondo,Jawa Tengah,Daop VI Yogyakarta,BLD,Tidak beroperasi
+75,Blora,Jawa Tengah,Daop IV Semarang,BLA,Tidak beroperasi
+76,Bluluk,Jawa Timur,Daop VII Madiun,BLK,Tidak beroperasi
+77,Bojonegoro,Jawa Timur,Daop VIII Surabaya,BJ,Beroperasi
+78,Bojonegoro Kota,Jawa Timur,Daop VIII Surabaya,BJK,Tidak beroperasi
+79,Bojong (Bandung),Jawa Barat,Daop II Bandung,BJG,Beroperasi
+80,Bojong (Semarang),Jawa Tengah,Daop IV Semarang,-,Tidak Beroperasi
+81,Bojonggede,Jawa Barat,Daop I Jakarta,BJD,Beroperasi
+82,Bojong Indah,DKI Jakarta,Daop I Jakarta,BOI,Beroperasi
+83,Bogor,Jawa Barat,Daop I Jakarta,BOO,Beroperasi
+84,Boharan,Jawa Timur,Daop VIII Surabaya,BH,Beroperasi
+85,Bondowoso,Jawa Timur,Daop IX Jember,BO,Museum
+86,Bonosare,Jawa Timur,Daop IX Jember,BNS,Tidak beroperasi
+87,Bowerno,Jawa Timur,Daop VIII Surabaya,BWO,Beroperasi
+88,Boyolali,Jawa Tengah,Daop VI Yogyakarta,BI,Tidak beroperasi
+89,Brambanan,Jawa Tengah,Daop VI Yogyakarta,BBN,Beroperasi
+90,Brebes,Jawa Tengah,Daop III Cirebon,BB,Beroperasi
+91,Bringin,Jawa Tengah,Daop IV Semarang,BRI,Tidak beroperasi
+92,Brosot,D.I Yogyakarta,Daop VI Yogyakarta,-,Tidak beroperasi
+93,Brumbung,Jawa Tengah,Daop IV Semarang,BBG,Beroperasi
+94,Buaran,DKI Jakarta,Daop I Jakarta,BUA,Beroperasi
+95,Buduran,Jawa Timur,Daop VIII Surabaya,BDR,Tidak beroperasi
+96,Bulakamba,Jawa Tengah,Daop III Cirebon,BKA,Tidak beroperasi
+97,Bululawang,Jawa Timur,Daop VIII Surabaya,BLL,Tidak beroperasi
+98,Bulumanis,Jawa Tengah,Daop IV Semarang,BIS,Tidak beroperasi
+99,Bumiayu,Jawa Tengah,Daop V Purwokerto,BMA,Beroperasi
+100,Bumiwaluya,Jawa Barat,Daop II Bandung,BMW,Beroperasi
+101,Butuh,Jawa Tengah,Daop V Purwokerto,BTH,Beroperasi
+102,Buwek,Jawa Timur,Daop IX Jember,BWK,Tidak beroperasi
+103,Buyaran,Jawa Tengah,Daop IV Semarang,BYA,Tidak beroperasi
+104,Cakung,DKI Jakarta,Daop I Jakarta,CUK,Beroperasi
+105,Campurdarat,Jawa Timur,Daop VII Madiun,CPT,Tidak beroperasi
+106,Candi Umbul,Jawa Tengah,Daop VI Yogyakarta,CAI,Tidak beroperasi
+107,Cangkring,Jawa Barat,Daop III Cirebon,CNK,Beroperasi
+108,Caruban,Jawa Timur,Daop VII Madiun,CRB,Beroperasi
+109,Catang,Banten,Daop I Jakarta,CT,Beroperasi
+110,Cawang,DKI Jakarta,Daop I Jakarta,CW,Beroperasi
+111,Celangap,Jawa Timur,Daop VIII Surabaya,CEA,Tidak beroperasi
+112,Ceper,Jawa Tengah,Daop VI Yogyakarta,CE,Beroperasi
+113,Cepu,Jawa Tengah,Daop IV Semarang,CU,Beroperasi
+114,Cepu Kota,Jawa Tengah,Daop IV Semarang,CEK,Tidak beroperasi
+115,Cerme,Jawa Timur,Daop VIII Surabaya,CME,Beroperasi
+116,Ciamis,Jawa Barat,Daop II Bandung,CI,Beroperasi
+117,Cianjur,Jawa Barat,Daop II Bandung,CJ,Beroperasi
+118,Ciawi,Jawa Barat,Daop II Bandung,CAW,Beroperasi
+119,Cibadak,Jawa Barat,Daop I Jakarta,CBD,Beroperasi
+120,Cibangkong,Jawa Barat,Daop II Bandung,CBK,Tidak beroperasi
+121,Cibangkonglor,Jawa Barat,Daop II Bandung,CBL,Tidak beroperasi
+122,Cibatu,Jawa Barat,Daop II Bandung,CB,Beroperasi
+123,Cibeber,Jawa Barat,Daop II Bandung,CBB,Beroperasi
+124,Cibinong,Jawa Barat,Daop I Jakarta,CBG,Beroperasi
+125,Cibitung,Jawa Barat,Daop I Jakarta,CIT,Beroperasi
+126,Cibungur,Jawa Barat,Daop II Bandung,CBR,Beroperasi
+127,Cicalengka,Jawa Barat,Daop II Bandung,CCL,Beroperasi
+128,Cicayur,Banten,Daop I Jakarta,CC,Beroperasi
+129,Cicurug,Jawa Barat,Daop I Jakarta,CCR,Beroperasi
+130,Cigading,Banten,Daop I Jakarta,CGD,Beroperasi
+131,Ciganea,Jawa Barat,Daop II Bandung,CA,Beroperasi
+132,Cigombong,Jawa Barat,Daop I Jakarta,CGB,Beroperasi
+133,Cijambe,Jawa Barat,Daop I Jakarta,CJE,Tidak beroperasi
+134,Cijulang,Jawa Barat,Daop II Bandung,CIJ,Tidak beroperasi
+135,Cikajang,Jawa Barat,Daop II Bandung,CKG,Tidak beroperasi
+136,Cikadongdong,Jawa Barat,Daop II Bandung,CD,Beroperasi
+137,Cikampek,Jawa Barat,Daop I Jakarta,CKP,Beroperasi
+138,Cikampektrem,Jawa Barat,Daop I Jakarta,CKE,Tidak beroperasi
+139,Cikaum,Jawa Barat,Daop III Cirebon,CKM,Beroperasi
+140,Cikarang,Jawa Barat,Daop I Jakarta,CKR,Beroperasi
+141,Cikawung,Jawa Tengah,Daop V Purwokerto,CKW,Tidak beroperasi
+142,Cikeusal,Banten,Daop I Jakarta,CKL,Beroperasi
+143,Cikini,DKI Jakarta,Daop I Jakarta,CKI,Beroperasi
+144,Cikoya,Banten,Daop I Jakarta,CKY,Beroperasi
+145,Cikudapateuh,Jawa Barat,Daop II Bandung,CTH,Beroperasi
+146,Cilaku,Jawa Barat,Daop II Bandung,CLK,Tidak beroperasi
+147,Cilamaya,Jawa Barat,Daop I Jakarta,CMA,Tidak beroperasi
+148,Cilame,Jawa Barat,Daop II Bandung,CLE,Beroperasi
+149,Cilacap,Jawa Tengah,Daop V Purwokerto,CP,Beroperasi
+150,Cilacap Pelabuhan,Jawa Tengah,Daop V Purwokerto,CPH,Tidak beroperasi
+151,Cilebut,Jawa Barat,Daop I Jakarta,CLT,Beroperasi
+152,Ciledug,Jawa Barat,Daop III Cirebon,CLD,Beroperasi
+153,Ciledug SCS,Jawa Barat,Daop III Cirebon,-,Tidak beroperasi
+154,Cilejit,Jawa Barat,Daop I Jakarta,CJT,Beroperasi
+155,Cilegeh,Jawa Barat,Daop III Cirebon,CLH,Beroperasi
+156,Cilegon,Banten,Daop I Jakarta,CLG,Beroperasi
+157,Cilongkrang,Jawa Tengah,Daop V Purwokerto,CAG,Tidak beroperasi
+158,Cimahi,Jawa Barat,Daop II Bandung,CMI,Beroperasi
+159,Cimekar,Jawa Barat,Daop II Bandung,CMK,Beroperasi
+160,Cimindi,Jawa Barat,Daop II Bandung,CMD,Beroperasi
+161,Ciomas,Jawa Barat,Daop I Jakarta,CS,Reaktivikasi
+162,Cipari,Jawa Tengah,Daop V Purwokerto,CPI,Beroperasi
+163,Cipatat,Jawa Barat,Daop II Bandung,CPT,Beroperasi
+164,Cipedang,Jawa Barat,Daop III Cirebon,CPA,Tidak beroperasi
+165,Cipeuyeum,Jawa Barat,Daop II Bandung,CPY,Beroperasi
+166,Cipeundeuy,Jawa Barat,Daop II Bandung,CPD,Beroperasi
+167,Cipinang,DKI Jakarta,Daop I Jakarta,CPN,Tidak beroperasi
+168,Cipunegara,Jawa Barat,Daop III Cirebon,CRA,Beroperasi
+169,Ciputrapinggan,Jawa Barat,Daop II Bandung,CPP,Tidak beroperasi
+170,Cirahayu,Jawa Barat,Daop II Bandung,CAA,Beroperasi
+171,Ciranjang,Jawa Barat,Daop II Bandung,CRJ,Beroperasi
+172,Cirebon,Jawa Barat,Daop III Cirebon,CN,Beroperasi
+173,Cirebon Pelabuhan,Jawa Barat,Daop III Cirebon,CNH,Tidak beroperasi
+174,Cirebon Prujakan,Jawa Barat,Daop III Cirebon,CNP,Beroperasi
+175,Cireungas,Jawa Barat,Daop II Bandung,CRG,Beroperasi
+176,Ciroyom,Jawa Barat,Daop II Bandung,CIR,Beroperasi
+177,Cisaat,Jawa Barat,Daop I Jakarta,CSA,Beroperasi
+178,Cisauk,Banten,Daop I Jakarta,CSK,Beroperasi
+179,Cisomang,Jawa Barat,Daop II Bandung,CG,Tidak beroperasi
+180,Cisondari,Jawa Barat,Daop II Bandung,CSD,Tidak beroperasi
+181,Cisurupan,Jawa Barat,Daop II Bandung,CSN,Tidak beroperasi
+182,Citayam,Jawa Barat,Daop I Jakarta,CTA,Beroperasi
+183,Citeras,Banten,Daop I Jakarta,CTR,Beroperasi
+184,Ciwidey,Jawa Barat,Daop II Bandung,CWD,Tidak beroperasi
+185,Comal,Jawa Tengah,Daop IV Semarang,CO,Beroperasi
+186,Cukir,Jawa Timur,Daop VII Madiun,CK,Tidak beroperasi
+187,Curahmalang,Jawa Timur,Daop VII Madiun,CRM,Beroperasi
+188,Dadapan,Jawa Timur,Daop IX Jember,DPA,Tidak beroperasi
+189,Dampit,Jawa Timur,Daop VIII Surabaya,DPT,Tidak beroperasi
+190,Dangeyan,Jawa Tengah,Daop VI Yogyakarta,DNY,Tidak beroperasi
+191,Daru,Banten,Daop I Jakarta,DAR,Beroperasi
+192,Dawuan,Jawa Barat,Daop I Jakarta,DWN,Beroperasi
+193,Dayeuhkolot,Jawa Barat,Daop II Bandung,DYK,Tidak beroperasi
+194,Delanggu,Jawa Tengah,Daop VI Yogyakarta,DL,Beroperasi
+195,Delok,Jawa Tengah,Daop IV Semarang,DEK,Tidak beroperasi
+196,Demak,Jawa Tengah,Daop IV Semarang,DM,Tidak beroperasi
+197,Depok,Jawa Barat,Daop I Jakarta,DP,Beroperasi
+198,Depok Baru,Jawa Barat,Daop I Jakarta,DPB,Beroperasi
+199,Dolopo,Jawa Timur,Daop VIII Madiun,DLO,Tidak beroperasi
+200,Dongkelan,D.I Yogyakarta,Daop VI Yogyakarta,DKN,Tidak beroperasi
+201,Doplang,Jawa Tengah,Daop IV Semarang,DPL,Beroperasi
+202,Dringu,Jawa Timur,Daop IX Jember,DRI,Tidak beroperasi
+203,Duduk,Jawa Timur,Daop VIII Surabaya,DD,Beroperasi
+204,Duren Kalibata,DKI Jakarta,Daop I Jakarta,DRN,Beroperasi
+205,Dringu,Jawa Timur,Daop IX Jember,DRI,Tidak beroperasi
+206,Duri,DKI Jakarta,Daop I Jakarta,DU,Beroperasi
+207,Gambir,DKI Jakarta,Daop I Jakarta,GMR,Beroperasi
+208,Gambringan,Jawa Tengah,Daop IV Semarang,GBN,Beroperasi
+209,Gandasoli,Jawa Barat,Daop II Bandung,GDS,Beroperasi
+210,Gandrungmangu,Jawa Tengah,Daop V Purwokerto,GDM,Beroperasi
+211,Gandulekor,Jawa Tengah,Daop V Purwokerto,GDK,Tidak beroperasi
+212,Gang Sentiong,DKI Jakarta,Daop I Jakarta,GST,Beroperasi
+213,Garahan,Jawa Timur,Daop IX Jember,GN,Beroperasi
+214,Garum,Jawa Timur,Daop VII Madiun,GRM,Beroperasi
+215,Garut,Jawa Barat,Daop II Bandung,GRT,Beroperasi
+216,Gawok,Jawa Tengah,Daop VI Yogyakarta,GW,Beroperasi
+217,Gebang (Blitar),Jawa Timur,Daop VII Madiun,GEL,Tidak beroperasi
+218,Gedangan (ke Gd),Jawa Tengah,Daop IV Semarang,GN,Tidak beroperasi
+219,Gedangan (ke Sd),Jawa Timur,Daop VIII Surabaya,GDG,Beroperasi
+220,Gedebage,Jawa Barat,Daop II Bandung,GDB,Beroperasi
+221,Gemawang,Jawa Tengah,Daop IV Semarang,GWG,Tidak beroperasi
+222,Gembong,Jawa Timur,Daop VIII Surabaya,GEB,Beroperasi
+223,Gembongan,Jawa Tengah,Daop VI Yogyakarta,GMG,Tidak beroperasi
+224,Gemekan,Jawa Timur,Daop VIII Surabaya,GMK,Tidak beroperasi
+225,Gempol,Jawa Timur,Daop VIII Surabaya,GEM,Tidak beroperasi
+226,Gempolkerep,Jawa Timur,Daop VIII Surabaya,GKP,Tidak beroperasi
+227,Geneng,Jawa Timur,Daop VII Madiun,GG,Beroperasi
+228,Genuk,Jawa Tengah,Daop IV Semarang,GNK,Tidak beroperasi
+229,Gending,Jawa Timur,Daop IX Jember,GNI,Tidak beroperasi
+230,Glenmore,Jawa Timur,Daop IX Jember,GLM,Beroperasi
+231,Godong,Jawa Tengah,Daop IV Semarang,GOG,Tidak beroperasi
+232,Gogodalem,Jawa Tengah,Daop IV Semarang,GGD,Tidak beroperasi
+233,Gombong,Jawa Tengah,Daop V Purwokerto,GB,Beroperasi
+234,Gondangdia,DKI Jakarta,Daop I Jakarta,GDD,Beroperasi
+235,Gondanglegi,Jawa Timur,Daop VIII Surabaya,GDL,Tidak beroperasi
+236,Goprak,Jawa Tengah,Daop VI Yogyakarta,GPK,Beroperasi
+237,Grabag Merbabu,Jawa Tengah,Daop VI Yogyakarta,GMB,Tidak beroperasi
+238,Grati,Jawa Timur,Daop IX Jember,GI,Beroperasi
+239,Gresik,Jawa Timur,Daop VIII Surabaya,GS,Tidak beroperasi
+240,Grobogan,Jawa Timur,Daop IX Jember,GBG,Tidak beroperasi
+241,Grogol,DKI Jakarta,Daop I Jakarta,GG,Beroperasi
+242,Grompol,Jawa Tengah,Daop VI Yogyakarta,GP,Tidak beroperasi
+243,Grujugan,Jawa Timur,Daop IX Jember,GRJ,Tidak beroperasi
+244,Gubug,Jawa Tengah,Daop IV Semarang,GUB,Beroperasi
+245,Gumilir,Jawa Tengah,Daop V Purwokerto,GM,Beroperasi
+246,Gumukmas,Jawa Timur,Daop IX Jember,GMM,Tidak beroperasi
+247,Gundih,Jawa Tengah,Daop IV Semarang,GD,Beroperasi
+248,Gununggangsir,Jawa Timur,Daop VIII Surabaya,GNG,Tidak beroperasi
+249,Gunungputri,Jawa Barat,Daop I Jakarta,GPI,Tidak beroperasi
+250,Gurah,Jawa Timur,Daop VII Madiun,GU,Tidak beroperasi
+251,Haurgeulis,Jawa Barat,Daop III Cirebon,HGL,Beroperasi
+252,Haurpugur,Jawa Barat,Daop II Bandung,HRP,Beroperasi
+253,Ijo,Jawa Tengah,Daop V Purwokerto,IJ,Beroperasi
+254,Indihiang,Jawa Barat,Daop II Bandung,IH,Beroperasi
+255,Indramayu,Jawa Barat,Daop III Cirebon,IM,Tidak beroperasi
+256,Indro,Jawa Timur,Daop VIII Surabaya,IDO,Beroperasi
+257,Jakarta Gudang,DKI Jakarta,Daop I Jakarta,JAKG,Beroperasi
+258,Jakarta Kota,DKI Jakarta,Daop I Jakarta,JAKK,Beroperasi
+259,Jambean,Jawa Tengah,Daop IV Semarang,JBE,Tidak beroperasi
+260,Jamblang,Jawa Barat,Daop III Cirebon,JBG,Tidak beroperasi
+261,Jambon,Jawa Tengah,Daop IV Semarang,JBN,Beroperasi
+262,Jambu,Jawa Tengah,Daop IV Semarang,JMB,Beroperasi terbatas
+263,Jambu Baru,Banten,Daop I Jakarta,JBU,Beroperasi
+264,Japanan,Jawa Timur,Daop VIII Surabaya,JPN,Tidak beroperasi
+265,Japonan,Jawa Tengah,Daop VI Yogyakarta,JAP,Tidak beroperasi
+266,Jati,Jawa Timur,Daop IX Jember,JI,Tidak beroperasi
+267,Jatibarang,Jawa Barat,Daop III Cirebon,JTB,Beroperasi
+268,Jatinegara,DKI Jakarta,Daop I Jakarta,JNG,Beroperasi
+269,Jatirogo,Jawa Timur,Daop VIII Surabaya,JTG,Tidak beroperasi
+270,Jatiroto,Jawa Timur,Daop IX Jember,JTR,Beroperasi
+271,Jatiwangi,Jawa Barat,Daop III Cirebon,JWG,Tidak beroperasi
+272,Jayakarta,DKI Jakarta,Daop I Jakarta,JAY,Beroperasi
+273,Jember,Jawa Timur,Daop IX Jember,JR,Beroperasi
+274,Jemursari,Jawa Timur,Daop VIII Surabaya,JMS[a],Tidak beroperasi
+275,Jenar,Jawa Tengah,Daop VI Yogyakarta,JN,Beroperasi
+276,Jepon,Jawa Tengah,Daop IV Semarang,JON,Tidak beroperasi
+277,Jerakah,Jawa Tengah,Daop IV Semarang,JRK,Beroperasi
+278,Jeruklegi,Jawa Tengah,Daop V Purwokerto,JRL,Beroperasi
+279,Jetis (Grobogan),Jawa Tengah,Daop IV Semarang,JIS,Tidak beroperasi
+280,Jetis (Ponorogo),Jawa Timur,Daop VII Madiun,JS,Tidak beroperasi
+281,Jombang,Jawa Timur,Daop VII Madiun,JG,Beroperasi
+282,Jombang Kota,Jawa Timur,Daop VII Madiun,JGK,Tidak beroperasi
+283,Jombang KSM,Jawa Timur,Daop VII Madiun,-,Tidak beroperasi
+284,Jorongan,Jawa Timur,Daop IX Jember,JOR,Tidak beroperasi
+285,Juana/Juwana,Jawa Tengah,Daop IV Semarang,JU,Tidak beroperasi
+286,Juanda,DKI Jakarta,Daop I Jakarta,JUA,Beroperasi
+287,Jurangmangu,Banten,Daop I Jakarta,JMG,Beroperasi
+288,Jurnatan,Jawa Tengah,Daop IV Semarang,-,Tidak beroperasi
+289,Kabat,Jawa Timur,Daop IX Jember,KBT,Tidak beroperasi
+290,Kadipaten,Jawa Barat,Daop III Cirebon,KAD,Tidak beroperasi
+291,Kadipiro,Jawa Tengah,Daop VI Yogyakarta,KDO,Beroperasi
+292,Kedokangabus,Jawa Barat,Daop III Cirebon,KAB,Beroperasi
+293,Kadukacang,Banten,Daop I Jakarta,KDK,Tidak beroperasi
+294,Kadungdung,Jawa Timur,Daop VIII Surabaya,KDU,Tidak beroperasi
+295,Kalasan,D.I Yogyakarta,Daop VI Yogyakarta,KLS,Tidak beroperasi
+296,Kalianget,Jawa Timur,Daop VIII Surabaya,KLG,Tidak beroperasi
+297,Kalibagor,Jawa Timur,Daop IX Jember,KLB,Tidak beroperasi
+298,Kalibaru,Jawa Timur,Daop IX Jember,KBR,Beroperasi
+299,Kalibodri,Jawa Tengah,Daop IV Semarang,KBD,Beroperasi
+300,Kaliboto,Jawa Timur,Daop IX Jember,KLO,Tidak beroperasi
+301,Kalideres,DKI Jakarta,Daop I Jakarta,KDS,Beroperasi
+302,Kalimas,Jawa Timur,Daop VIII Surabaya,KLM,Beroperasi
+303,Kalimenur,Jawa Tengah,Daop VI Yogyakarta,KLR,Tidak beroperasi
+304,Kalioso,Jawa Tengah,Daop VI Yogyakarta,KO,Beroperasi
+305,Kalipucang,Jawa Barat,Daop II Bandung,KLC,Tidak beroperasi
+306,Kalisamin,Jawa Tengah,Daop VI Yogyakarta,KIM,Tidak beroperasi
+307,Kalisat,Jawa Timur,Daop IX Jember,KLT,Beroperasi
+308,Kalisetail,Jawa Timur,Daop IX Jember,KLS,Beroperasi
+309,Kalitidu,Jawa Timur,Daop VIII Surabaya,KIT,Beroperasi
+310,Kaliwedi,Jawa Barat,Daop III Cirebon,KLW,Tidak beroperasi
+311,Kaliwungu,Jawa Tengah,Daop IV Semarang,KLN,Beroperasi
+312,Kamal,Jawa Timur,Daop VIII Surabaya,KML,Tidak beroperasi
+313,Kamalpier,Jawa Timur,Daop VIII Surabaya,KMLP,Tidak beroperasi
+314,Kambangan,Jawa Timur,Daop VII Madiun,KBG,Tidak beroperasi
+315,Kamojan,Jawa Barat,Daop II Bandung,KMJ,Tidak beroperasi
+316,Kampung Bandan,DKI Jakarta,Daop I Jakarta,KPB,Beroperasi
+317,Kandangan (Surabaya),Jawa Timur,Daop VIII Surabaya,KDA,Beroperasi
+318,Kandangan (Kediri),Jawa Timur,Daop VII Madiun,-,Tidak beroperasi
+319,Kanigoro,Jawa Timur,Daop VII Madiun,KNO,Tidak beroperasi
+320,Kapas,Jawa Timur,Daop VIII Surabaya,KPS,Beroperasi
+321,Kapuan,Jawa Tengah,Daop IV Semarang,KPA,Beroperasi
+322,Karangampel,Jawa Barat,Daop III Cirebon,KRP,Tidak beroperasi
+323,Karanganyar,Jawa Tengah,Daop V Purwokerto,KA,Beroperasi
+324,Karangantu,Banten,Daop I Jakarta,KRA,Beroperasi
+325,Karangjati,Jawa Tengah,Daop IV Semarang,KGT,Beroperasi
+326,Karanggandul,Jawa Tengah,Daop V Purwokerto,KGD,Beroperasi
+327,Karangkandri,Jawa Tengah,Daop V Purwokerto,KKD,Beroperasi
+328,Karangkretek,Jawa Barat,Daop II Bandung,KRK,Tidak beroperasi
+329,Karangpilang,Jawa Timur,Daop VIII Surabaya,KAP,Tidak beroperasi
+330,Karangpucung,Jawa Barat,Daop II Bandun,KNP,Beroperasi
+331,Karangsari (ke Bd),Jawa Barat,Daop II Bandun,KRAI,Beroperasi
+332,Karangsari (ke Pwt),Jawa Tengah,Daop V Purwokerto,KRR,Beroperasi
+333,Karangsono,Jawa Tengah,Daop IV Semarang,KSO,Beroperasi
+334,Karangsuwung,Jawa Barat,Daop III Cirebon,KRW,Tidak beroperasi
+335,Karangtalun Lama,Jawa Tengah,Daop V Purwokerto,KUN[b],Tidak beroperasi
+336,Karangtalun,Jawa Tengah,Daop V Purwokerto,KRL,Beroperasi
+337,Karang Tengah,Jawa Barat,Daop I Jakarta,KE,Beroperasi
+338,Karawang,Jawa Barat,Daop I Jakarta,KW,Beroperasi
+339,Karawangtrem,Jawa Barat,Daop I Jakarta,KWTR,Tidak beroperasi
+340,Karet,DKI Jakarta,Daop I Jakarta,KAT,Beroperasi
+341,Kartasura,Jawa Tengah,Daop VI Yogyakarta,KSR,Tidak beroperasi
+342,Kasiyamlor,Jawa Timur,Daop IX Jember,KYM,Tidak beroperasi
+343,Kasugihan,Jawa Tengah,Daop V Purwokerto,KH,Beroperasi
+344,Kawarasan,Jawa Timur,Daop VII Madiun,KWS,Tidak beroperasi
+345,Kawunganten,Jawa Tengah,Daop V Purwokerto,KWG,Beroperasi
+346,Kebayoran,DKI Jakarta,Daop I Jakarta,KBY,Beroperasi
+347,Kebasen,Jawa Tengah,Daop V Purwokerto,KBS,Beroperasi
+348,Kebonagung,Jawa Timur,Daop VIII Surabaya,KBA,Tidak beroperasi
+349,Kebonromo,Jawa Tengah,Daop VI Yogyakarta,KRO,Beroperasi
+350,Kebumen,Jawa Tengah,Daop V Purwokerto,KM,Beroperasi
+351,Kedinding,Jawa Timur,Daop VIII Surabaya,KDN,Beroperasi
+352,Kediri,Jawa Timur,Daop VII Madiun,KD,Beroperasi
+353,Kedu,Jawa Tengah,Daop VI Yogyakarta,KEU,Tidak beroperasi
+354,Kedundang,Jawa Tengah,Daop VI Yogyakarta,KDG,Beroperasi
+355,Kedungbanteng,Jawa Tengah,Daop VI Yogyakarta,KDB,Beroperasi
+356,Kedungjati,Jawa Tengah,Daop IV Semarang,KEJ,Beroperasi
+357,Kedunggalar,Jawa Timur,Daop VII Madiun,KG,Beroperasi
+358,Kedunggedeh,Jawa Barat,Daop I Jakarta,KDH,Beroperasi
+359,Kedungpring,Jawa Timur,Daop VII Madiun,KEI,Tidak beroperasi
+360,Kedungwuni,Jawa Tengah,Daop IV Semarang,KDW,Tidak beroperasi
+361,Kemayoran,DKI Jakarta,Daop I Jakarta,KMO,Beroperasi
+362,Kemijen,Jawa Tengah,Daop IV Semarang,KME,Tidak beroperasi
+363,Kemiri,Jawa Tengah,Daop VI Yogyakarta,KMR,Beroperasi
+364,Kemranjen,Jawa Tengah,Daop V Purwokerto,KJ,Beroperasi
+365,Kempit,Jawa Timur,Daop IX Jember,KMP,Tidak beroperasi
+366,Kendal,Jawa Tengah,Daop IV Semarang,KL,Tidak beroperasi
+367,Kendalpayak,Jawa Timur,Daop VIII Surabaya,KDY,Tidak beroperasi
+368,Kencong,Jawa Timur,Daop IX Jember,KNC,Tidak beroperasi
+369,Kepanjen,Jawa Timur,Daop VIII Surabaya,KPN,Beroperasi
+370,Kepet,Jawa Timur,Daop VIII Surabaya,KEP,Tidak beroperasi
+371,Kepuh,Jawa Tengah,Daop VI Yogyakarta,KEH,Tidak beroperasi
+372,Kertasemaya,Jawa Barat,Daop III Cirebon,KTM,Beroperasi
+373,Kertomenanggal,Jawa Timur,Daop VIII Surabaya,KOM,Tidak beroperasi
+374,Kertosono,Jawa Timur,Daop VII Madiun,KTS,Beroperasi
+375,Kesamben,Jawa Timur,Daop VIII Surabaya,KSB,Beroperasi
+376,Ketandan,Jawa Tengah,Daop VI Yogyakarta,KTD,Tidak beroperasi
+377,Ketanggungan,Jawa Tengah,Daop III Cirebon,KGG,Beroperasi
+378,Ketanggungan Barat,Jawa Tengah,Daop III Cirebon,KGB,Tidak beroperasi
+379,Ketapang (Banyuwangi),Jawa Timur,Daop IX Jember,KTG,Beroperasi
+380,Kiaracondong,Jawa Barat,Daop II Bandung,KAC,Beroperasi
+381,Klakah,Jawa Timur,Daop IX Jember,KK,Beroperasi
+382,Klari,Jawa Barat,Daop I Jakarta,KLI,Beroperasi
+383,Klaten,Jawa Tengah,Daop VI Yogyakarta,KT,Beroperasi
+384,Klender,DKI Jakarta,Daop I Jakarta,KLD,Beroperasi
+385,Klender Baru,DKI Jakarta,Daop I Jakarta,KLDB,Beroperasi
+386,Klotok,Jawa Timur,Daop VIII Surabaya,KOK,Tidak beroperasi
+387,Kosambi,Jawa Barat,Daop I Jakarta,KOS,Beroperasi
+388,Kotapadang,Bengkulu,Divre III Palembang,KOP,Beroperasi
+389,Kotok,Jawa Timur,Daop IX Jember,KTK,Beroperasi
+390,Kradenan,Jawa Tengah,Daop IV Semarang,KNN,Beroperasi
+391,Kraksaan,Jawa Timur,Daop IX Jember,KR,Tidak beroperasi
+392,Kramat,DKI Jakarta,Daop I Jakarta,KMT,Beroperasi
+393,Kranggan,Jawa Tengah,Daop VI Yogyakarta,KEU,Tidak beroperasi
+394,Kranji,Jawa Barat,Daop I Jakarta,KRI,Beroperasi
+395,Kras,Jawa Timur,Daop VII Madiun,KRS,Beroperasi
+396,Kraton,Jawa Timur,Daop IX Jember,KN,Tidak beroperasi
+397,Krebet,Jawa Timur,Daop VIII Surabaya,KEE,Tidak beroperasi
+398,Krengseng,Jawa Tengah,Daop IV Semarang,KNS,Beroperasi
+399,Krenceng,Banten,Daop I Jakarta,KEN,Beroperasi
+400,Kretek,Jawa Tengah,Daop V Purwokerto,KRT,Beroperasi
+401,Krian,Jawa Timur,Daop VIII Surabaya,KRN,Beroperasi
+402,Krikilan,Jawa Timur,Daop IX Jember,KKL,Beroperasi
+403,Kronelan,Jawa Tengah,Daop VI Yogyakarta,KNL,Tidak beroperasi
+404,Kroya,Jawa Tengah,Daop V Purwokerto,KYA,Beroperasi
+405,Kudaile,Jawa Tengah,Daop V Purwokerto,KDE,Tidak beroperasi
+406,Kudus,Jawa Tengah,Daop IV Semarang,KS,Tidak beroperasi
+407,Kumendung,Jawa Timur,Daop VIII Surabaya,KMG,Tidak beroperasi
+408,Kunduran,Jawa Tengah,Daop IV Semarang,KDR,Tidak beroperasi
+409,Kuripan,Jawa Tengah,Daop IV Semarang,KRP,Beroperasi
+410,Kutoarjo,Jawa Tengah,Daop V Purwokerto,KTA,Beroperasi
+411,Kutowinangun,Jawa Tengah,Daop V Purwokerto,KWN,Beroperasi
+412,Kutu,D.I Yogyakarta,Daop VI Yogyakarta,KTU,Tidak beroperasi
+413,Kuwu,Jawa Tengah,Daop IV Semarang,KU,Tidak beroperasi
+414,Kwangen,Jawa Timur,Daop VIII Surabaya,KWA,Tidak beroperasi
+415,Kwanyar,Jawa Timur,Daop VIII Surabaya,KWR,Tidak beroperasi
+416,Labang,Jawa Timur,Daop VIII Surabaya,LAB,Tidak beroperasi
+417,Labruk,Jawa Timur,Daop IX Jember,LBK,Tidak beroperasi
+418,Labuan (Pandeglang),Banten,Daop I Jakarta,LBN,Tidak beroperasi
+419,Lamongan,Jawa Timur,Daop VIII Surabaya,LMG,Beroperasi
+420,Lampegan,Jawa Barat,Daop II Bandung,LP,Beroperasi
+421,Langen,Jawa Barat,Daop V Purwokerto,LN,Beroperasi
+422,Larangan (ke Smt),Jawa Tengah,Daop IV Semarang,LR,Beroperasi
+423,Larangan (ke Pwt),Jawa Tengah,Daop III Cirebon,LRA,Beroperasi
+424,Lasem,Jawa Tengah,Daop IV Semarang,LS,Tidak beroperasi
+425,Lawang,Jawa Timur,Daop VIII Surabaya,LW,Beroperasi
+426,Lebakjero,Jawa Barat,Daop II Bandung,LBJ,Beroperasi
+427,Lebeng,Jawa Tengah,Daop V Purwokerto,LBG,Beroperasi
+428,Leces,Jawa Timur,Daop IX Jember,LEC,Beroperasi
+429,Ledokombo,Jawa Timur,Daop IX Jember,LDO,Beroperasi
+430,Legok,Jawa Tengah,Daop V Purwokerto,LGK,Tidak beroperasi
+431,Leles,Jawa Barat,Daop II Bandung,LL,Beroperasi
+432,Lemahabang,Jawa Barat,Daop I Jakarta,LMB,Beroperasi
+433,Lempuyangan,D.I Yogyakarta,Daop VI Yogyakarta,LPN,Beroperasi
+434,Lenteng Agung,DKI Jakarta,Daop I Jakarta,LNA,Beroperasi
+435,Lespadangan,Jawa Timur,Daop VIII Surabaya,LES,Tidak beroperasi
+436,Leuwigoong,Jawa Barat,Daop II Bandung,LO,Beroperasi
+437,Linggapura,Jawa Tengah,Daop V Purwokerto,LG,Beroperasi
+438,Lobener,Jawa Barat,Daop III Cirebon,LB,Tidak beroperasi
+439,Losari,Jawa Barat,Daop III Cirebon,LOS,Beroperasi
+440,Lumajang,Jawa Timur,Daop IX Jember,LM,Tidak beroperasi
+441,Luwung,Jawa Barat,Daop III Cirebon,LWG,Tidak beroperasi
+442,Madiun,Jawa Timur,Daop VII Madiun,MN,Beroperasi
+443,Madiun Pasar,Jawa Timur,Daop VII Madiun,MNP,Tidak beroperasi
+444,Magelang Kota,Jawa Tengah,Daop VI Yogyakarta,MG,Tidak beroperasi
+445,Magelang Pasar,Jawa Tengah,Daop VI Yogyakarta,MGP,Tidak beroperasi
+446,Magetan,Jawa Timur,Daop VII Madiun,MAG,Beroperasi
+447,Maguwo,D.I Yogyakarta,Daop VI Yogyakarta,MGW,Beroperasi
+448,Maja,Banten,Daop I Jakarta,MJ,Beroperasi
+449,Majalaya,Jawa Barat,Daop II Bandung,MJA,Tidak beroperasi
+450,Malang,Jawa Timur,Daop VIII Surabaya,ML,Beroperasi
+451,Malang Jagalan,Jawa Timur,Daop VIII Surabaya,MLJ,Tidak beroperasi
+452,Malang Kotalama,Jawa Timur,Daop VIII Surabaya,MLK,Beroperasi
+453,Malasan,Jawa Timur,Daop IX Jember,MLS,Beroperasi
+454,Maleber,Jawa Barat,Daop II Bandung,MLB,Tidak beroperasi
+455,Malingping,Banten,Daop I Jakarta,MLP,Tidak beroperasi
+456,Mampang,DKI Jakarta,Daop I Jakarta,MPG,Tidak beroperasi
+457,Mandiraja,Jawa Tengah,Daop V Purwokerto,MRJ,Tidak beroperasi
+458,Manggarai,DKI Jakarta,Daop I Jakarta,MRI,Beroperasi
+459,Mangga Besar,DKI Jakarta,Daop I Jakarta,MGB,Beroperasi
+460,Mangkang,Jawa Tengah,Daop IV Semarang,MKG,Beroperasi
+461,Mangli,Jawa Timur,Daop IX Jember,MI,Beroperasi
+462,Manonjaya,Jawa Barat,Daop II Bandung,MNJ,Beroperasi
+463,Mantingan,Jawa Tengah,Daop IV Semarang,MNT,Tidak beroperasi
+464,Maos,Jawa Tengah,Daop V Purwokerto,MA,Beroperasi
+465,Margasari,Jawa Tengah,Daop V Purwokerto,MA,Tidak beroperasi
+466,Margorejo,Jawa Timur,Daop VIII Surabaya,MGJ,Tidak beroperasi
+467,Masaran,Jawa Tengah,Daop VI Yogyakarta,MSR,Beroperasi
+468,Maseng,Jawa Barat,Daop I Jakarta,MSG,Beroperasi
+469,Maswati,Jawa Barat,Daop II Bandung,MSI,Beroperasi
+470,Matraman,DKI Jakarta,Daop I Jakarta,MTR,Beroperasi
+471,Mayong,Jawa Tengah,Daop IV Semarang,MY,Tidak beroperasi
+472,Medari,Jawa Tengah,Daop VI Yogyakarta,MDI,Tidak beroperasi
+473,Meluwung,Jawa Tengah,Daop V Purwokerto,MLW,Beroperasi
+474,Menes,Banten,Daop I Jakarta,MNS,Tidak beroperasi
+475,Merak,Banten,Daop I Jakarta,MER,Beroperasi
+476,Merakurak,Jawa Timur,Daop VIII Surabaya,MKR,Tidak beroperasi
+477,Mesigit,Jawa Timur,Daop VIII Surabaya,MST,Beroperasi
+478,Mertoyudan,Jawa Tengah,Daop VI Yogyakarta,MTY,Tidak beroperasi
+479,Minggiran,Jawa Timur,Daop VII Madiun,MGN,Beroperasi
+480,Mlilir,Jawa Timur,Daop VII Madiun,MIL,Tidak beroperasi
+481,Mlati,D.I Yogyakarta,Daop VI Yogyakarta,MLI[c],Tidak beroperasi
+482,Mojoagung,Jawa Timur,Daop VIII Surabaya,MOJ,Tidak beroperasi
+483,Mojokerto,Jawa Timur,Daop VIII Surabaya,MR,Beroperasi
+484,Mojokerto Kota,Jawa Timur,Daop VIII Surabaya,MKT,Tidak beroperasi
+485,Mojosari,Jawa Timur,Daop VIII Surabaya,MJS,Tidak beroperasi
+486,Mojosongo,Jawa Tengah,Daop VI Yogyakarta,MOS,Tidak beroperasi
+487,Monggot,Jawa Tengah,Daop VI Yogyakarta,MGT,Tidak beroperasi
+488,Montelan,Jawa Tengah,Daop VI Yogyakarta,MTL,Tidak beroperasi
+489,Mrawan,Jawa Timur,Daop IX Jember,MRW,Beroperasi
+490,Mujur,Jawa Timur,Daop IX Jember,MJR,Tidak beroperasi
+491,Muntilan,Jawa Tengah,Daop VI Yogyakarta,MTN,Tidak beroperasi
+492,Nagreg,Jawa Barat,Daop II Bandung,NG,Beroperasi
+493,Nangkaan,Jawa Timur,Daop IX Jember,NKN,Tidak beroperasi
+494,Nambo,Jawa Barat,Daop I Jakarta,NMO,Beroperasi
+495,Ngabean,D.I Yogyakarta,Daop VI Yogyakarta,NBN,Tidak beroperasi
+496,Ngadiluwih,Jawa Timur,Daop VII Madiun,NDL,Beroperasi
+497,Ngagel,Jawa Timur,Daop VIII Surabaya,NGL,Tidak beroperasi
+498,Ngaloran,Jawa Tengah,Daop IV Semarang,NLR,Tidak beroperasi
+499,Nganjuk,Jawa Timur,Daop VII Madiun,NJ,Beroperasi
+500,Ngawen,Jawa Tengah,Daop IV Semarang,nan,Tidak beroperasi
+501,Ngawi,Jawa Timur,Daop VII Madiun,NGW,Beroperasi
+502,Ngebruk,Jawa Timur,Daop VIII Surabaya,NB,Beroperasi
+503,Ngemplak,Jawa Tengah,Daop IV Semarang,NPK,Tidak beroperasi
+504,Ngimbang,Jawa Timur,Daop VII Madiun,NBG,Tidak beroperasi
+505,Ngrombo,Jawa Tengah,Daop IV Semarang,NBO,Beroperasi
+506,Ngoro KSM,Jawa Timur,Daop VII Madiun,NGR,Tidak beroperasi
+507,Ngoro OJS,Jawa Timur,Daop VIII Surabaya,NRO,Tidak beroperasi
+508,Ngujang,Jawa Timur,Daop VII Madiun,NJG,Beroperasi
+509,Nguling,Jawa Timur,Daop IX Jember,NL,Tidak beroperasi
+510,Ngunut,Jawa Timur,Daop VII Madiun,NT,Beroperasi
+511,Nguntoronadi,Jawa Tengah,Daop VI Yogyakarta,NTN,Tidak beroperasi
+512,Notog,Jawa Tengah,Daop V Purwokerto,NTG,Beroperasi
+513,Pabuaran,Jawa Barat,Daop III Cirebon,PAB,Beroperasi
+514,Padaherang,Jawa Barat,Daop II Bandung,PAH,Tidak beroperasi
+515,Padalarang,Jawa Barat,Daop II Bandung,PDL,Beroperasi
+516,Padangan,Jawa Timur,Daop IV Semarang,PGN,Tidak beroperasi
+517,Padas,Jawa Tengah,Daop IV Semarang,PDS,Beroperasi
+518,Padayungan,Jawa Barat,Daop II Bandung,PDY,Tidak beroperasi
+519,Pagerwojo,Jawa Timur,Daop VIII Surabaya,PWJ[d],Tidak beroperasi
+520,Pagongan,Jawa Tengah,Daop V Purwokerto,PNG,Tidak beroperasi
+521,Pagotan,Jawa Timur,Daop VII Madiun,PGO,Tidak beroperasi
+522,Paiton,Jawa Timur,Daop IX Jember,PHT,Tidak beroperasi
+523,Pajarakan,Jawa Timur,Daop IX Jember,PJK,Tidak beroperasi
+524,Pakisaji,Jawa Timur,Daop VIII Surabaya,PSI,Beroperasi
+525,Palang,Jawa Timur,Daop VIII Surabaya,PAG,Tidak beroperasi
+526,Palbapang,D.I Yogyakarta,Daop VI Yogyakarta,PLP,Tidak beroperasi
+527,Palmerah,DKI Jakarta,Daop I Jakarta,PLM,Beroperasi
+528,Palur,Jawa Tengah,Daop VI Yogyakarta,PL,Beroperasi
+529,Pamekasan,Jawa Timur,Daop VIII Surabaya,PM,Tidak beroperasi
+530,Pamotan,Jawa Tengah,Daop IV Semarang,PMT,Tidak beroperasi
+531,Panarukan,Jawa Timur,Daop IX Jember,PNR,Tidak beroperasi
+532,Panarukan Pelabuhan,Jawa Timur,Daop IX Jember,PNRH,Tidak beroperasi
+533,Pandaan,Jawa Timur,Daop VIII Surabaya,PDA,Tidak beroperasi
+534,Pandeglang,Banten,Daop I Jakarta,PDG,Tidak beroperasi
+535,Pangandaran,Jawa Barat,Daop II Bandung,PND,Tidak beroperasi
+536,Panji,Jawa Timur,Daop IX Jember,PJI,Tidak beroperasi
+537,Panunggalan,Jawa Tengah,Daop IV Semarang,PNL,Beroperasi
+538,Panyuran,Jawa Timur,Daop VIII Surabaya,PYR,Tidak beroperasi
+539,Papar,Jawa Timur,Daop VII Madiun,PPR,Beroperasi
+540,Parakan,Jawa Tengah,Daop VI Yogyakarta,PRN,Tidak beroperasi
+541,Pare,Jawa Timur,Daop VII Madiun,PE,Tidak beroperasi
+542,Parigi,Jawa Barat,Daop II Bandung,PAR,Tidak beroperasi
+543,Parung Kuda,Jawa Barat,Daop I Jakarta,PRK,Beroperasi
+544,Parung Panjang,Jawa Barat,Daop I Jakarta,PRP,Beroperasi
+545,Pasar Bantul,D.I Yogyakarta,Daop VI Yogyakarta,PBL,Tidak beroperasi
+546,Pasargede,D.I Yogyakarta,Daop VI Yogyakarta,PAD,Tidak beroperasi
+547,Pasarkliwon,Jawa Tengah,Daop V Purwokerto,PKW,Tidak beroperasi
+548,Pasar Minggu,DKI Jakarta,Daop I Jakarta,PSM,Beroperasi
+549,Pasar Minggu Baru,DKI Jakarta,Daop I Jakarta,PSMB,Beroperasi
+550,Pasarnguter,Jawa Tengah,Daop VI Yogyakarta,PNT,Beroperasi
+551,Pasar Senen,DKI Jakarta,Daop I Jakarta,PSE,Beroperasi
+552,Pasirbungur,Jawa Barat,Daop III Cirebon,PAS,Beroperasi
+553,Pasirhayam,Jawa Barat,Daop II Bandung,PH,Tidak beroperasi
+554,Pasirjengkol,Jawa Barat,Daop II Bandung,PSJ,Beroperasi
+555,Pasirian,Jawa Timur,Daop IX Jember,PSR,Tidak beroperasi
+556,Pasoso,DKI Jakarta,Daop I Jakarta,POO,Beroperasi
+557,Pasuruan,Jawa Timur,Daop IX Jember,PS,Beroperasi
+558,Pasuruan Pelabuhan,Jawa Timur,Daop IX Jember,PSH,Tidak beroperasi
+559,Pati,Jawa Tengah,Daop IV Semarang,PT,Tidak beroperasi
+560,Patikraja,Jawa Tengah,Daop V Purwokerto,PTR,Tidak beroperasi
+561,Patuguran,Jawa Tengah,Daop V Purwokerto,PAT,Beroperasi
+562,Patukan,D.I Yogyakarta,Daop VI Yogyakarta,PTN,Beroperasi
+563,Payaman,Jawa Tengah,Daop VI Yogyakarta,PYM,Tidak beroperasi
+564,Pegaden Baru,Jawa Barat,Daop III Cirebon,PGB,Beroperasi
+565,Pegangsaan,DKI Jakarta,Daop I Jakarta,PGS,Tidak beroperasi
+566,Pehsentee,Jawa Timur,Daop VII Madiun,PST,Tidak beroperasi
+567,Pekalongan,Jawa Tengah,Daop IV Semarang,PK,Beroperasi
+568,Pekalongan Pelabuhan,Jawa Tengah,Daop IV Semarang,-,Tidak beroperasi
+569,Pelem,Jawa Timur,Daop VII Madiun,PEL,Tidak beroperasi
+570,Pemalang,Jawa Tengah,Daop IV Semarang,PML,Beroperasi
+571,Pendrikan,Jawa Tengah,Daop IV Semarang,-,Tidak beroperasi
+572,Perning,Jawa Timur,Daop VIII Surabaya,PEN,Tidak beroperasi
+573,Pesantren,Jawa Timur,Daop VII Madiun,PES,Tidak beroperasi
+574,Pesing,DKI Jakarta,Daop I Jakarta,PSG,Beroperasi
+575,Petarukan,Jawa Tengah,Daop IV Semarang,PTA,Beroperasi
+576,Peterongan,Jawa Timur,Daop VII Madiun,PTR,Beroperasi
+577,Petung,Jawa Timur,Daop IX Jember,PET,Tidak beroperasi
+578,Pirusa,Jawa Barat,Daop II Bandung,PSA,Tidak beroperasi
+579,Plabuan,Jawa Tengah,Daop IV Semarang,PLB,Beroperasi
+580,Plampangan,Jawa Timur,Daop VIII Surabaya,PAG,Tidak beroperasi
+581,Plered,Jawa Barat,Daop II Bandung,PLD,Beroperasi
+582,Ploso,Jawa Timur,Daop VII Madiun,POS,Tidak beroperasi
+583,Plumpang,Jawa Timur,Daop VIII Surabaya,PMG,Tidak beroperasi
+584,Pohgajih,Jawa Timur,Daop VIII Surabaya,PGJ,Beroperasi
+585,Pondok Cina,Jawa Barat,Daop I Jakarta,POC,Beroperasi
+586,Pondok Jati,DKI Jakarta,Daop I Jakarta,POK,Beroperasi
+587,Pondok Leungsir,Jawa Barat,Daop I Jakarta,PON,Tidak beroperasi
+588,Pondok Ranji,Banten,Daop I Jakarta,PDJ,Beroperasi
+589,Pondok Rajeg,Jawa Barat,Daop I Jakarta,PDRG,Reaktivasi
+590,Pondok Terong,Jawa Barat,Daop I Jakarta,PTO,Tidak beroperasi
+591,Ponorogo,Jawa Timur,Daop VII Madiun,PO,Tidak beroperasi
+592,Porong,Jawa Timur,Daop VIII Madiun,PR,Beroperasi
+593,Poris,Banten,Daop I Jakarta,PI,Beroperasi
+594,Prajekan,Jawa Timur,Daop IX Jember,PRJ,Tidak beroperasi
+595,Prambon,Jawa Timur,Daop VIII Surabaya,PBN,Tidak beroperasi
+596,Prembun,Jawa Tengah,Daop V Purwokerto,PRB,Beroperasi
+597,Pringkasap,Jawa Barat,Daop III Cirebon,PRI,Beroperasi
+598,Probolinggo,Jawa Timur,Daop IX Jember,PB,Beroperasi
+599,Probolinggo Pelabuhan,Jawa Timur,Daop IX Jember,PBH,Tidak beroperasi
+600,Prupuk,Jawa Tengah,Daop V Purwokerto,PPK,Beroperasi
+601,Puger,Jawa Timur,Daop IX Jember,-,Tidak beroperasi
+602,Pugeran,Jawa Timur,Daop VIII Surabaya,PGR,Tidak beroperasi
+603,Pulorejo,Jawa Timur,Daop VII Madiun,PLR,Tidak beroperasi
+604,Pundong,D.I Yogyakarta,Daop VI Yogyakarta,PUG,Tidak beroperasi
+605,Purbalingga,Jawa Tengah,Daop V Purwokerto,PBG,Tidak beroperasi
+606,Purwareja,Jawa Tengah,Daop V Purwokerto,PWJ[f],Tidak beroperasi
+607,Purwakarta,Jawa Barat,Daop II Bandung,PWK,Beroperasi
+608,Purwoasri,Jawa Timur,Daop VII Madiun,PWA,Beroperasi
+609,Purwodadi,Jawa Tengah,Daop IV Semarang,PW,Tidak beroperasi
+610,Purwokerto,Jawa Tengah,Daop V Purwokerto,PWT,Beroperasi
+611,Purwokerto Timur,Jawa Tengah,Daop V Purwokerto,PKT[g],Tidak beroperasi
+612,Purwonegoro,Jawa Tengah,Daop V Purwokerto,PRW,Tidak beroperasi
+613,Purworejo,Jawa Tengah,Daop V Purwokerto,PWR,Tidak beroperasi
+614,Purwosari,Jawa Tengah,Daop VI Yogyakarta,PWS,Beroperasi
+615,Pucuk,Jawa Timur,Daop VIII Surabaya,PC,Beroperasi
+616,Rajamandala,Jawa Barat,Daop II Bandung,RM,Beroperasi terbatas
+617,Rajapolah,Jawa Barat,Daop II Bandung,RJP,Beroperasi
+618,Rajawali,DKI Jakarta,Daop I Jakarta,RJW,Beroperasi
+619,Rambipuji,Jawa Timur,Daop IX Jember,RBP,Beroperasi
+620,Rancaekek,Jawa Barat,Daop II Bandung,RCK,Beroperasi
+621,Randegan,Jawa Tengah,Daop V Purwokerto,RDN,Beroperasi
+622,Randuagung,Jawa Timur,Daop IX Jember,RDA,Beroperasi
+623,Randublatung,Jawa Tengah,Daop IV Semarang,RBG,Beroperasi
+624,Rangkasbitung,Banten,Daop I Jakarta,RK,Beroperasi
+625,Ranji,Jawa Barat,Daop II Bandung,RI,Tidak beroperasi
+626,Ranuyoso,Jawa Timur,Daop IX Jember,RN,Beroperasi
+627,Rawatamtu,Jawa Timur,Daop IX Jember,RWT,Tidak beroperasi
+628,Rawabebek,Jawa Barat,Daop I Jakarta,RWB,Tidak beroperasi
+629,Rawa Buntu,Banten,Daop I Jakarta,RU,Beroperasi
+630,Rawa Buaya,DKI Jakarta,Daop I Jakarta,RW,Beroperasi
+631,Rejoso,Jawa Timur,Daop IX Jember,RO,Beroperasi
+632,Rejotangan,Jawa Timur,Daop VII Madiun,RJ,Beroperasi
+633,Rembang,Jawa Tengah,Daop IV Semarang,RB,Tidak beroperasi
+634,Rembang Pelabuhan,Jawa Tengah,Daop IV Semarang,RPB,Tidak beroperasi
+635,Rendeh,Jawa Barat,Daop II Bandung,RH,Beroperasi
+636,Rengasdengklok,Jawa Barat,Daop I Jakarta,RDK,Tidak beroperasi
+637,Rengasbandung,Jawa Barat,Daop I Jakarta,RBG,Tidak beroperasi
+638,Rewulu,D.I Yogyakarta,Daop VI Yogyakarta,RWL,Beroperasi
+639,Roban,Jawa Tengah,Daop IV Semarang,RBN,Tidak beroperasi
+640,Rogojampi,Jawa Timur,Daop IX Jember,RGP,Beroperasi
+641,Sadang,Jawa Barat,Daop II Bandung,SAD,Tidak beroperasi
+642,Saketi,Banten,Daop I Jakarta,STI,Tidak beroperasi
+643,Salem,Jawa Tengah,Daop VI Yogyakarta,SLM,Beroperasi
+644,Salemba,DKI Jakarta,Daop I Jakarta,SLB,Tidak beroperasi
+645,Samarang,Jawa Tengah,Daop IV Semarang,-,Tidak beroperasi
+646,Sampang,Jawa Timur,Daop VIII Surabaya,SPG,Tidak beroperasi
+647,Saradan,Jawa Timur,Daop VII Madiun,SRD,Beroperasi
+648,Sasaksaat,Jawa Barat,Daop II Bandung,SKT,Beroperasi
+649,Sawah Besar,DKI Jakarta,Daop I Jakarta,SWB,Beroperasi
+650,Sawotratap,Jawa Timur,Daop VIII Surabaya,STP,Tidak beroperasi
+651,Sayung,Jawa Tengah,Daop IV Semarang,SYG,Tidak beroperasi
+652,Secang,Jawa Tengah,Daop VI Yogyakarta,SCA,Tidak beroperasi
+653,Sedadi,Jawa Tengah,Daop IV Semarang,SDI,Beroperasi
+654,Sedayu (ke Dpt),Jawa Timur,Daop VIII Surabaya,SEA,Tidak beroperasi
+655,Sedayu (ke Yk),D.I Yogyakarta,Daop VI Yogyakarta,SDY,Tidak beroperasi
+656,Selajambe,Jawa Barat,Daop II Bandung,SLJ,Tidak beroperasi
+657,Semarang Gudang,Jawa Tengah,Daop IV Semarang,SMG,Tidak beroperasi
+658,Semarang Pelabuhan,Jawa Tengah,Daop IV Semarang,SMH,Tidak beroperasi
+659,Semarang Poncol,Jawa Tengah,Daop IV Semarang,SMC,Beroperasi
+660,Semarang Tawang,Jawa Tengah,Daop IV Semarang,SMT,Beroperasi
+661,Sembung (Bj),Jawa Timur,Daop VIII Surabaya,SEG,Tidak beroperasi
+662,Sembung (Jg),Jawa Timur,Daop VII Madiun,SMB,Beroperasi
+663,Semen,Jawa Tengah,Daop VI Yogyakarta,SEM,Tidak beroperasi
+664,Sempolan,Jawa Timur,Daop IX Jember,SPL,Beroperasi
+665,Sengon,Jawa Timur,Daop VIII Surabaya,SN,Beroperasi
+666,Sentolo,D.I Yogyakarta,Daop VI Yogyakarta,STL,Beroperasi
+667,Sepanjang,Jawa Timur,Daop VIII Surabaya,SPJ,Beroperasi
+668,Serang,Banten,Daop I Jakarta,SG,Beroperasi
+669,Serpong,Banten,Daop I Jakarta,SRP,Beroperasi
+670,Sewugalur,D.I Yogyakarta,Daop VI Yogyakarta,-,Tidak beroperasi
+671,Sidareja,Jawa Tengah,Daop V Purwokerto,SDR,Beroperasi
+672,Sidoarjo,Jawa Timur,Daop VIII Surabaya,SDA,Beroperasi
+673,Sidotopo,Jawa Timur,Daop VIII Surabaya,SDT,Beroperasi
+674,Sikampuh,Jawa Tengah,Daop V Purwokerto,SKP,Beroperasi
+675,Silebu,Banten,Daop I Jakarta,SIB,Tidak beroperasi
+676,Sindanglaut,Jawa Barat,Daop III Cirebon,SDU,Beroperasi
+677,Sindanglaut SCS,Jawa Barat,Daop III Cirebon,-,Tidak beroperasi
+678,Singaparna,Jawa Barat,Daop II Bandung,SPA,Tidak beroperasi
+679,Singojuruh,Jawa Timur,Daop IX Jember,SGJ,Beroperasi
+680,Singosari,Jawa Timur,Daop VIII Surabaya,SGS,Beroperasi
+681,Sitinggil,Jawa Tengah,Daop V Purwokerto,SIL,Tidak beroperasi
+682,Situbondo,Jawa Timur,Daop IX Jember,SIT,Tidak beroperasi
+683,Situbondo Gudang,Jawa Timur,Daop IX Jember,SITG,Tidak beroperasi
+684,Slahung,Jawa Timur,Daop VII Madiun,SLH,Tidak beroperasi
+685,Slawi,Jawa Tengah,Daop V Purwokerto,SLW,Beroperasi
+686,Sleko,Jawa Timur,Daop VII Madiun,SLE,Tidak beroperasi
+687,Sleman,D.I Yogyakarta,Daop VI Yogyakarta,SMN,Tidak beroperasi
+688,Soekarno-Hatta,Banten,Daop I Jakarta,BST,Beroperasi
+689,Socah,Jawa Timur,Daop VIII Surabaya,SOC,Tidak beroperasi
+690,Soka,Jawa Tengah,Daop V Purwokerto,SOA,Tidak Beroperasi
+691,Sokaraja,Jawa Tengah,Daop V Purwokerto,SOK,Tidak beroperasi
+692,Solo Balapan,Jawa Tengah,Daop VI Yogyakarta,SLO,Beroperasi
+693,Solo Jebres,Jawa Tengah,Daop VI Yogyakarta,SK,Beroperasi
+694,Solo-Kota,Jawa Tengah,Daop VI Yogyakarta,SKA,Beroperasi
+695,Songgom,Jawa Tengah,Daop III Cirebon,SGG,Beroperasi
+696,Soreang (Bd),Jawa Barat,Daop II Bandung,SRG,Tidak beroperasi
+697,Sragen,Jawa Tengah,Daop VI Yogyakarta,SR,Beroperasi
+698,Sragi,Jawa Tengah,Daop IV Semarang,SRI,Beroperasi
+699,Srandakan,D.I Yogyakarta,Daop VI Yogyakarta,-,Tidak beroperasi
+700,Srono,Jawa Timur,Daop IX Jember,SRO,Tidak beroperasi
+701,Sroyo,Jawa Timur,Daop VIII Surabaya,SYO,Tidak beroperasi
+702,Srowot,Jawa Tengah,Daop VI Yogyakarta,SWT,Beroperasi
+703,Sruweng,Jawa Tengah,Daop V Purwokerto,SRW,Beroperasi
+704,Sudimara,Banten,Daop I Jakarta,SDM,Beroperasi
+705,Sudirman,DKI Jakarta,Daop I Jakarta,SUD,Beroperasi
+706,"Sudirman Baru
+BNI City",DKI Jakarta,Daop I Jakarta,SUDB,Beroperasi
+707,Sukabumi,Jawa Barat,Daop I Jakarta,SI,Beroperasi
+708,Sukatani,Jawa Barat,Daop II Bandung,SUT,Beroperasi
+709,Sukodono,Jawa Timur,Daop IX Jember,SKO,Tidak beroperasi
+710,Sukoharjo,Jawa Tengah,Daop VI Yogyakarta,SKH,Beroperasi
+711,Sukolilo,Jawa Timur,Daop VIII Surabaya,SLL,Tidak beroperasi
+712,Sukomoro,Jawa Timur,Daop VII Madiun,SKM,Beroperasi
+713,Sukorejo,Jawa Timur,Daop VIII Surabaya,SKJ,Beroperasi
+714,Sukosari,Jawa Timur,Daop IX Jember,SSR,Tidak beroperasi
+715,Sukowono,Jawa Timur,Daop IX Jember,SKW,Tidak beroperasi
+716,Sulur,Jawa Tengah,Daop IV Semarang,SL,Beroperasi
+717,Sumberbaru,Jawa Timur,Daop IX Jember,SBB,Tidak beroperasi
+718,Sumbergempol,Jawa Timur,Daop VII Madiun,SBL,Beroperasi
+719,Sumberlawang,Jawa Tengah,Daop VI Yogyakarta,SUM,Beroperasi
+720,Sumberpucung,Jawa Timur,Daop VIII Surabaya,SBP,Beroperasi
+721,Sumberrejo,Jawa Timur,Daop VIII Surabaya,SRJ,Beroperasi
+722,Sumbersalak,Jawa Timur,Daop IX Jember,SBS,Tidak beroperasi
+723,Sumberwadung,Jawa Timur,Daop IX Jember,SWD,Beroperasi
+724,Sumenep,Jawa Timur,Daop VIII Surabaya,SMP,Tidak beroperasi
+725,Sumlaran,Jawa Timur,Daop VIII Surabaya,SLR,Tidak beroperasi
+726,Sumobito,Jawa Timur,Daop VII Madiun,SBO,Beroperasi
+727,Sumoroto,Jawa Timur,Daop VII Madiun,SMO,Tidak beroperasi
+728,Sumpiuh,Jawa Tengah,Daop V Purwokerto,SPH,beroperasi
+729,Sungai Lagoa,DKI Jakarta,Daop I Jakarta,SAO,Beroperasi
+730,Sungai Tirem,DKI Jakarta,Daop I Jakarta,SGT,Tidak beroperasi
+731,Surabaya Gubeng,Jawa Timur,Daop VIII Surabaya,SGU,Beroperasi
+732,Surabaya Kota,Jawa Timur,Daop VIII Surabaya,SB,Beroperasi
+733,Surabaya Pasarturi,Jawa Timur,Daop VIII Surabaya,SBI,Beroperasi
+734,Surabayan,Jawa Timur,Daop VIII Surabaya,SBN,Beroperasi
+735,Suradadi,Jawa Tengah,Daop IV Semarang,SD,Beroperasi
+736,Susuhan,Jawa Timur,Daop VII Madiun,SS,Beroperasi
+737,Tagogapu,Jawa Barat,Daop II Bandung,TAU,Beroperasi terbatas
+738,Talun,Jawa Timur,Daop VII Madiun,TAL,Beroperasi
+739,Tamanan,Jawa Timur,Daop IX Jember,TMN,Tidak beroperasi
+740,Taman Kota,DKI Jakarta,Daop I Jakarta,TKO,Beroperasi
+741,Tambak,Jawa Tengah,Daop V Purwokerto,TBK,Beroperasi
+742,Tambun,Jawa Barat,Daop I Jakarta,TB,Beroperasi
+743,Tanahabang,DKI Jakarta,Daop I Jakarta,THB,Beroperasi
+744,Tanah Tinggi,Banten,Daop I Jakarta,TTI,Beroperasi
+745,Tandes,Jawa Timur,Daop VIII Surabaya,TES,Beroperasi
+746,Tangsil,Jawa Timur,Daop IX Jember,TGS[k],Tidak beroperasi
+747,Tanjakan Empang,Jawa Barat,Daop I Jakarta,TEP,Tidak beroperasi
+748,Tanjung (ke Cn),Jawa Tengah,Daop III Cirebon,TGN,Beroperasi
+749,Tanjung Barat,DKI Jakarta,Daop I Jakarta,TNT,Beroperasi
+750,Tanjung Priok,DKI Jakarta,Daop I Jakarta,TPK,Beroperasi
+751,Tanjungpriok Pelabuhan,DKI Jakarta,Daop I Jakarta,TPH,Tidak beroperasi
+752,Tanjungrasa,Jawa Barat,Daop III Cirebon,TJS,Beroperasi
+753,Tanjungsari,Jawa Barat,Daop II Bandung,-,Tidak beroperasi
+754,Tangerang,Banten,Daop I Jakarta,TNG,Beroperasi
+755,Tanggul,Jawa Timur,Daop IX Jember,TGL,Beroperasi
+756,Tanggulangin,Jawa Timur,Daop VIII Surabaya,TGA,Beroperasi
+757,Tanggung,Jawa Tengah,Daop IV Semarang,TGG,Beroperasi
+758,Tapen,Jawa Timur,Daop IX Jember,TAP,Tidak beroperasi
+759,Tarik,Jawa Timur,Daop VIII Surabaya,TRK,Beroperasi
+760,Tasikmalaya,Jawa Barat,Daop II Bandung,TSM,Beroperasi
+761,Tasikmalaya Pasar,Jawa Barat,Daop II Bandung,TSP,Tidak beroperasi
+762,Tayu,Jawa Tengah,Daop IV Semarang,TAY,Tidak beroperasi
+763,Tebet,DKI Jakarta,Daop I Jakarta,TEB,Beroperasi
+764,Tegal,Jawa Tengah,Daop IV Semarang,TG,Beroperasi
+765,Tegal Gudang,Jawa Tengah,Daop IV Semarang,TGD,Tidak beroperasi
+766,Tegal Pelabuhan,Jawa Tengah,Daop IV Semarang,-,Tidak beroperasi
+767,Tegalsari,Jawa Tengah,Daop VI Yogyakarta,TSI,Tidak beroperasi
+768,Tegowanu,Jawa Tengah,Daop IV Semarang,TGW,Beroperasi
+769,Tekaran,Jawa Tengah,Daop VI Yogyakarta,TER,Tidak beroperasi
+770,Tekung,Jawa Timur,Daop IX Jember,TKU,Tidak beroperasi
+771,Telagamurni/Metland Telagamurni,Jawa Barat,Daop I Jakarta,MTM/TLM,Beroperasi
+772,Telagasari,Jawa Barat,Daop III Cirebon,TLS,Beroperasi
+773,Telang,Jawa Timur,Daop VIII Surabaya,TLA,Tidak beroperasi
+774,Telawa,Jawa Tengah,Daop IV Semarang,TW,Beroperasi
+775,Temanggung,Jawa Tengah,Daop VI Yogyakarta,TMG,Tidak beroperasi
+776,Tempeh,Jawa Timur,Daop IX Jember,TPE,Tidak beroperasi
+777,Tempel,Jawa Tengah,Daop VI Yogyakarta,TPL,Tidak beroperasi
+778,Tempuran,Jawa Tengah,Daop IV Semarang,TPN,Tidak beroperasi
+779,Temuguruh,Jawa Timur,Daop IX Jember,TGR,Beroperasi
+780,Tenjo,Jawa Barat,Daop I Jakarta,TEJ,Beroperasi
+781,Tengor,Jawa Timur,Daop VIII Surabaya,TEN,Tidak beroperasi
+782,Terisi,Jawa Barat,Daop III Cirebon,TIS,Beroperasi
+783,Tigaraksa,Banten,Daop I Jakarta,TGS[l],Beroperasi
+784,Tobo,Jawa Timur,Daop VIII Surabaya,TBO,Beroperasi
+785,Tonjong Baru,Banten,Daop I Jakarta,TOJB,Beroperasi
+786,Torjun,Jawa Timur,Daop VIII Surabaya,TRJ,Tidak beroperasi
+787,Trenggalek,Jawa Timur,Daop VII Madiun,TRG,Tidak beroperasi
+788,Tribungan,Jawa Timur,Daop IX Jember,TBG,Tidak beroperasi
+789,Tuban,Jawa Timur,Daop VIII Surabaya,TN,Tidak beroperasi
+790,Tugu[m],Jawa Timur,Daop VII Madiun,TGU,Tidak beroperasi
+791,Tulangan,Jawa Timur,Daop VIII Surabaya,TLN,Beroperasi
+792,Tulungagung,Jawa Timur,Daop VII Madiun,TA,Beroperasi
+793,Tumpang,Jawa Timur,Daop VIII Surabaya,TMP,Tidak beroperasi
+794,Tuntang,Jawa Tengah,Daop IV Semarang,TTG,Beroperasi terbatas
+795,Tutul,Jawa Timur,Daop IX Jember,TTU,Tidak beroperasi
+796,Ujung,Jawa Timur,Daop VIII Surabaya,UJ,Tidak beroperasi
+797,Ujunggede,Jawa Tengah,Daop IV Semarang,UGD,Tidak beroperasi
+798,Ujungnegoro,Jawa Tengah,Daop IV Semarang,UJN,Beroperasi
+799,Universitas Indonesia,Jawa Barat,Daop I Jakarta,UI,Beroperasi
+800,Universitas Pancasila,DKI Jakarta,Daop I Jakarta,UP,Beroperasi
+801,Wadas,Jawa Barat,Daop I Jakarta,WDS,Tidak beroperasi
+802,Wadu,Jawa Tengah,Daop IV Semarang,WDU,Beroperasi
+803,Walantaka,Banten,Daop I Jakarta,WLT,Beroperasi
+804,Walikukun,Jawa Timur,Daop VII Madiun,WK,Beroperasi
+805,Wanaraja,Jawa Barat,Daop II Bandung,WNR,Beroperasi
+806,Waru (Pekalongan),Jawa Tengah,Daop IV Semarang,WU,Tidak beroperasi
+807,Waru (Sidoarjo),Jawa Timur,Daop VIII Surabaya,WR,Beroperasi
+808,Waruduwur,Jawa Barat,Daop III Cirebon,WDW,Beroperasi
+809,Warungbandrek,Jawa Barat,Daop II Bandung,WB,Beroperasi
+810,Warungdowo,Jawa Timur,Daop IX Jember,WDO,Tidak beroperasi
+811,Wates (Kediri),Jawa Timur,Daop VII Madiun,WAT,Tidak beroperasi
+812,Wates (Kulon Progo),D.I Yogyakarta,Daop VI Yogyakarta,WT,Beroperasi
+813,Weleri,Jawa Tengah,Daop IV Semarang,WLR,Beroperasi
+814,Widuri,Jawa Timur,Daop IX Jember,WDR,Tidak beroperasi
+815,Wilangan,Jawa Timur,Daop VII Madiun,WLG,Tidak beroperasi
+816,Winongan,Jawa Timur,Daop IX Jember,WON,Tidak beroperasi
+817,Winongo,D.I Yogyakarta,Daop VI Yogyakarta,WGO,Tidak beroperasi
+818,Wirosari,Jawa Tengah,Daop IV Semarang,WLS,Tidak beroperasi
+819,Wlingi,Jawa Timur,Daop VIII Surabaya,WG,Beroperasi
+820,Wojo,Jawa Tengah,Daop VI Yogyakarta,WJ,Beroperasi
+821,Wonogiri,Jawa Tengah,Daop VI Yogyakarta,WNG,Beroperasi
+822,Wonokasihan,Jawa Timur,Daop VII Madiun,WKN,Tidak beroperasi
+823,Wonokerto,Jawa Timur,Daop VIII Surabaya,WN,Beroperasi
+824,Wonokromo,Jawa Timur,Daop VIII Surabaya,WO,Beroperasi
+825,Wonokromo Kota,Jawa Timur,Daop VIII Surabaya,WOK,Tidak beroperasi
+826,Wonopringgo,Jawa Tengah,Daop IV Semarang,WPO,Tidak beroperasi
+827,Wonorejo,Jawa Timur,Daop IX Jember,WRO,Tidak beroperasi
+828,Wonosari,Jawa Tengah,Daop V Purwokerto,WNS,Beroperasi
+829,Wonosobo,Jawa Tengah,Daop V Purwokerto,WS,Tidak beroperasi
+830,Yogyakarta,D.I Yogyakarta,Daop VI Yogyakarta,YK,Beroperasi
+831,Yosowilangun,Jawa Timur,Daop IX Jember,YWL,Tidak beroperasi
