@@ -1,5 +1,6 @@
 import pandas as pd
 import re
+import sys
 
 from constants import kanumber_page_mapping
 
@@ -110,12 +111,28 @@ def split_into_blocks(df):
         blocks.append(pd.DataFrame(current_block_rows, columns=df.columns))
     return blocks
 
+# Parse command-line arguments.
+# Expected usage: python scrape_pdf.py <start_index> <end_index>
+if len(sys.argv) >= 3:
+    start_index = int(sys.argv[1])
+    end_index = int(sys.argv[2])
+else:
+    # If not provided, process all entries.
+    start_index = 0
+    end_index = len(kanumber_page_mapping) - 1
 
-for kanumbers, pages in kanumber_page_mapping.items():
+# Filter the mapping based on the provided indices.
+mapping_keys = list(kanumber_page_mapping.keys())
+filtered_keys = mapping_keys[start_index : end_index + 1]
+
+# Build a filtered mapping dictionary
+filtered_mapping = {key: kanumber_page_mapping[key] for key in filtered_keys}
+
+for kanumbers, pages in filtered_mapping.items():
     page_start, page_end = pages
     pages = ",".join([str(i) for i in range(page_start, page_end + 1)])
 
-    df = pd.read_csv(f"page{page_start}-{page_end}.csv")
+    df = pd.read_csv(f"parsed/page/page{page_start}-{page_end}.csv")
     df = clean_initial_dataframe(df)
     df = clean_no_and_stasiun(df)
     df_blocks = split_into_blocks(df)
@@ -127,4 +144,4 @@ for kanumbers, pages in kanumber_page_mapping.items():
 
     # Save each block to a separate CSV file
     for kanumber, block in zip(kanumbers, df_blocks):
-        block.to_csv(f"KA/KA{kanumber}.csv", index=False)
+        block.to_csv(f"parsed/KA/KA{kanumber}.csv", index=False)

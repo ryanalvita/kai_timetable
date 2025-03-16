@@ -31,6 +31,6 @@ for kanumber, pages in filtered_mapping.items():
     for table in tables:
         df = pd.concat([df, table.df])
 
-    output_filename = f"page/page{page_start}-{page_end}.csv"
+    output_filename = f"parsed/page/page{page_start}-{page_end}.csv"
     df.to_csv(output_filename, index=False)
     print(f"Saved {output_filename}")
