@@ -35,6 +35,8 @@ No.,Stasiun dan Perhentian,Datang,Berangkat,Keterangan
 19,Semarang Poncol (SMC),09:29:00,09:34:00,// KA 2704 (KA 2704 =)
 20,Semarang Tawang (SMT),09:42:00,,
 No.,Stasiun dan Perhentian,Datang,Berangkat,Keterangan
+1,Semarang Tawang (SMT),,10:40:00,
+2,Semarang Poncol (SMC),10:46:00,10:51:00,
 3,Jerakah (JRK),Ls,10:58:00,
 4,Mangkang (MKG),Ls,11:03:00,
 5,Kaliwungu (KLN),Ls,11:08:00,
