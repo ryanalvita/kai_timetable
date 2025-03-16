@@ -1,0 +1,50 @@
+0,1,2,3,4
+No.,Stasiun dan Perhentian,Datang,Berangkat,Keterangan
+1,Surabayagubeng (SGU),,10:10:00,
+2,Ngagel (NGA),Ls,-,
+,3  Wonokromo (WO),Ls,10:16:00,(KA 464X)
+4,Margorejo (MGR),Ls,-,
+5,Jemursari (JMS),Ls,-,
+6,Kertomenanggal (KTL),Ls,-,
+7  Waru (WR),,Ls,10:22:00,
+8,Sawotratap (STP),Ls,-,
+9,Gedangan (GDG),Ls,10:26:00,
+,10  Banjarkemantren (BJK),Ls,-,
+11  Buduran (BDR),,Ls,-,
+12,Pagerwojo (PWJ),Ls,-,
+13,Sidoarjo (SDA),10:35:00,10:39:00,X KA 2630 (KA 2630 X)
+14,Tanggulangin (TGA),Ls,10:45:00,X KA 456 (KA 456 X)
+15,Porong (PR),Ls,10:48:00,
+16  Bangil (BG),,11:01:00,11:06:00,(KA 250 X)
+17  Wonokerto (WN),,Ls,11:16:00,
+18,Sukorejo (SKJ),Ls,11:25:00,
+19,Sengon (SN),Ls,11:29:00,
+20,Lawang (LW),11:41:00,11:44:00,
+21,Singosari (SGS),Ls,11:53:00,
+22  Blimbing (BMG),,Ls,11:59:00,X KA 402 (KA 402 X)
+23  Malang (ML),,12:06:00,,
+No.,Stasiun dan Perhentian,Datang,Berangkat,Keterangan
+1,Malang (ML),,05:30:00,
+2,Blimbing (BMG),Ls,05:36:00,
+3,Singosari (SGS),Ls,05:43:00,
+4,Lawang (LW),05:53:00,05:57:00,X KA 2637 (KA 2637 X)
+5,Sengon (SN),Ls,06:08:00,
+6,Sukorejo (SKJ),Ls,06:13:00,
+,7  Wonokerto (WN),Ls,06:21:00,X KA 425 (KA 425 X)
+8,Bangil (BG),06:31:00,06:35:00,X KA 33
+9,Porong (PR),Ls,06:49:00,X KA 297 (KA 297 X)
+10,Tanggulangin (TGA),Ls,06:52:00,
+11,Sidoarjo (SDA),06:58:00,07:04:00,X KA 445
+12,Pagerwojo (PWJ),Ls,-,
+13  Buduran (BDR),,Ls,-,
+,14  Banjarkemantren (BJK),Ls,-,
+15  Gedangan (GDG),,Ls,07:12:00,
+16,Sawotratap (STP),Ls,-,
+No.,Stasiun dan Perhentian,Datang,Berangkat,Keterangan
+17  Waru (WR),,Ls,07:16:00,
+,18  Kertomenanggal (KTL),Ls,-,
+19,Jemursari (JMS),Ls,-,
+20  Margorejo (MGR),,Ls,-,
+21  Wonokromo (WO),,Ls,07:23:00,
+22  Ngagel (NGA),,Ls,-,
+23,Surabayagubeng (SGU),07:29:00,,
