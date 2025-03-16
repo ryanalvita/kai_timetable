@@ -1,0 +1,26 @@
+No.,Stasiun,Datang,Berangkat,Keterangan
+1,Cirebon Prujakan (CNP),,09:20:00,
+2,Waruduwur (WDW),Ls,09:29:00,
+3,Babakan (BBK),09:40:00,09:55:00,= KA 178 (KA 178 //)
+4,Losari (LOS),10:05:00,10:23:00,= KA 20 (KA 20 //)
+5,Tanjung (TGN),10:32:00,10:34:00,
+6,Brebes (BB),10:51:00,10:53:00,
+7,Tegal (TG),11:05:00,11:10:00,
+8,Larangan (LR),Ls,11:17:00,
+9,Surodadi (SD),Ls,11:24:00,
+10,Pemalang (PML),11:34:00,11:52:00,= KA 2 (KA 2 //)
+11,Petarukan (PTA),Ls,12:00:00,
+12,Comal (CO),Ls,12:07:00,
+13,Sragi (SRI),Ls,12:10:00,
+14,Pekalongan (PK),12:19:00,12:22:00,
+15,Batang (BTG),12:33:00,12:35:00,
+16,Ujungnegoro (UJN),Ls,12:39:00,
+17,Kuripan (KRP),Ls,12:47:00,
+18,Plabuan (PLB),Ls,12:53:00,
+19,Krengseng (KNS),Ls,13:00:00,
+20,Weleri (WLR),13:06:00,13:08:00,
+21,Kalibodri (KBD),Ls,13:17:00,
+22,Kaliwungu (KLN),Ls,13:26:00,
+23,Mangkang (MKG),Ls,13:31:00,
+24,Jerakah (JRK),Ls,13:36:00,
+25,Semarang Poncol (SMC),13:43:00,,

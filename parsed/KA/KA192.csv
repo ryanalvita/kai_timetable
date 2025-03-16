@@ -1,0 +1,35 @@
+No.,Stasiun,Datang,Berangkat,Keterangan
+1,Tegal (TG),11:59:00,12:03:00,MENERUSKAN PERJALANAN KA 193
+2,Larangan (LR),Ls,12:08:00,
+3,Surodadi (SD),Ls,12:15:00,
+4,Pemalang (PML),12:24:00,12:26:00,
+5,Petarukan (PTA),Ls,12:32:00,
+6,Comal (CO),Ls,12:39:00,
+7,Sragi (SRI),Ls,12:42:00,
+8,Pekalongan (PK),12:51:00,12:54:00,
+9,Batang (BTG),Ls,13:04:00,
+10,Ujungnegoro (UJN),Ls,13:07:00,
+11,Kuripan (KRP),Ls,13:16:00,
+12,Plabuan (PLB),Ls,13:22:00,
+13,Krengseng (KNS),Ls,13:29:00,
+14,Weleri (WLR),13:34:00,13:36:00,
+15,Kalibodri (KBD),Ls,13:44:00,
+16,Kaliwungu (KLN),Ls,13:53:00,
+17,Mangkang (MKG),Ls,13:57:00,
+18,Jerakah (JRK),Ls,14:02:00,
+19,Semarang Poncol (SMC),14:09:00,14:14:00,
+20,Semarang Tawang (SMT),14:22:00,14:29:00,// KA 2510 (KA 2510 =)
+21,Alastua (ATA),Ls,14:37:00,
+22,Brumbung (BBG),14:44:00,14:46:00,
+23,Tanggung (TGG),Ls,14:58:00,
+24,Kedungjati (KEJ),15:10:00,15:12:00,
+25,Padas (PDS),Ls,15:19:00,
+26,Telawa (TW),15:31:00,15:33:00,X KA 269 (KA 269 X)
+27,Karangsono (KSO),Ls,15:42:00,X KA 2707(KA 2707 X)
+28,Gundih (GD),15:53:00,15:55:00,
+29,Goprak (GPK),Ls,16:01:00,
+30,Sumberlawang (SUM),Ls,16:07:00,
+31,Salem (SLM),16:16:00,16:18:00,X KA 189 (KA 189 X)
+32,Kalioso (KO),Ls,16:26:00,
+33,Kadipiro (KDO),Ls,16:33:00,
+34,Solobalapan (SLO),16:40:00,,

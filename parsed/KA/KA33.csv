@@ -1,0 +1,36 @@
+No.,Stasiun,Datang,Berangkat,Keterangan
+1,Surabaya Pasarturi (SBI),05:08:00,05:15:00,
+2,Segitigamesigit (STM),Ls,05:18:00,
+3,Surabayakota (SB),Ls,05:21:00,
+4,Surabayagubeng (SGU),05:28:00,05:37:00,
+5,Ngagel (NGA),Ls,-,
+6,Wonokromo (WO),Ls,05:43:00,
+7,Margorejo (MGR),Ls,-,
+8,Jemursari (JMS),Ls,-,
+9,Kertomenanggal (KTL),Ls,-,
+10,Waru (WR),Ls,05:49:00,X KA 454 (KA 454 X)
+11,Sawotratap (STP),Ls,-,
+12,Gedangan (GDG),Ls,05:54:00,X KA 474 (KA 474X)
+13,Banjarkemantren (BJK),Ls,-,
+14,Buduran (BDR),Ls,-,
+15,Pagerwojo (PWJ),Ls,-,
+16,Sidoarjo (SDA),06:03:00,06:07:00,X KA 412 (KA 412 X)
+17,Tanggulangin (TGA),Ls,06:13:00,
+18,Porong (PR),Ls,06:16:00,
+19,Bangil (BG),06:28:00,06:33:00,(KA 66F JJ X)
+20,Pasuruan (PS),06:51:00,06:53:00,
+21,Rejoso (RO),Ls,07:00:00,
+22,Grati (GI),Ls,07:03:00,
+23,Bayeman (BYM),Ls,07:11:00,
+24,Probolinggo (PB),07:21:00,07:26:00,X KA 156 (KA 156 X)
+25,Leces (LEC),Ls,07:35:00,
+26,Malasan (MLS),Ls,07:43:00,
+27,Ranuyoso (RN),Ls,07:50:00,
+28,Klakah (KK),07:55:00,07:57:00,
+29,Randuagung (RDA),Ls,08:08:00,
+30,Jatiroto (JTR),Ls,08:16:00,X KA 294 (KA 294 X)
+31,Tanggul (TGL),08:24:00,08:26:00,
+32,Bangsalsari (BSS),Ls,08:34:00,
+33,Rambipuji (RBP),08:41:00,08:49:00,X KA 250 (KA 250 X)
+34,Mangli (MI),Ls,08:53:00,
+35,Jember (JR),09:00:00,,
