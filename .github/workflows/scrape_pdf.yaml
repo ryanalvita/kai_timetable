@@ -44,7 +44,7 @@ jobs:
 
       - name: Run scrape_pdf script
         run: |
-          export PATH=/usr/bin:$PATH
+          export PATH=/opt/hostedtoolcache/Python/3.9.21/x64/bin:$PATH
           python scrape_pdf.py ${{ github.event.inputs.start_index }} ${{ github.event.inputs.end_index }}
 
       - name: Configure Git
