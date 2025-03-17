@@ -1,4 +1,4 @@
-,train_number,train_class,train_name,departure_time,arrival_time,origin_station_code,destination_station_code,origin_station_name,destination_station_name
+,ka_number,class_name,train_name,departure_time,arrival_time,origin_station_code,destination_station_code,origin_station_name,destination_station_name
 0,1,KA ARGO,ARGO BROMO ANGGREK,09:10:00,16:55:00,SBI,GMR,Surabaya Pasarturi,Gambir
 1,2,KA ARGO,ARGO BROMO ANGGREK,08:20:00,16:05:00,GMR,SBI,Gambir,Surabaya Pasarturi
 2,3,KA ARGO,ARGO BROMO ANGGREK,21:15:00,05:00:00,SBI,GMR,Surabaya Pasarturi,Gambir
