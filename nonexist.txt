@@ -1,0 +1,25 @@
+[
+    "MA", --> typo, should be MGS
+    "BLP", --> removed in merging with location
+    "MTR", --> removed in merging with location
+    "BKST", --> removed in merging with location
+    "CIT", --> removed in merging with location
+    "TLM", --> removed in merging with location
+    "SBN", --> removed in merging with location
+    "LO", --> removed in merging with location
+    "LL", --> removed in merging with location
+    "STM", --> not available even on station_raw_data.csv. Maybe Mesigit??
+    "NGA", --> typo, should be NGL
+    "MGR", --> typo, should be MGJ
+    "JMS", --> in station_raw_data.csv, it is JMS[a]
+    "KTL", --> in station_raw_data.csv, it is KOM, removed in merging with location
+    "PWJ", --> in station_raw_data.csv, it is PWJ[d], removed in merging with location
+    "GRN", --> in station_raw_data.csv, it is GN, removed in merging with location
+    "KSL", --> in station_raw_data.csv, it is KLS, removed in merging with location
+    "KTG", --> removed in merging with location
+    "PON", --> removed in merging with location
+    "CJE", --> removed in merging with location
+    "BOP", --> not available even on station_raw_data.csv.
+    "GK", --> not available even on station_raw_data.csv.
+    "YIA" --> not available even on station_raw_data.csv.
+]
