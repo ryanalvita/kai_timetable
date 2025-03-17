@@ -1,548 +1,548 @@
-,Unnamed: 0,station_name,province,daop,station_code,operating_status,city,latitude,longitude,srs_id
-0,1,Adi Soemarmo,Jawa Tengah,Daop VI Yogyakarta,SMO,Beroperasi,KAB. BOYOLALI,-7.51348,110.74788,
-1,3,Alastua,Jawa Tengah,Daop IV Semarang,ATA,Beroperasi,KOTA SEMARANG,-6.98438,110.4758,WGS 1984
-2,5,Ambarawa,Jawa Tengah,Daop IV Semarang,ABR,Museum,KAB. SEMARANG,-7.26556,110.4014,WGS 1984
-3,6,Ambulu,Jawa Timur,Daop IX Jember,ABL,Tidak beroperasi,KAB. JEMBER,-8.34747,113.5938,WGS 1984
-4,7,Ancol,DKI Jakarta,Daop I Jakarta,AC,Beroperasi,KOTA ADM. JAKARTA UTARA,-6.12811,106.8448,WGS 1984
-5,8,Andir,Jawa Barat,Daop II Bandung,AND,Beroperasi,KOTA BANDUNG,-6.9079,107.5794,WGS 1984
-6,9,Angke,DKI Jakarta,Daop I Jakarta,AK,Beroperasi,KOTA ADM. JAKARTA BARAT,-6.14471,106.8008,WGS 1984
-7,10,Anyer Kidul,Banten,Daop I Jakarta,ANK,Tidak beroperasi,KAB. SERANG,-6.0708,105.8872,WGS 1984
-8,12,Argopuro,Jawa Timur,Daop IX Jember,AGO,Beroperasi,KAB. BANYUWANGI,-8.18359,114.3694,WGS 1984
-9,13,Arjawinangun,Jawa Barat,Daop III Cirebon,AWN,Beroperasi,KAB. CIREBON,-6.64459,108.4146,WGS 1984
-10,14,Arjasa,Jawa Timur,Daop IX Jember,AJ,Beroperasi,KAB. JEMBER,-8.12787,113.7484,WGS 1984
-11,15,Awipari,Jawa Barat,Daop II Bandung,AW,Beroperasi,KOTA TASIKMALAYA,-7.3537,108.2744,WGS 1984
-12,16,Babadan,Jawa Timur,Daop VII Madiun,BBD,Beroperasi,KOTA MADIUN,-7.5871,111.5886,WGS 1984
-13,17,Babakan,Jawa Barat,Daop III Cirebon,BBK,Beroperasi,KAB. CIREBON,-6.8606,108.72,WGS 1984
-14,18,Babat,Jawa Timur,Daop VIII Surabaya,BBT,Beroperasi,KAB. LAMONGAN,-7.10608,112.1686,WGS 1984
-15,21,Bagor,Jawa Timur,Daop VII Madiun,BGR,Beroperasi,KOTA MADIUN,-7.57159,111.8528,WGS 1984
-16,23,Balega,Jawa Timur,Daop VIII Surabaya,BGA,Tidak beroperasi,KAB. BANGKALAN,-7.12988,113.0626,WGS 1984
-17,26,Balung,Jawa Timur,Daop IX Jember,BUG,Tidak beroperasi,KAB. JEMBER,-8.27289,113.5384,WGS 1984
-18,27,Bangkalan,Jawa Timur,Daop VIII Surabaya,BKL,Tidak beroperasi,KAB. BANGKALAN,-7.02527,112.748,WGS 1984
-19,28,Banjar,Jawa Barat,Daop II Bandung,BJR,Beroperasi,KOTA BANJAR,-7.3761,108.5424,WGS 1984
-20,32,Banjarkemantren,Jawa Timur,Daop VIII Surabaya,BJK,Tidak beroperasi,KAB. SIDOARJO,-7.41187,112.7262,WGS 1984
-21,33,Banjarnegara,Jawa Tengah,Daop V Purwokerto,BA,Tidak beroperasi,KAB. BANJARNEGARA,-7.39819,109.6544,WGS 1984
-22,34,Banjarsari (ke Cij),Jawa Barat,Daop II Bandung,BJI,Tidak beroperasi,KAB. LAHAT,-3.67651,103.6984,WGS 1984
-23,36,Bandung,Jawa Barat,Daop II Bandung,BD,Beroperasi,KOTA BANDUNG,-6.91388,107.6026,WGS 1984
-24,37,Bandung Gudang,Jawa Barat,Daop II Bandung,BDG,Tidak beroperasi,KAB. PONOROGO,-7.87921,111.3354,WGS 1984
-25,39,Bangil,Jawa Timur,Daop VIII Surabaya,BG,Beroperasi,KOTA PASURUAN,-7.599,112.7782,WGS 1984
-26,41,Bangkalan,Jawa Timur,Daop VIII Surabaya,BKL,Tidak beroperasi,KAB. BANGKALAN,-7.02527,112.748,WGS 1984
-27,42,Bangoduwa,Jawa Barat,Daop III Cirebon,BDW,Beroperasi,KAB. CIREBON,-6.66296,108.46,WGS 1984
-28,44,Bangsalsari,Jawa Timur,Daop IX Jember,BSS,Beroperasi,KAB. JEMBER,-8.203,113.5334,WGS 1984
-29,47,Banyuwangi Kota,Jawa Timur,Daop IX Jember,BWI,Beroperasi,KAB. BANYUWANGI,-8.21429,114.378,WGS 1984
-30,50,Baron,Jawa Timur,Daop VII Madiun,BRN,Beroperasi,KAB. NGANJUK,-7.60278,112.039,WGS 1984
-31,51,Batang,Jawa Tengah,Daop IV Semarang,BTG,Beroperasi,KAB. BATANG,-6.90649,109.7326,WGS 1984
-32,54,Batu Ceper,Banten,Daop I Jakarta,BPR,Beroperasi,KOTA TANGERANG,-6.17218,106.665,WGS 1984
-33,55,Batulawang,Jawa Barat,Daop II Bandung,BTW,Tidak beroperasi,KAB. MALANG,-8.10876,112.636,WGS 1984
-34,56,Baturetno,Jawa Tengah,Daop VI Yogyakarta,BRO,Tidak beroperasi,KAb. WONOGIRI,-7.97809,110.9306,WGS 1984
-35,57,Batutulis,Jawa Barat,Daop I Jakarta,BTT,Beroperasi,KOTA BOGOR,-6.62579,106.8096,WGS 1984
-36,59,Bayeman,Jawa Timur,Daop IX Jember,BYM,Beroperasi,KAB. PROBOLINGGO,-7.73468,113.1188,WGS 1984
-37,61,Bedono,Jawa Tengah,Daop IV Semarang,BDN,Beroperasi terbatas,KAB. SEMARANG,-7.3092,110.353,WGS 1984
-38,62,Bekasi,Jawa Barat,Daop I Jakarta,BKS,Beroperasi,KOTA BEKASI,-6.23669,106.9994,WGS 1984
-39,64,Benculuk,Jawa Timur,Daop IX Jember,BEN,Tidak beroperasi,KAB. BANYUWANGI,-8.43359,114.2268,WGS 1984
-40,67,Benowo,Jawa Timur,Daop VIII Surabaya,BNW,Beroperasi,KOTA SURABAYA,-7.23407,112.6152,WGS 1984
-41,68,Benteng,Jawa Timur,Daop VIII Surabaya,BET,Beroperasi,KOTA SURABAYA,-7.22119,112.744,WGS 1984
-42,72,Blimbing (Malang),Jawa Timur,Daop VIII Surabaya,BMG,Beroperasi,KOTA MALANG,-7.9411,112.6446,WGS 1984
-43,73,Blitar,Jawa Timur,Daop VII Madiun,BL,Beroperasi,KOTA BLITAR,-8.10138,112.1628,WGS 1984
-44,75,Blora,Jawa Tengah,Daop IV Semarang,BLA,Tidak beroperasi,KAB. BLORA,-6.97119,111.4242,WGS 1984
-45,76,Bluluk,Jawa Timur,Daop VII Madiun,BLK,Tidak beroperasi,KAB. LAMONGAN,-7.27649,112.1348,WGS 1984
-46,77,Bojonegoro,Jawa Timur,Daop VIII Surabaya,BJ,Beroperasi,KAB. BOJONEGORO,-7.16437,111.8868,WGS 1984
-47,78,Bojonegoro Kota,Jawa Timur,Daop VIII Surabaya,BJK,Tidak beroperasi,KAB. SIDOARJO,-7.41187,112.7262,WGS 1984
-48,79,Bojong (Bandung),Jawa Barat,Daop II Bandung,BJG,Beroperasi,KAB. CIAMIS,-7.34729,108.4294,WGS 1984
-49,81,Bojonggede,Jawa Barat,Daop I Jakarta,BJD,Beroperasi,KAB. BOGOR,-6.49268,106.7948,WGS 1984
-50,82,Bojong Indah,DKI Jakarta,Daop I Jakarta,BOI,Beroperasi,KOTA JAKARTA BARAT,-6.15997,106.7366,WGS 1984
-51,83,Bogor,Jawa Barat,Daop I Jakarta,BOO,Beroperasi,KOTA BOGOR,-6.59381,106.7906,WGS 1984
-52,84,Boharan,Jawa Timur,Daop VIII Surabaya,BH,Beroperasi,KAB. SIDOARJO,-7.38788,112.6196,WGS 1984
-53,85,Bondowoso,Jawa Timur,Daop IX Jember,BO,Museum,KAB. BONDOWOSO,-7.9162,113.8302,WGS 1984
-54,87,Bowerno,Jawa Timur,Daop VIII Surabaya,BWO,Beroperasi,KAB. BOJONEGORO,-7.13116,112.0998,WGS 1984
-55,88,Boyolali,Jawa Tengah,Daop VI Yogyakarta,BI,Tidak beroperasi,KAB. BOYOLALI,-7.53748,110.5998,WGS 1984
-56,89,Brambanan,Jawa Tengah,Daop VI Yogyakarta,BBN,Beroperasi,KAB. KLATEN,-7.75647,110.5004,WGS 1984
-57,90,Brebes,Jawa Tengah,Daop III Cirebon,BB,Beroperasi,KAB. BREBES,-6.87427,109.0434,WGS 1984
-58,91,Bringin,Jawa Tengah,Daop IV Semarang,BRI,Tidak beroperasi,KAB. SEMARANG,-7.2533,110.5236,WGS 1984
-59,93,Brumbung,Jawa Tengah,Daop IV Semarang,BBG,Beroperasi,KAB. DEMAK,-7.02557,110.5222,WGS 1984
-60,94,Buaran,DKI Jakarta,Daop I Jakarta,BUA,Beroperasi,KOTA ADM. JAKARTA TIMUR,-6.21619,106.9276,WGS 1984
-61,95,Buduran,Jawa Timur,Daop VIII Surabaya,BDR,Tidak beroperasi,KAB. SIDOARJO,-7.42792,112.723,WGS 1984
-62,96,Bulakamba,Jawa Tengah,Daop III Cirebon,BKA,Tidak beroperasi,KAB. BREBES,-6.8761,108.9486,WGS 1984
-63,98,Bulumanis,Jawa Tengah,Daop IV Semarang,BIS,Tidak beroperasi,KAB. PATI,-6.61108,111.0648,WGS 1984
-64,99,Bumiayu,Jawa Tengah,Daop V Purwokerto,BMA,Beroperasi,KAB. BREBES,-7.23737,109.0098,WGS 1984
-65,100,Bumiwaluya,Jawa Barat,Daop II Bandung,BMW,Beroperasi,KAB. GARUT,-7.05859,108.0706,WGS 1984
-66,101,Butuh,Jawa Tengah,Daop V Purwokerto,BTH,Beroperasi,KAB. PURWOREJO,-7.72437,109.8584,WGS 1984
-67,103,Buyaran,Jawa Tengah,Daop IV Semarang,BYA,Tidak beroperasi,KAB. DEMAK,-6.91949,110.5976,WGS 1984
-68,104,Cakung,DKI Jakarta,Daop I Jakarta,CUK,Beroperasi,KOTA ADM. JAKARTA TIMUR,-6.21918,106.9522,
-69,105,Campurdarat,Jawa Timur,Daop VII Madiun,CPT,Tidak beroperasi,KAB. BANDUNG BARAT,-6.82208,107.3858,WGS 1984
-70,107,Cangkring,Jawa Barat,Daop III Cirebon,CNK,Beroperasi,KAB. CIREBON,-6.6795,108.5008,WGS 1984
-71,108,Caruban,Jawa Timur,Daop VII Madiun,CRB,Beroperasi,KOTA MADIUN,-7.55096,111.6548,WGS 1984
-72,109,Catang,Banten,Daop I Jakarta,CT,Beroperasi,KAB. SERANG,-6.26569,106.268,WGS 1984
-73,112,Ceper,Jawa Tengah,Daop VI Yogyakarta,CE,Beroperasi,KAB. KLATEN,-7.66901,110.675,WGS 1984
-74,113,Cepu,Jawa Tengah,Daop IV Semarang,CU,Beroperasi,KAB. BLORA,-7.15417,111.5912,WGS 1984
-75,115,Cerme,Jawa Timur,Daop VIII Surabaya,CME,Beroperasi,KAB. GRESIK,-7.22437,112.571,WGS 1984
-76,116,Ciamis,Jawa Barat,Daop II Bandung,CI,Beroperasi,KAB. CIAMIS,-7.32941,108.3558,WGS 1984
-77,117,Cianjur,Jawa Barat,Daop II Bandung,CJ,Beroperasi,KAB. CIANJUR,-6.82477,107.1428,WGS 1984
-78,118,Ciawi,Jawa Barat,Daop II Bandung,CAW,Beroperasi,KAB. TASIKMALAYA,-7.15741,108.1458,WGS 1984
-79,119,Cibadak,Jawa Barat,Daop I Jakarta,CBD,Beroperasi,KAB. SUKABUMI,-6.88818,106.7804,WGS 1984
-80,122,Cibatu,Jawa Barat,Daop II Bandung,CB,Beroperasi,KAB. GARUT,-7.1001,107.9796,WGS 1984
-81,123,Cibeber,Jawa Barat,Daop II Bandung,CBB,Beroperasi,KAB. CIANJUR,-6.9375,107.1212,WGS 1984
-82,126,Cibungur,Jawa Barat,Daop II Bandung,CBR,Beroperasi,KAB. PURWAKARTA,-6.4679,107.4796,WGS 1984
-83,127,Cicalengka,Jawa Barat,Daop II Bandung,CCL,Beroperasi,KAB. BANDUNG,-6.98157,107.8328,WGS 1984
-84,129,Cicurug,Jawa Barat,Daop I Jakarta,CCR,Beroperasi,KAB. SUKABUMI,-6.79041,106.7796,WGS 1984
-85,130,Cigading,Banten,Daop I Jakarta,CGD,Beroperasi,KOTA CILEGON,-6.02197,105.9636,WGS 1984
-86,131,Ciganea,Jawa Barat,Daop II Bandung,CA,Beroperasi,KAB. PURWAKARTA,-6.57349,107.4308,WGS 1984
-87,132,Cigombong,Jawa Barat,Daop I Jakarta,CGB,Beroperasi,KAB. BOGOR,-6.74219,106.803,WGS 1984
-88,134,Cijulang,Jawa Barat,Daop II Bandung,CIJ,Tidak beroperasi,KAB. PANGANDARAN,-7.72699,108.4744,WGS 1984
-89,136,Cikadongdong,Jawa Barat,Daop II Bandung,CD,Beroperasi,KAB. BANDUNG BARAT,-6.71521,107.3904,WGS 1984
-90,137,Cikampek,Jawa Barat,Daop I Jakarta,CKP,Beroperasi,KAB. KARAWANG,-6.40607,107.459,WGS 1984
-91,139,Cikaum,Jawa Barat,Daop III Cirebon,CKM,Beroperasi,KAB. SUBANG,-6.43549,107.7396,WGS 1984
-92,140,Cikarang,Jawa Barat,Daop I Jakarta,CKR,Beroperasi,KAB. BEKASI,-6.25488,107.1446,WGS 1984
-93,142,Cikeusal,Banten,Daop I Jakarta,CKL,Beroperasi,KAB. SERANG,-6.21698,106.2446,WGS 1984
-94,143,Cikini,DKI Jakarta,Daop I Jakarta,CKI,Beroperasi,KOTA ADM. JAKARTA PUSAT,-6.19849,106.8412,WGS 1984
-95,144,Cikoya,Banten,Daop I Jakarta,CKY,Beroperasi,KAB. TANGERANG,-6.33557,106.4118,WGS 1984
-96,145,Cikudapateuh,Jawa Barat,Daop II Bandung,CTH,Beroperasi,KOTA BANDUNG,-6.9187,107.6262,WGS 1984
-97,146,Cilaku,Jawa Barat,Daop II Bandung,CLK,Tidak beroperasi,KAB. CIANJUR,-6.888,107.1266,WGS 1984
-98,148,Cilame,Jawa Barat,Daop II Bandung,CLE,Beroperasi,KAB. BANDUNG BARAT,-6.80328,107.4638,WGS 1984
-99,149,Cilacap,Jawa Tengah,Daop V Purwokerto,CP,Beroperasi,KAB. CILACAP,-7.73608,109.007,WGS 1984
-100,151,Cilebut,Jawa Barat,Daop I Jakarta,CLT,Beroperasi,KAB. BOGOR,-6.53052,106.8006,WGS 1984
-101,152,Ciledug,Jawa Barat,Daop III Cirebon,CLD,Beroperasi,KAB. CIREBON,-6.90289,108.744,WGS 1984
-102,154,Cilejit,Jawa Barat,Daop I Jakarta,CJT,Beroperasi,KAB. BOGOR,-6.35431,106.5096,WGS 1984
-103,155,Cilegeh,Jawa Barat,Daop III Cirebon,CLH,Beroperasi,KAB. INDRAMAYU,-6.46399,108.0354,WGS 1984
-104,156,Cilegon,Banten,Daop I Jakarta,CLG,Beroperasi,KOTA CILEGON,-6.01959,106.0532,WGS 1984
-105,158,Cimahi,Jawa Barat,Daop II Bandung,CMI,Beroperasi,KOTA CIMAHI,-6.88586,107.536,WGS 1984
-106,159,Cimekar,Jawa Barat,Daop II Bandung,CMK,Beroperasi,KOTA BANDUNG,-6.94989,107.715,WGS 1984
-107,160,Cimindi,Jawa Barat,Daop II Bandung,CMD,Beroperasi,KOTA BANDUNG,-6.896,107.5612,WGS 1984
-108,161,Ciomas,Jawa Barat,Daop I Jakarta,CS,Reaktivikasi,KOTA BOGOR,-6.65179,106.8094,WGS 1984
-109,162,Cipari,Jawa Tengah,Daop V Purwokerto,CPI,Beroperasi,KAB. CILACAP,-7.44019,108.7612,WGS 1984
-110,163,Cipatat,Jawa Barat,Daop II Bandung,CPT,Beroperasi,KAB. BANDUNG BARAT,-6.82208,107.3858,WGS 1984
-111,165,Cipeuyeum,Jawa Barat,Daop II Bandung,CPY,Beroperasi,KAB. CIANJUR,-6.81848,107.2982,WGS 1984
-112,166,Cipeundeuy,Jawa Barat,Daop II Bandung,CPD,Beroperasi,KAB. GARUT,-7.09357,108.1006,WGS 1984
-113,167,Cipinang,DKI Jakarta,Daop I Jakarta,CPN,Tidak beroperasi,KOTA ADM. JAKARTA TIMUR,-6.21417,106.8844,WGS 1984
-114,168,Cipunegara,Jawa Barat,Daop III Cirebon,CRA,Beroperasi,KAB. SUBANG,-6.4552,107.8824,WGS 1984
-115,170,Cirahayu,Jawa Barat,Daop II Bandung,CAA,Beroperasi,KAB. TASIKMALAYA,-7.13422,108.1184,WGS 1984
-116,171,Ciranjang,Jawa Barat,Daop II Bandung,CRJ,Beroperasi,KAB. CIANJUR,-6.81409,107.2512,WGS 1984
-117,172,Cirebon,Jawa Barat,Daop III Cirebon,CN,Beroperasi,KOTA CIREBON,-6.70551,108.5554,WGS 1984
-118,174,Cirebon Prujakan,Jawa Barat,Daop III Cirebon,CNP,Beroperasi,KOTA CIREBON,-6.71918,108.5588,WGS 1984
-119,175,Cireungas,Jawa Barat,Daop II Bandung,CRG,Beroperasi,KAB. SUKABUMI,-6.9585,107.0368,WGS 1984
-120,176,Ciroyom,Jawa Barat,Daop II Bandung,CIR,Beroperasi,KOTA BANDUNG,-6.91418,107.5904,WGS 1984
-121,177,Cisaat,Jawa Barat,Daop I Jakarta,CSA,Beroperasi,KAB. SUKABUMI,-6.91388,106.8876,WGS 1984
-122,178,Cisauk,Banten,Daop I Jakarta,CSK,Beroperasi,KAB. TANGERANG,-6.32471,106.6412,WGS 1984
-123,179,Cisomang,Jawa Barat,Daop II Bandung,CG,Tidak beroperasi,KAB. PURWAKARTA,-6.68628,107.3978,WGS 1984
-124,181,Cisurupan,Jawa Barat,Daop II Bandung,CSN,Tidak beroperasi,KAB. GARUT,-7.31079,107.7954,WGS 1984
-125,182,Citayam,Jawa Barat,Daop I Jakarta,CTA,Beroperasi,KOTA DEPOK,-6.44897,106.8024,WGS 1984
-126,183,Citeras,Banten,Daop I Jakarta,CTR,Beroperasi,KAB. LEBAK,-6.3349,106.3328,WGS 1984
-127,184,Ciwidey,Jawa Barat,Daop II Bandung,CWD,Tidak beroperasi,KOTA BANDUNG,-7.1015,107.4654,WGS 1984
-128,185,Comal,Jawa Tengah,Daop IV Semarang,CO,Beroperasi,KAB. PEMALANG,-6.9093,109.5368,WGS 1984
-129,187,Curahmalang,Jawa Timur,Daop VII Madiun,CRM,Beroperasi,KAB. JOMBANG,-7.5069,112.3704,WGS 1984
-130,189,Dampit,Jawa Timur,Daop VIII Surabaya,DPT,Tidak beroperasi,KAB. MALANG,-8.21387,112.7522,WGS 1984
-131,190,Dangeyan,Jawa Tengah,Daop VI Yogyakarta,DNY,Tidak beroperasi,KAB. MOJOKERTO,-7.5824,112.4214,WGS 1984
-132,191,Daru,Banten,Daop I Jakarta,DAR,Beroperasi,KAB. TANGERANG,-6.33789,106.4924,WGS 1984
-133,192,Dawuan,Jawa Barat,Daop I Jakarta,DWN,Beroperasi,KAB. KARAWANG,-6.39319,107.4334,WGS 1984
-134,193,Dayeuhkolot,Jawa Barat,Daop II Bandung,DYK,Tidak beroperasi,KAB. BANDUNG,-6.9892,107.628,WGS 1984
-135,194,Delanggu,Jawa Tengah,Daop VI Yogyakarta,DL,Beroperasi,KAB. KLATEN,-7.62207,110.7066,WGS 1984
-136,195,Delok,Jawa Tengah,Daop IV Semarang,DEK,Tidak beroperasi,KAB. REMBANG,-6.70337,111.245,WGS 1984
-137,196,Demak,Jawa Tengah,Daop IV Semarang,DM,Tidak beroperasi,KAB. DEMAK,-6.90118,110.6344,WGS 1984
-138,197,Depok,Jawa Barat,Daop I Jakarta,DP,Beroperasi,KOTA DEPOK,-6.40466,106.8172,WGS 1984
-139,198,Depok Baru,Jawa Barat,Daop I Jakarta,DPB,Beroperasi,KOTA DEPOK,-6.3913,106.8216,WGS 1984
-140,201,Doplang,Jawa Tengah,Daop IV Semarang,DPL,Beroperasi,KAB. BLORA,-7.1828,111.288,WGS 1984
-141,203,Duduk,Jawa Timur,Daop VIII Surabaya,DD,Beroperasi,KAB. GRESIK,-7.1546,112.5206,WGS 1984
-142,204,Duren Kalibata,DKI Jakarta,Daop I Jakarta,DRN,Beroperasi,KOTA JAKARTA SELATAN,-6.25568,106.855,WGS 1984
-143,206,Duri,DKI Jakarta,Daop I Jakarta,DU,Beroperasi,KOTA ADM. JAKARTA BARAT,-6.15588,106.8016,WGS 1984
-144,207,Gambir,DKI Jakarta,Daop I Jakarta,GMR,Beroperasi,KOTA ADM. JAKARTA PUSAT,-6.1767,106.8308,WGS 1984
-145,208,Gambringan,Jawa Tengah,Daop IV Semarang,GBN,Beroperasi,KAB. GROBOGAN,-7.1438,110.915,WGS 1984
-146,209,Gandasoli,Jawa Barat,Daop II Bandung,GDS,Beroperasi,KAB. SUKABUMI,-6.94141,106.9922,WGS 1984
-147,210,Gandrungmangu,Jawa Tengah,Daop V Purwokerto,GDM,Beroperasi,KAB. CILACAP,-7.52808,108.8592,WGS 1984
-148,212,Gang Sentiong,DKI Jakarta,Daop I Jakarta,GST,Beroperasi,KOTA JAKARTA PUSAT,-6.18628,106.851,WGS 1984
-149,214,Garum,Jawa Timur,Daop VII Madiun,GRM,Beroperasi,KOTA BLITAR,-8.07349,112.217,WGS 1984
-150,215,Garut,Jawa Barat,Daop II Bandung,GRT,Beroperasi,KAB. GARUT,-7.20538,107.8848,WGS 1984
-151,216,Gawok,Jawa Tengah,Daop VI Yogyakarta,GW,Beroperasi,KAB. SUKOHARJO,-7.58942,110.7444,WGS 1984
-152,219,Gedangan (ke Sd),Jawa Timur,Daop VIII Surabaya,GDG,Beroperasi,KAB. SIDOARJO,-7.38898,112.7286,WGS 1984
-153,220,Gedebage,Jawa Barat,Daop II Bandung,GDB,Beroperasi,KOTA BANDUNG,-6.94092,107.69,WGS 1984
-154,222,Gembong,Jawa Timur,Daop VIII Surabaya,GEB,Beroperasi,KAB. LAMONGAN,-7.10229,112.2224,WGS 1984
-155,226,Gempolkerep,Jawa Timur,Daop VIII Surabaya,GKP,Tidak beroperasi,KAB. MOJOKERTO,-7.45667,112.3876,WGS 1984
-156,227,Geneng,Jawa Timur,Daop VII Madiun,GG,Beroperasi,KAB. NGAWI,-7.49786,111.4188,WGS 1984
-157,228,Genuk,Jawa Tengah,Daop IV Semarang,GNK,Tidak beroperasi,KOTA SEMARANG,-6.95227,110.4788,WGS 1984
-158,230,Glenmore,Jawa Timur,Daop IX Jember,GLM,Beroperasi,KAB. BANYUWANGI,-8.2995,114.0494,WGS 1984
-159,231,Godong,Jawa Tengah,Daop IV Semarang,GOG,Tidak beroperasi,KAB. GROBOGAN,-7.02258,110.7728,WGS 1984
-160,233,Gombong,Jawa Tengah,Daop V Purwokerto,GB,Beroperasi,KAB. KEBUMEN,-7.6109,109.5068,WGS 1984
-161,234,Gondangdia,DKI Jakarta,Daop I Jakarta,GDD,Beroperasi,KOTA JAKARTA PUSAT,-6.1861,106.8328,WGS 1984
-162,235,Gondanglegi,Jawa Timur,Daop VIII Surabaya,GDL,Tidak beroperasi,KAB. MALANG,-8.1709,112.6424,WGS 1984
-163,236,Goprak,Jawa Tengah,Daop VI Yogyakarta,GPK,Beroperasi,KAB. GROBOGAN,-7.27289,110.8972,WGS 1984
-164,238,Grati,Jawa Timur,Daop IX Jember,GI,Beroperasi,KOTA PASURUAN,-7.71747,113.0122,WGS 1984
-165,239,Gresik,Jawa Timur,Daop VIII Surabaya,GS,Tidak beroperasi,KAB. GRESIK,-7.15289,112.6578,WGS 1984
-166,241,Grogol,DKI Jakarta,Daop I Jakarta,GG,Beroperasi,KAB. NGAWI,-7.49786,111.4188,WGS 1984
-167,244,Gubug,Jawa Tengah,Daop IV Semarang,GUB,Beroperasi,KAB. GROBOGAN,-7.06097,110.6696,WGS 1984
-168,245,Gumilir,Jawa Tengah,Daop V Purwokerto,GM,Beroperasi,KAB. CILACAP,-7.685,109.0426,WGS 1984
-169,247,Gundih,Jawa Tengah,Daop IV Semarang,GD,Beroperasi,KAB. GROBOGAN,-7.21869,110.9,WGS 1984
-170,248,Gununggangsir,Jawa Timur,Daop VIII Surabaya,GNG,Tidak beroperasi,KAB. PASURUAN,-7.58478,112.7248,WGS 1984
-171,250,Gurah,Jawa Timur,Daop VII Madiun,GU,Tidak beroperasi,KAB. KEDIRI,-7.80731,112.089,WGS 1984
-172,251,Haurgeulis,Jawa Barat,Daop III Cirebon,HGL,Beroperasi,KAB. INDRAMAYU,-6.45862,107.941,WGS 1984
-173,252,Haurpugur,Jawa Barat,Daop II Bandung,HRP,Beroperasi,KAB. BANDUNG,-6.98071,107.7996,WGS 1984
-174,253,Ijo,Jawa Tengah,Daop V Purwokerto,IJ,Beroperasi,KAB. KEBUMEN,-7.61548,109.4462,WGS 1984
-175,254,Indihiang,Jawa Barat,Daop II Bandung,IH,Beroperasi,KOTA TASIKMALAYA,-7.28711,108.2012,WGS 1984
-176,255,Indramayu,Jawa Barat,Daop III Cirebon,IM,Tidak beroperasi,KAB. INDRAMAYU,-6.349,108.3214,WGS 1984
-177,256,Indro,Jawa Timur,Daop VIII Surabaya,IDO,Beroperasi,KAB. GRESIK,-7.17698,112.66443,
-178,257,Jakarta Gudang,DKI Jakarta,Daop I Jakarta,JAKG,Beroperasi,KOTA ADM. JAKARTA UTARA,-6.1333,106.8194,WGS 1984
-179,258,Jakarta Kota,DKI Jakarta,Daop I Jakarta,JAKK,Beroperasi,KOTA ADM. JAKARTA BARAT,-6.1366,106.8166,WGS 1984
-180,260,Jamblang,Jawa Barat,Daop III Cirebon,JBG,Tidak beroperasi,KAB. PROBOLINGGO,-7.74487,113.452,WGS 1984
-181,261,Jambon,Jawa Tengah,Daop IV Semarang,JBN,Beroperasi,KAB. GROBOGAN,-7.15027,111.0102,WGS 1984
-182,262,Jambu,Jawa Tengah,Daop IV Semarang,JMB,Beroperasi terbatas,KAB. SEMARANG,-7.27979,110.3688,WGS 1984
-183,263,Jambu Baru,Banten,Daop I Jakarta,JBU,Beroperasi,KAB. SERANG,-6.30292,106.2606,WGS 1984
-184,264,Japanan,Jawa Timur,Daop VIII Surabaya,JPN,Tidak beroperasi,KAB. PASURUAN,-7.56207,112.6924,WGS 1984
-185,267,Jatibarang,Jawa Barat,Daop III Cirebon,JTB,Beroperasi,KAB. INDRAMAYU,-6.4729,108.306,WGS 1984
-186,268,Jatinegara,DKI Jakarta,Daop I Jakarta,JNG,Beroperasi,KOTA ADM. JAKARTA TIMUR,-6.21527,106.8704,WGS 1984
-187,269,Jatirogo,Jawa Timur,Daop VIII Surabaya,JTG,Tidak beroperasi,KAB. TUBAN,-6.88422,111.6546,WGS 1984
-188,270,Jatiroto,Jawa Timur,Daop IX Jember,JTR,Beroperasi,KAB. LUMAJANG,-8.12341,113.3642,WGS 1984
-189,273,Jember,Jawa Timur,Daop IX Jember,JR,Beroperasi,KAB. JEMBER,-8.1651,113.7034,WGS 1984
-190,275,Jenar,Jawa Tengah,Daop VI Yogyakarta,JN,Beroperasi,KAB. PURWOREJO,-7.802,110.0008,WGS 1984
-191,277,Jerakah,Jawa Tengah,Daop IV Semarang,JRK,Beroperasi,KOTA SEMARANG,-6.98047,110.3626,WGS 1984
-192,278,Jeruklegi,Jawa Tengah,Daop V Purwokerto,JRL,Beroperasi,KAB. CILACAP,-7.62347,109.019,WGS 1984
-193,281,Jombang,Jawa Timur,Daop VII Madiun,JG,Beroperasi,KAB. JOMBANG,-7.5578,112.2334,WGS 1984
-194,285,Juana/Juwana,Jawa Tengah,Daop IV Semarang,JU,Tidak beroperasi,KAB. PATI,-6.72009,111.1444,WGS 1984
-195,286,Juanda,DKI Jakarta,Daop I Jakarta,JUA,Beroperasi,KOTA JAKARTA PUSAT,-6.16656,106.8304,WGS 1984
-196,290,Kadipaten,Jawa Barat,Daop III Cirebon,KAD,Tidak beroperasi,KAB. MAJALENGKA,-6.76947,108.1698,WGS 1984
-197,291,Kadipiro,Jawa Tengah,Daop VI Yogyakarta,KDO,Beroperasi,KOTA SURAKARTA,-7.53103,110.81796,
-198,292,Kedokangabus,Jawa Barat,Daop III Cirebon,KAB,Beroperasi,KAB. INDRAMAYU,-6.46771,108.107,WGS 1984
-199,296,Kalianget,Jawa Timur,Daop VIII Surabaya,KLG,Tidak beroperasi,KAB. SUMENEP,-7.05347,113.9424,WGS 1984
-200,298,Kalibaru,Jawa Timur,Daop IX Jember,KBR,Beroperasi,KAB. BANYUWANGI,-8.28888,113.9844,WGS 1984
-201,299,Kalibodri,Jawa Tengah,Daop IV Semarang,KBD,Beroperasi,KAB. KENDAL,-6.97357,110.1482,WGS 1984
-202,301,Kalideres,DKI Jakarta,Daop I Jakarta,KDS,Beroperasi,KOTA JAKARTA BARAT,-6.16608,106.7034,WGS 1984
-203,302,Kalimas,Jawa Timur,Daop VIII Surabaya,KLM,Beroperasi,KOTA SURABAYA,-7.21991,112.735,WGS 1984
-204,304,Kalioso,Jawa Tengah,Daop VI Yogyakarta,KO,Beroperasi,KAB. KARANGANYAR,-7.46619,110.8052,WGS 1984
-205,305,Kalipucang,Jawa Barat,Daop II Bandung,KLC,Tidak beroperasi,KAB. PANGANDARAN,-7.63501,108.751,WGS 1984
-206,306,Kalisamin,Jawa Tengah,Daop VI Yogyakarta,KIM,Tidak beroperasi,KAB. SUKOHARJO,-7.6264,110.8428,WGS 1984
-207,307,Kalisat,Jawa Timur,Daop IX Jember,KLT,Beroperasi,KAB. JEMBER,-8.12701,113.8124,WGS 1984
-208,309,Kalitidu,Jawa Timur,Daop VIII Surabaya,KIT,Beroperasi,KAB. BOJONEGORO,-7.13171,111.7674,WGS 1984
-209,310,Kaliwedi,Jawa Barat,Daop III Cirebon,KLW,Tidak beroperasi,KAB. CIREBON,-6.58667,108.3852,WGS 1984
-210,311,Kaliwungu,Jawa Tengah,Daop IV Semarang,KLN,Beroperasi,KAB. KENDAL,-6.95978,110.2548,WGS 1984
-211,312,Kamal,Jawa Timur,Daop VIII Surabaya,KML,Tidak beroperasi,KAB. BANGKALAN,-7.16498,112.72,WGS 1984
-212,314,Kambangan,Jawa Timur,Daop VII Madiun,KBG,Tidak beroperasi,KAB. LANGKAT,3.66359,98.46048,
-213,317,Kandangan (Surabaya),Jawa Timur,Daop VIII Surabaya,KDA,Beroperasi,KOTA SURABAYA,-7.25079,112.6572,WGS 1984
-214,320,Kapas,Jawa Timur,Daop VIII Surabaya,KPS,Beroperasi,KAB. BOJONEGORO,-7.1991,111.9334,WGS 1984
-215,321,Kapuan,Jawa Tengah,Daop IV Semarang,KPA,Beroperasi,KAB. BLORA,-7.1886,111.5552,WGS 1984
-216,322,Karangampel,Jawa Barat,Daop III Cirebon,KRP,Tidak beroperasi,KAB. BATANG,-6.92377,109.8944,WGS 1984
-217,323,Karanganyar,Jawa Tengah,Daop V Purwokerto,KA,Beroperasi,KAB. KEBUMEN,-7.6333,109.5734,WGS 1984
-218,324,Karangantu,Banten,Daop I Jakarta,KRA,Beroperasi,KOTA SERANG,-6.039,106.162,WGS 1984
-219,325,Karangjati,Jawa Tengah,Daop IV Semarang,KGT,Beroperasi,KAB. GROBOGAN,-7.10138,110.7792,WGS 1984
-220,326,Karanggandul,Jawa Tengah,Daop V Purwokerto,KGD,Beroperasi,KAB. BANYUMAS,-7.388,109.1858,WGS 1984
-221,327,Karangkandri,Jawa Tengah,Daop V Purwokerto,KKD,Beroperasi,KAB. CILACAP,-7.6662,109.0756,WGS 1984
-222,329,Karangpilang,Jawa Timur,Daop VIII Surabaya,KAP,Tidak beroperasi,KAB. INDRAMAYU,-6.46021,108.4574,WGS 1984
-223,330,Karangpucung,Jawa Barat,Daop II Bandun,KNP,Beroperasi,KOTA BANJAR,-7.35352,108.494,WGS 1984
-224,331,Karangsari (ke Bd),Jawa Barat,Daop II Bandun,KRAI,Beroperasi,KAB. GARUT,-7.09827,107.9312,WGS 1984
-225,332,Karangsari (ke Pwt),Jawa Tengah,Daop V Purwokerto,KRR,Beroperasi,KAB. BANYUMAS,-7.3822,109.1208,WGS 1984
-226,333,Karangsono,Jawa Tengah,Daop IV Semarang,KSO,Beroperasi,KAB. GROBOGAN,-7.19629,110.8256,WGS 1984
-227,334,Karangsuwung,Jawa Barat,Daop III Cirebon,KRW,Tidak beroperasi,KAB. CIREBON,-6.85779,108.6478,WGS 1984
-228,337,Karang Tengah,Jawa Barat,Daop I Jakarta,KE,Beroperasi,KAB. SUKABUMI,-6.8963,106.8224,WGS 1984
-229,338,Karawang,Jawa Barat,Daop I Jakarta,KW,Beroperasi,KAB. KARAWANG,-6.30518,107.3002,WGS 1984
-230,340,Karet,DKI Jakarta,Daop I Jakarta,KAT,Beroperasi,KOTA JAKARTA PUSAT,-6.20081,106.816,WGS 1984
-231,343,Kasugihan,Jawa Tengah,Daop V Purwokerto,KH,Beroperasi,KAB. CILACAP,-7.61829,109.1218,WGS 1984
-232,345,Kawunganten,Jawa Tengah,Daop V Purwokerto,KWG,Beroperasi,KAB. CILACAP,-7.59088,108.9194,WGS 1984
-233,346,Kebayoran,DKI Jakarta,Daop I Jakarta,KBY,Beroperasi,KOTA ADM. JAKARTA SELATAN,-6.23737,106.7824,WGS 1984
-234,347,Kebasen,Jawa Tengah,Daop V Purwokerto,KBS,Beroperasi,KAB. BANYUMAS,-7.53027,109.2032,WGS 1984
-235,349,Kebonromo,Jawa Tengah,Daop VI Yogyakarta,KRO,Beroperasi,KAB. SRAGEN,-7.41907,111.064,WGS 1984
-236,350,Kebumen,Jawa Tengah,Daop V Purwokerto,KM,Beroperasi,KAB. KEBUMEN,-7.68188,109.6622,WGS 1984
-237,351,Kedinding,Jawa Timur,Daop VIII Surabaya,KDN,Beroperasi,KAB. SIDOARJO,-7.43707,112.5526,WGS 1984
-238,352,Kediri,Jawa Timur,Daop VII Madiun,KD,Beroperasi,KOTA KEDIRI,-7.8172,112.0156,WGS 1984
-239,354,Kedundang,Jawa Tengah,Daop VI Yogyakarta,KDG,Beroperasi,KAB. KULON PROGO,-7.85919,110.2094,WGS 1984
-240,355,Kedungbanteng,Jawa Tengah,Daop VI Yogyakarta,KDB,Beroperasi,KAB. SRAGEN,-7.40521,111.1172,WGS 1984
-241,356,Kedungjati,Jawa Tengah,Daop IV Semarang,KEJ,Beroperasi,KAB. GROBOGAN,-7.16351,110.6356,WGS 1984
-242,357,Kedunggalar,Jawa Timur,Daop VII Madiun,KG,Beroperasi,KAB. NGAWI,-7.41827,111.3068,WGS 1984
-243,358,Kedunggedeh,Jawa Barat,Daop I Jakarta,KDH,Beroperasi,KAB. BEKASI,-6.2699,107.2612,WGS 1984
-244,359,Kedungpring,Jawa Timur,Daop VII Madiun,KEI,Tidak beroperasi,KAB. LAMONGAN,-7.18628,112.1958,WGS 1984
-245,361,Kemayoran,DKI Jakarta,Daop I Jakarta,KMO,Beroperasi,KOTA ADM. JAKARTA PUSAT,-6.16187,106.8414,WGS 1984
-246,362,Kemijen,Jawa Tengah,Daop IV Semarang,KME,Tidak beroperasi,KOTA SEMARANG,-6.95587,110.4388,WGS 1984
-247,363,Kemiri,Jawa Tengah,Daop VI Yogyakarta,KMR,Beroperasi,KAB. KARANGANYAR,-7.534,110.9014,WGS 1984
-248,364,Kemranjen,Jawa Tengah,Daop V Purwokerto,KJ,Beroperasi,KAB. BANYUMAS,-7.62158,109.3154,WGS 1984
-249,366,Kendal,Jawa Tengah,Daop IV Semarang,KL,Tidak beroperasi,KAB. KENDAL,-6.9209,110.1924,WGS 1984
-250,369,Kepanjen,Jawa Timur,Daop VIII Surabaya,KPN,Beroperasi,KOTA MALANG,-8.1319,112.5736,WGS 1984
-251,372,Kertasemaya,Jawa Barat,Daop III Cirebon,KTM,Beroperasi,KAB. INDRAMAYU,-6.5282,108.3534,WGS 1984
-252,374,Kertosono,Jawa Timur,Daop VII Madiun,KTS,Beroperasi,KAB. NGANJUK,-7.5918,112.1008,WGS 1984
-253,375,Kesamben,Jawa Timur,Daop VIII Surabaya,KSB,Beroperasi,KOTA BLITAR,-8.14929,112.3636,WGS 1984
-254,377,Ketanggungan,Jawa Tengah,Daop III Cirebon,KGG,Beroperasi,KAB. BREBES,-6.93829,108.8844,WGS 1984
-255,378,Ketanggungan Barat,Jawa Tengah,Daop III Cirebon,KGB,Tidak beroperasi,KAB. BREBES,-6.9292,108.8562,WGS 1984
-256,380,Kiaracondong,Jawa Barat,Daop II Bandung,KAC,Beroperasi,KOTA BANDUNG,-6.92511,107.6464,WGS 1984
-257,381,Klakah,Jawa Timur,Daop IX Jember,KK,Beroperasi,KAB. LUMAJANG,-7.99371,113.2484,WGS 1984
-258,382,Klari,Jawa Barat,Daop I Jakarta,KLI,Beroperasi,KAB. KARAWANG,-6.34998,107.3454,WGS 1984
-259,383,Klaten,Jawa Tengah,Daop VI Yogyakarta,KT,Beroperasi,KAB. KLATEN,-7.71228,110.603,WGS 1984
-260,384,Klender,DKI Jakarta,Daop I Jakarta,KLD,Beroperasi,KOTA ADM. JAKARTA TIMUR,-6.21338,106.9,WGS 1984
-261,385,Klender Baru,DKI Jakarta,Daop I Jakarta,KLDB,Beroperasi,KOTA ADM. JAKARTA TIMUR,-6.21759,106.9398,WGS 1984
-262,387,Kosambi,Jawa Barat,Daop I Jakarta,KOS,Beroperasi,KAB. KARAWANG,-6.3692,107.3748,WGS 1984
-263,388,Kotapadang,Bengkulu,Divre III Palembang,KOP,Beroperasi,KAB. REJANG LEBONG,-3.42609,102.967,WGS 1984
-264,389,Kotok,Jawa Timur,Daop IX Jember,KTK,Beroperasi,KAB. JEMBER,-8.1261,113.779,WGS 1984
-265,390,Kradenan,Jawa Tengah,Daop IV Semarang,KNN,Beroperasi,KAB. GROBOGAN,-7.1499,111.145,WGS 1984
-266,392,Kramat,DKI Jakarta,Daop I Jakarta,KMT,Beroperasi,KOTA ADM. JAKARTA PUSAT,-6.19391,106.8566,WGS 1984
-267,394,Kranji,Jawa Barat,Daop I Jakarta,KRI,Beroperasi,KOTA BEKASI,-6.2243,106.9792,WGS 1984
-268,395,Kras,Jawa Timur,Daop VII Madiun,KRS,Beroperasi,KOTA KEDIRI,-7.94867,111.9604,WGS 1984
-269,398,Krengseng,Jawa Tengah,Daop IV Semarang,KNS,Beroperasi,KAB. BATANG,-6.95239,110.028,WGS 1984
-270,399,Krenceng,Banten,Daop I Jakarta,KEN,Beroperasi,KOTA CILEGON,-6.00977,106.023,WGS 1984
-271,400,Kretek,Jawa Tengah,Daop V Purwokerto,KRT,Beroperasi,KAB. BREBES,-7.28558,109.0298,WGS 1984
-272,401,Krian,Jawa Timur,Daop VIII Surabaya,KRN,Beroperasi,KAB. SIDOARJO,-7.4101,112.5862,WGS 1984
-273,402,Krikilan,Jawa Timur,Daop IX Jember,KKL,Beroperasi,KAB. BANYUWANGI,-8.2959,114.029,WGS 1984
-274,403,Kronelan,Jawa Tengah,Daop VI Yogyakarta,KNL,Tidak beroperasi,KAB. SUKOHARJO,-7.59601,110.8534,WGS 1984
-275,404,Kroya,Jawa Tengah,Daop V Purwokerto,KYA,Beroperasi,KAB. CILACAP,-7.63,109.2538,WGS 1984
-276,408,Kunduran,Jawa Tengah,Daop IV Semarang,KDR,Tidak beroperasi,KAB. BLORA,-7.0506,111.2408,WGS 1984
-277,409,Kuripan,Jawa Tengah,Daop IV Semarang,KRP,Beroperasi,KAB. BATANG,-6.92377,109.8944,WGS 1984
-278,410,Kutoarjo,Jawa Tengah,Daop V Purwokerto,KTA,Beroperasi,KAB. PURWOREJO,-7.7262,109.9074,WGS 1984
-279,411,Kutowinangun,Jawa Tengah,Daop V Purwokerto,KWN,Beroperasi,KAB. KEBUMEN,-7.7168,109.7342,WGS 1984
-280,415,Kwanyar,Jawa Timur,Daop VIII Surabaya,KWR,Tidak beroperasi,KAB. BANGKALAN,-7.15198,112.8676,WGS 1984
-281,419,Lamongan,Jawa Timur,Daop VIII Surabaya,LMG,Beroperasi,KAB. LAMONGAN,-7.11249,112.4202,WGS 1984
-282,420,Lampegan,Jawa Barat,Daop II Bandung,LP,Beroperasi,KAB. CIANJUR,-6.94989,107.0616,WGS 1984
-283,421,Langen,Jawa Barat,Daop V Purwokerto,LN,Beroperasi,KOTA BANJAR,-7.36011,108.637,WGS 1984
-284,422,Larangan (ke Smt),Jawa Tengah,Daop IV Semarang,LR,Beroperasi,KAB. TEGAL,-6.86816,109.1858,WGS 1984
-285,423,Larangan (ke Pwt),Jawa Tengah,Daop III Cirebon,LRA,Beroperasi,KAB. BREBES,-6.9906,108.9488,WGS 1984
-286,424,Lasem,Jawa Tengah,Daop IV Semarang,LS,Tidak beroperasi,KAB. REMBANG,-6.6955,111.4372,WGS 1984
-287,425,Lawang,Jawa Timur,Daop VIII Surabaya,LW,Beroperasi,KOTA MALANG,-7.83679,112.6978,WGS 1984
-288,426,Lebakjero,Jawa Barat,Daop II Bandung,LBJ,Beroperasi,KAB. BANDUNG,-7.05359,107.894,WGS 1984
-289,427,Lebeng,Jawa Tengah,Daop V Purwokerto,LBG,Beroperasi,KAB. CILACAP,-7.62128,109.0774,WGS 1984
-290,428,Leces,Jawa Timur,Daop IX Jember,LEC,Beroperasi,KAB. PROBOLINGGO,-7.84686,113.229,WGS 1984
-291,429,Ledokombo,Jawa Timur,Daop IX Jember,LDO,Beroperasi,KAB. JEMBER,-8.14056,113.8756,WGS 1984
-292,430,Legok,Jawa Tengah,Daop V Purwokerto,LGK,Tidak beroperasi,KAB. BANYUMAS,-7.35547,109.0872,WGS 1984
-293,432,Lemahabang,Jawa Barat,Daop I Jakarta,LMB,Beroperasi,KAB. BEKASI,-6.27057,107.1798,WGS 1984
-294,433,Lempuyangan,D.I Yogyakarta,Daop VI Yogyakarta,LPN,Beroperasi,KOTA YOGYAKARTA,-7.7901,110.3748,WGS 1984
-295,437,Linggapura,Jawa Tengah,Daop V Purwokerto,LG,Beroperasi,KAB. BREBES,-7.185,109.0124,WGS 1984
-296,439,Losari,Jawa Barat,Daop III Cirebon,LOS,Beroperasi,KAB. CIREBON,-6.84607,108.8018,WGS 1984
-297,440,Lumajang,Jawa Timur,Daop IX Jember,LM,Tidak beroperasi,KAB. LUMAJANG,-8.13538,113.2152,WGS 1984
-298,441,Luwung,Jawa Barat,Daop III Cirebon,LWG,Tidak beroperasi,KAB. CIREBON,-6.77759,108.5932,WGS 1984
-299,442,Madiun,Jawa Timur,Daop VII Madiun,MN,Beroperasi,KOTA MADIUN,-7.61841,111.525,WGS 1984
-300,444,Magelang Kota,Jawa Tengah,Daop VI Yogyakarta,MG,Tidak beroperasi,KOTA MAGELANG,-7.46851,110.2184,WGS 1984
-301,446,Magetan,Jawa Timur,Daop VII Madiun,MAG,Beroperasi,KAB. MAGETAN,-7.56209,111.45117,
-302,447,Maguwo,D.I Yogyakarta,Daop VI Yogyakarta,MGW,Beroperasi,KAB. SLEMAN,-7.78497,110.437,WGS 1984
-303,448,Maja,Banten,Daop I Jakarta,MJ,Beroperasi,KAB. LEBAK,-6.33228,106.3962,WGS 1984
-304,450,Malang,Jawa Timur,Daop VIII Surabaya,ML,Beroperasi,KOTA MALANG,-7.97742,112.6374,WGS 1984
-305,452,Malang Kotalama,Jawa Timur,Daop VIII Surabaya,MLK,Beroperasi,KOTA MALANG,-7.99512,112.6324,WGS 1984
-306,453,Malasan,Jawa Timur,Daop IX Jember,MLS,Beroperasi,KAB. PROBOLINGGO,-7.8844,113.2596,WGS 1984
-307,454,Maleber,Jawa Barat,Daop II Bandung,MLB,Tidak beroperasi,KAB. CIANJUR,-6.81787,107.1756,WGS 1984
-308,456,Mampang,DKI Jakarta,Daop I Jakarta,MPG,Tidak beroperasi,KOTA JAKARTA PUSAT,-6.20587,106.8394,WGS 1984
-309,458,Manggarai,DKI Jakarta,Daop I Jakarta,MRI,Beroperasi,KOTA ADM. JAKARTA SELATAN,-6.2099,106.8498,WGS 1984
-310,459,Mangga Besar,DKI Jakarta,Daop I Jakarta,MGB,Beroperasi,KOTA JAKARTA PUSAT,-6.14978,106.827,WGS 1984
-311,460,Mangkang,Jawa Tengah,Daop IV Semarang,MKG,Beroperasi,KOTA SEMARANG,-6.97107,110.303,WGS 1984
-312,461,Mangli,Jawa Timur,Daop IX Jember,MI,Beroperasi,KAB. JEMBER,-8.1886,113.6552,WGS 1984
-313,462,Manonjaya,Jawa Barat,Daop II Bandung,MNJ,Beroperasi,KAB. TASIKMALAYA,-7.35321,108.3026,WGS 1984
-314,463,Mantingan,Jawa Tengah,Daop IV Semarang,MNT,Tidak beroperasi,KAB. REMBANG,-6.86377,111.4244,WGS 1984
-315,464,Maos,Jawa Tengah,Daop V Purwokerto,MA,Beroperasi,KAB. CILACAP,-7.61908,109.1398,WGS 1984
-316,465,Margasari,Jawa Tengah,Daop V Purwokerto,MA,Tidak beroperasi,KAB. CILACAP,-7.61908,109.1398,WGS 1984
-317,467,Masaran,Jawa Tengah,Daop VI Yogyakarta,MSR,Beroperasi,KAB. SRAGEN,-7.46808,110.9478,WGS 1984
-318,468,Maseng,Jawa Barat,Daop I Jakarta,MSG,Beroperasi,KAB. BOGOR,-6.70239,106.8146,WGS 1984
-319,469,Maswati,Jawa Barat,Daop II Bandung,MSI,Beroperasi,KAB. BANDUNG BARAT,-6.76086,107.409,WGS 1984
-320,471,Mayong,Jawa Tengah,Daop IV Semarang,MY,Tidak beroperasi,KAB. JEPARA,-6.7475,110.7562,WGS 1984
-321,473,Meluwung,Jawa Tengah,Daop V Purwokerto,MLW,Beroperasi,KAB. CILACAP,-7.39441,108.6996,WGS 1984
-322,475,Merak,Banten,Daop I Jakarta,MER,Beroperasi,KOTA CILEGON,-5.9303,105.9972,WGS 1984
-323,476,Merakurak,Jawa Timur,Daop VIII Surabaya,MKR,Tidak beroperasi,KAB. TUBAN,-6.8866,111.9992,WGS 1984
-324,479,Minggiran,Jawa Timur,Daop VII Madiun,MGN,Beroperasi,KOTA KEDIRI,-7.72809,112.0574,WGS 1984
-325,483,Mojokerto,Jawa Timur,Daop VIII Surabaya,MR,Beroperasi,KOTA MOJOKERTO,-7.47241,112.4344,WGS 1984
-326,488,Montelan,Jawa Tengah,Daop VI Yogyakarta,MTL,Tidak beroperasi,KAB. PURWOREJO,-7.7536,109.9498,WGS 1984
-327,489,Mrawan,Jawa Timur,Daop IX Jember,MRW,Beroperasi,KAB. JEMBER,-8.2724,113.9268,WGS 1984
-328,492,Nagreg,Jawa Barat,Daop II Bandung,NG,Beroperasi,KAB. BANDUNG,-7.01819,107.8862,WGS 1984
-329,494,Nambo,Jawa Barat,Daop I Jakarta,NMO,Beroperasi,KAB. BOGOR,-6.46509,106.909,WGS 1984
-330,495,Ngabean,D.I Yogyakarta,Daop VI Yogyakarta,NBN,Tidak beroperasi,KOTA YOGYAKARTA,-7.81177,110.355,WGS 1984
-331,496,Ngadiluwih,Jawa Timur,Daop VII Madiun,NDL,Beroperasi,KOTA KEDIRI,-7.89838,111.988,WGS 1984
-332,498,Ngaloran,Jawa Tengah,Daop IV Semarang,NLR,Tidak beroperasi,KAB. DEMAK,-6.87097,110.7294,WGS 1984
-333,499,Nganjuk,Jawa Timur,Daop VII Madiun,NJ,Beroperasi,KAB. NGANJUK,-7.6001,111.9028,WGS 1984
-334,501,Ngawi,Jawa Timur,Daop VII Madiun,NGW,Beroperasi,KAB. NGAWI,-7.44226,111.38695,
-335,502,Ngebruk,Jawa Timur,Daop VIII Surabaya,NB,Beroperasi,KOTA MALANG,-8.15192,112.518,WGS 1984
-336,504,Ngimbang,Jawa Timur,Daop VII Madiun,NBG,Tidak beroperasi,KAB. LAMONGAN,-7.28381,112.2154,WGS 1984
-337,505,Ngrombo,Jawa Tengah,Daop IV Semarang,NBO,Beroperasi,KAB. GROBOGAN,-7.14526,110.9004,WGS 1984
-338,506,Ngoro KSM,Jawa Timur,Daop VII Madiun,NGR,Tidak beroperasi,KAB. JOMBANG,-7.6908,112.2686,WGS 1984
-339,508,Ngujang,Jawa Timur,Daop VII Madiun,NJG,Beroperasi,KAB. TULUNGAGUNG,-8.0105,111.9272,WGS 1984
-340,510,Ngunut,Jawa Timur,Daop VII Madiun,NT,Beroperasi,KAB. TULUNGAGUNG,-8.10278,112.0122,WGS 1984
-341,512,Notog,Jawa Tengah,Daop V Purwokerto,NTG,Beroperasi,KAB. BANYUMAS,-7.48578,109.2134,WGS 1984
-342,513,Pabuaran,Jawa Barat,Daop III Cirebon,PAB,Beroperasi,KAB. SUBANG,-6.40918,107.584,WGS 1984
-343,515,Padalarang,Jawa Barat,Daop II Bandung,PDL,Beroperasi,KAB. BANDUNG BARAT,-6.84277,107.4976,WGS 1984
-344,517,Padas,Jawa Tengah,Daop IV Semarang,PDS,Beroperasi,KAB. GROBOGAN,-7.1792,110.672,WGS 1984
-345,520,Pagongan,Jawa Tengah,Daop V Purwokerto,PNG,Tidak beroperasi,KAB. MUARA ENIM,-3.48169,103.813,WGS 1984
-346,524,Pakisaji,Jawa Timur,Daop VIII Surabaya,PSI,Beroperasi,KOTA MALANG,-8.06927,112.5986,WGS 1984
-347,526,Palbapang,D.I Yogyakarta,Daop VI Yogyakarta,PLP,Tidak beroperasi,KAB. BANTUL,-7.9068,110.3194,WGS 1984
-348,527,Palmerah,DKI Jakarta,Daop I Jakarta,PLM,Beroperasi,KOTA ADM. JAKARTA PUSAT,-6.20758,106.7974,WGS 1984
-349,528,Palur,Jawa Tengah,Daop VI Yogyakarta,PL,Beroperasi,KAB. KARANGANYAR,-7.56818,110.8756,WGS 1984
-350,529,Pamekasan,Jawa Timur,Daop VIII Surabaya,PM,Tidak beroperasi,KAB. PAMEKASAN,-7.16107,113.487,WGS 1984
-351,530,Pamotan,Jawa Tengah,Daop IV Semarang,PMT,Tidak beroperasi,KAB. REMBANG,-6.76337,111.4912,WGS 1984
-352,531,Panarukan,Jawa Timur,Daop IX Jember,PNR,Tidak beroperasi,KAB. SITUBONDO,-7.69757,113.936,WGS 1984
-353,534,Pandeglang,Banten,Daop I Jakarta,PDG,Tidak beroperasi,KAB. BANTUL,-7.96167,110.3426,WGS 1984
-354,535,Pangandaran,Jawa Barat,Daop II Bandung,PND,Tidak beroperasi,KAB. PANGANDARAN,-7.67596,108.631,WGS 1984
-355,537,Panunggalan,Jawa Tengah,Daop IV Semarang,PNL,Beroperasi,KAB. GROBOGAN,-7.15259,111.0608,WGS 1984
-356,539,Papar,Jawa Timur,Daop VII Madiun,PPR,Beroperasi,KOTA KEDIRI,-7.69757,112.0796,WGS 1984
-357,541,Pare,Jawa Timur,Daop VII Madiun,PE,Tidak beroperasi,KAB. KEDIRI,-7.76727,112.1924,WGS 1984
-358,543,Parung Kuda,Jawa Barat,Daop I Jakarta,PRK,Beroperasi,KAB. SUKABUMI,-6.8465,106.7606,WGS 1984
-359,544,Parung Panjang,Jawa Barat,Daop I Jakarta,PRP,Beroperasi,KAB. BOGOR,-6.34418,106.5688,WGS 1984
-360,548,Pasar Minggu,DKI Jakarta,Daop I Jakarta,PSM,Beroperasi,KOTA JAKARTA SELATAN,-6.28436,106.8446,WGS 1984
-361,549,Pasar Minggu Baru,DKI Jakarta,Daop I Jakarta,PSMB,Beroperasi,KOTA JAKARTA SELATAN,-6.26282,106.8518,WGS 1984
-362,550,Pasarnguter,Jawa Tengah,Daop VI Yogyakarta,PNT,Beroperasi,KAB. SUKOHARJO,-7.74139,110.8786,WGS 1984
-363,551,Pasar Senen,DKI Jakarta,Daop I Jakarta,PSE,Beroperasi,KOTA ADM. JAKARTA PUSAT,-6.1745,106.8442,WGS 1984
-364,552,Pasirbungur,Jawa Barat,Daop III Cirebon,PAS,Beroperasi,KAB. SUBANG,-6.42639,107.6886,WGS 1984
-365,554,Pasirjengkol,Jawa Barat,Daop II Bandung,PSJ,Beroperasi,KAB. GARUT,-7.12864,107.99229,
-366,555,Pasirian,Jawa Timur,Daop IX Jember,PSR,Tidak beroperasi,KAB. LUMAJANG,-8.21649,113.1154,WGS 1984
-367,556,Pasoso,DKI Jakarta,Daop I Jakarta,POO,Beroperasi,KOTA JAKARTA UTARA,-6.10938,106.884,WGS 1984
-368,557,Pasuruan,Jawa Timur,Daop IX Jember,PS,Beroperasi,KOTA PASURUAN,-7.63739,112.9098,WGS 1984
-369,559,Pati,Jawa Tengah,Daop IV Semarang,PT,Tidak beroperasi,KAB. PATI,-6.75018,111.0276,WGS 1984
-370,560,Patikraja,Jawa Tengah,Daop V Purwokerto,PTR,Tidak beroperasi,KAB. JOMBANG,-7.54187,112.2792,WGS 1984
-371,561,Patuguran,Jawa Tengah,Daop V Purwokerto,PAT,Beroperasi,KAB. BREBES,-7.32806,109.0578,WGS 1984
-372,562,Patukan,D.I Yogyakarta,Daop VI Yogyakarta,PTN,Beroperasi,KAB. SLEMAN,-7.79077,110.3254,WGS 1984
-373,564,Pegaden Baru,Jawa Barat,Daop III Cirebon,PGB,Beroperasi,KAB. SUBANG,-6.4538,107.8172,WGS 1984
-374,566,Pehsentee,Jawa Timur,Daop VII Madiun,PST,Tidak beroperasi,KAB. KEDIRI,-7.81189,112.2898,WGS 1984
-375,567,Pekalongan,Jawa Tengah,Daop IV Semarang,PK,Beroperasi,KOTA PEKALONGAN,-6.88977,109.6642,WGS 1984
-376,570,Pemalang,Jawa Tengah,Daop IV Semarang,PML,Beroperasi,KAB. PEMALANG,-6.88727,109.388,WGS 1984
-377,573,Pesantren,Jawa Timur,Daop VII Madiun,PES,Tidak beroperasi,KOTA KEDIRI,-7.83588,112.0532,WGS 1984
-378,574,Pesing,DKI Jakarta,Daop I Jakarta,PSG,Beroperasi,KOTA JAKARTA BARAT,-6.16119,106.772,WGS 1984
-379,575,Petarukan,Jawa Tengah,Daop IV Semarang,PTA,Beroperasi,KAB. PEMALANG,-6.89771,109.4496,WGS 1984
-380,576,Peterongan,Jawa Timur,Daop VII Madiun,PTR,Beroperasi,KAB. JOMBANG,-7.54187,112.2792,WGS 1984
-381,579,Plabuan,Jawa Tengah,Daop IV Semarang,PLB,Beroperasi,KAB. BATANG,-6.9198,109.956,WGS 1984
-382,581,Plered,Jawa Barat,Daop II Bandung,PLD,Beroperasi,KAB. PURWAKARTA,-6.64038,107.3914,WGS 1984
-383,582,Ploso,Jawa Timur,Daop VII Madiun,POS,Tidak beroperasi,KAB. JOMBANG,-7.4538,112.2268,WGS 1984
-384,583,Plumpang,Jawa Timur,Daop VIII Surabaya,PMG,Tidak beroperasi,KAB. TUBAN,-7.02338,112.1,WGS 1984
-385,584,Pohgajih,Jawa Timur,Daop VIII Surabaya,PGJ,Beroperasi,KOTA BLITAR,-8.15729,112.4206,WGS 1984
-386,585,Pondok Cina,Jawa Barat,Daop I Jakarta,POC,Beroperasi,KOTA DEPOK,-6.3689,106.8324,WGS 1984
-387,586,Pondok Jati,DKI Jakarta,Daop I Jakarta,POK,Beroperasi,KOTA ADM. JAKARTA TIMUR,-6.20898,106.8622,WGS 1984
-388,588,Pondok Ranji,Banten,Daop I Jakarta,PDJ,Beroperasi,KOTA TANGERANG SELATAN,-6.27667,106.7448,WGS 1984
-389,591,Ponorogo,Jawa Timur,Daop VII Madiun,PO,Tidak beroperasi,KAB. PONOROGO,-7.8678,111.4702,WGS 1984
-390,592,Porong,Jawa Timur,Daop VIII Madiun,PR,Beroperasi,KAB. SIDOARJO,-7.53839,112.7018,WGS 1984
-391,593,Poris,Banten,Daop I Jakarta,PI,Beroperasi,KOTA TANGERANG,-6.16968,106.6814,WGS 1984
-392,595,Prambon,Jawa Timur,Daop VIII Surabaya,PBN,Tidak beroperasi,KAB. SIDOARJO,-7.46136,112.5644,WGS 1984
-393,596,Prembun,Jawa Tengah,Daop V Purwokerto,PRB,Beroperasi,KAB. KEBUMEN,-7.72437,109.7982,WGS 1984
-394,597,Pringkasap,Jawa Barat,Daop III Cirebon,PRI,Beroperasi,KAB. SUBANG,-6.41809,107.6344,WGS 1984
-395,598,Probolinggo,Jawa Timur,Daop IX Jember,PB,Beroperasi,KAB. PROBOLINGGO,-7.74268,113.2158,WGS 1984
-396,600,Prupuk,Jawa Tengah,Daop V Purwokerto,PPK,Beroperasi,KAB. TEGAL,-7.12201,108.9852,WGS 1984
-397,603,Pulorejo,Jawa Timur,Daop VII Madiun,PLR,Tidak beroperasi,KAB. JOMBANG,-7.6731,112.2254,WGS 1984
-398,607,Purwakarta,Jawa Barat,Daop II Bandung,PWK,Beroperasi,KAB. PURWAKARTA,-6.55267,107.4464,WGS 1984
-399,608,Purwoasri,Jawa Timur,Daop VII Madiun,PWA,Beroperasi,KOTA KEDIRI,-7.64728,112.1002,WGS 1984
-400,609,Purwodadi,Jawa Tengah,Daop IV Semarang,PW,Tidak beroperasi,KAB. GROBOGAN,-7.08337,110.9116,WGS 1984
-401,610,Purwokerto,Jawa Tengah,Daop V Purwokerto,PWT,Beroperasi,KAB. BANYUMAS,-7.41907,109.222,WGS 1984
-402,613,Purworejo,Jawa Tengah,Daop V Purwokerto,PWR,Tidak beroperasi,KAB. PURWOREJO,-7.6886,110.0604,WGS 1984
-403,614,Purwosari,Jawa Tengah,Daop VI Yogyakarta,PWS,Beroperasi,KOTA SURAKARTA,-7.56177,110.7964,WGS 1984
-404,615,Pucuk,Jawa Timur,Daop VIII Surabaya,PC,Beroperasi,KAB. LAMONGAN,-7.09747,112.2698,WGS 1984
-405,616,Rajamandala,Jawa Barat,Daop II Bandung,RM,Beroperasi terbatas,KAB. BANDUNG BARAT,-6.82446,107.3466,WGS 1984
-406,617,Rajapolah,Jawa Barat,Daop II Bandung,RJP,Beroperasi,KAB. TASIKMALAYA,-7.21948,108.1912,WGS 1984
-407,618,Rajawali,DKI Jakarta,Daop I Jakarta,RJW,Beroperasi,KOTA ADM. JAKARTA PUSAT,-6.14508,106.8368,WGS 1984
-408,619,Rambipuji,Jawa Timur,Daop IX Jember,RBP,Beroperasi,KAB. JEMBER,-8.20337,113.6144,WGS 1984
-409,620,Rancaekek,Jawa Barat,Daop II Bandung,RCK,Beroperasi,KAB. BANDUNG,-6.96478,107.756,WGS 1984
-410,621,Randegan,Jawa Tengah,Daop V Purwokerto,RDN,Beroperasi,KAB. CILACAP,-7.57007,109.22,WGS 1984
-411,622,Randuagung,Jawa Timur,Daop IX Jember,RDA,Beroperasi,KAB. LUMAJANG,-8.07111,113.3058,WGS 1984
-412,623,Randublatung,Jawa Tengah,Daop IV Semarang,RBG,Beroperasi,KAB. BLORA,-7.1922,111.3982,WGS 1984
-413,624,Rangkasbitung,Banten,Daop I Jakarta,RK,Beroperasi,KAB. LEBAK,-6.3526,106.2514,WGS 1984
-414,626,Ranuyoso,Jawa Timur,Daop IX Jember,RN,Beroperasi,KAB. LUMAJANG,-7.95447,113.237,WGS 1984
-415,629,Rawa Buntu,Banten,Daop I Jakarta,RU,Beroperasi,KOTA TANGERANG SELATAN,-6.31488,106.6762,WGS 1984
-416,630,Rawa Buaya,DKI Jakarta,Daop I Jakarta,RW,Beroperasi,KOTA JAKARTA BARAT,-6.1626,106.7236,WGS 1984
-417,631,Rejoso,Jawa Timur,Daop IX Jember,RO,Beroperasi,KOTA PASURUAN,-7.68951,112.9658,WGS 1984
-418,632,Rejotangan,Jawa Timur,Daop VII Madiun,RJ,Beroperasi,KAB. TULUNGAGUNG,-8.12097,112.0812,WGS 1984
-419,633,Rembang,Jawa Tengah,Daop IV Semarang,RB,Tidak beroperasi,KAB. REMBANG,-6.70959,111.3424,WGS 1984
-420,635,Rendeh,Jawa Barat,Daop II Bandung,RH,Beroperasi,KAB. BANDUNG BARAT,-6.7359,107.398,WGS 1984
-421,637,Rengasbandung,Jawa Barat,Daop I Jakarta,RBG,Tidak beroperasi,KAB. BLORA,-7.1922,111.3982,WGS 1984
-422,638,Rewulu,D.I Yogyakarta,Daop VI Yogyakarta,RWL,Beroperasi,KAB. BANTUL,-7.7959,110.2842,WGS 1984
-423,640,Rogojampi,Jawa Timur,Daop IX Jember,RGP,Beroperasi,KAB. BANYUWANGI,-8.3045,114.2926,WGS 1984
-424,641,Sadang,Jawa Barat,Daop II Bandung,SAD,Tidak beroperasi,KAB. PURWAKARTA,-6.51068,107.4564,WGS 1984
-425,642,Saketi,Banten,Daop I Jakarta,STI,Tidak beroperasi,KAB. PANDEGLANG,-6.40448,105.9914,WGS 1984
-426,643,Salem,Jawa Tengah,Daop VI Yogyakarta,SLM,Beroperasi,KAB. SRAGEN,-7.39557,110.8272,WGS 1984
-427,646,Sampang,Jawa Timur,Daop VIII Surabaya,SPG,Tidak beroperasi,KAB. SAMPANG,-7.20306,113.2492,WGS 1984
-428,647,Saradan,Jawa Timur,Daop VII Madiun,SRD,Beroperasi,KOTA MADIUN,-7.54749,111.7322,WGS 1984
-429,648,Sasaksaat,Jawa Barat,Daop II Bandung,SKT,Beroperasi,KAB. BANDUNG BARAT,-6.77917,107.4316,WGS 1984
-430,650,Sawotratap,Jawa Timur,Daop VIII Surabaya,STP,Tidak beroperasi,KAB. SIDOARJO,-7.3678,112.7294,WGS 1984
-431,651,Sayung,Jawa Tengah,Daop IV Semarang,SYG,Tidak beroperasi,KAB. DEMAK,-6.9411,110.5102,WGS 1984
-432,652,Secang,Jawa Tengah,Daop VI Yogyakarta,SCA,Tidak beroperasi,KAB. MAGELANG,-7.39209,110.2418,WGS 1984
-433,653,Sedadi,Jawa Tengah,Daop IV Semarang,SDI,Beroperasi,KAB. GROBOGAN,-7.14056,110.8484,WGS 1984
-434,655,Sedayu (ke Yk),D.I Yogyakarta,Daop VI Yogyakarta,SDY,Tidak beroperasi,KAB. BANTUL,-7.80341,110.259,WGS 1984
-435,656,Selajambe,Jawa Barat,Daop II Bandung,SLJ,Tidak beroperasi,KAB. CIANJUR,-6.8136,107.2226,WGS 1984
-436,659,Semarang Poncol,Jawa Tengah,Daop IV Semarang,SMC,Beroperasi,KOTA SEMARANG,-6.9729,110.4148,WGS 1984
-437,660,Semarang Tawang,Jawa Tengah,Daop IV Semarang,SMT,Beroperasi,KOTA SEMARANG,-6.96448,110.4282,WGS 1984
-438,662,Sembung (Jg),Jawa Timur,Daop VII Madiun,SMB,Beroperasi,KAB. JOMBANG,-7.5827,112.1672,WGS 1984
-439,664,Sempolan,Jawa Timur,Daop IX Jember,SPL,Beroperasi,KAB. JEMBER,-8.19257,113.8962,WGS 1984
-440,665,Sengon,Jawa Timur,Daop VIII Surabaya,SN,Beroperasi,KOTA PASURUAN,-7.75519,112.7246,WGS 1984
-441,666,Sentolo,D.I Yogyakarta,Daop VI Yogyakarta,STL,Beroperasi,KAB. KULON PROGO,-7.83319,110.2202,WGS 1984
-442,667,Sepanjang,Jawa Timur,Daop VIII Surabaya,SPJ,Beroperasi,KAB. SIDOARJO,-7.34717,112.6978,WGS 1984
-443,668,Serang,Banten,Daop I Jakarta,SG,Beroperasi,KOTA SERANG,-6.11237,106.1586,WGS 1984
-444,669,Serpong,Banten,Daop I Jakarta,SRP,Beroperasi,KOTA TANGERANG SELATAN,-6.32019,106.6656,WGS 1984
-445,671,Sidareja,Jawa Tengah,Daop V Purwokerto,SDR,Beroperasi,KAB. CILACAP,-7.48651,108.8076,WGS 1984
-446,672,Sidoarjo,Jawa Timur,Daop VIII Surabaya,SDA,Beroperasi,KAB. SIDOARJO,-7.45697,112.7126,WGS 1984
-447,673,Sidotopo,Jawa Timur,Daop VIII Surabaya,SDT,Beroperasi,KOTA SURABAYA,-7.23529,112.7574,WGS 1984
-448,674,Sikampuh,Jawa Tengah,Daop V Purwokerto,SKP,Beroperasi,KAB. CILACAP,-7.62579,109.1976,WGS 1984
-449,676,Sindanglaut,Jawa Barat,Daop III Cirebon,SDU,Beroperasi,KAB. CIREBON,-6.83276,108.626,WGS 1984
-450,679,Singojuruh,Jawa Timur,Daop IX Jember,SGJ,Beroperasi,KAB. BANYUWANGI,-8.30658,114.2408,WGS 1984
-451,680,Singosari,Jawa Timur,Daop VIII Surabaya,SGS,Beroperasi,KOTA MALANG,-7.89697,112.6664,WGS 1984
-452,682,Situbondo,Jawa Timur,Daop IX Jember,SIT,Tidak beroperasi,KAB. SITUBONDO,-7.71387,113.995,WGS 1984
-453,684,Slahung,Jawa Timur,Daop VII Madiun,SLH,Tidak beroperasi,KAB. PONOROGO,-8.03131,111.4162,WGS 1984
-454,685,Slawi,Jawa Tengah,Daop V Purwokerto,SLW,Beroperasi,KAB. TEGAL,-6.98182,109.13654,
-455,687,Sleman,D.I Yogyakarta,Daop VI Yogyakarta,SMN,Tidak beroperasi,KAB. SUMENEP,-7.00616,113.864,WGS 1984
-456,690,Soka,Jawa Tengah,Daop V Purwokerto,SOA,Tidak Beroperasi,KAB. KEBUMEN,-7.67908,109.6396,WGS 1984
-457,691,Sokaraja,Jawa Tengah,Daop V Purwokerto,SOK,Tidak beroperasi,KAB. BANYUMAS,-7.46088,109.2902,WGS 1984
-458,692,Solo Balapan,Jawa Tengah,Daop VI Yogyakarta,SLO,Beroperasi,KOTA SURAKARTA,-7.55719,110.8214,WGS 1984
-459,693,Solo Jebres,Jawa Tengah,Daop VI Yogyakarta,SK,Beroperasi,KOTA SURAKARTA,-7.56207,110.8394,WGS 1984
-460,694,Solo-Kota,Jawa Tengah,Daop VI Yogyakarta,SKA,Beroperasi,KAB. SOLOK,-0.6922,100.5998,WGS 1984
-461,695,Songgom,Jawa Tengah,Daop III Cirebon,SGG,Beroperasi,KAB. BREBES,-7.02448,108.9888,WGS 1984
-462,696,Soreang (Bd),Jawa Barat,Daop II Bandung,SRG,Tidak beroperasi,KAB. BANDUNG,-7.02667,107.5202,WGS 1984
-463,697,Sragen,Jawa Tengah,Daop VI Yogyakarta,SR,Beroperasi,KAB. SRAGEN,-7.42938,111.018,WGS 1984
-464,698,Sragi,Jawa Tengah,Daop IV Semarang,SRI,Beroperasi,KAB. PEKALONGAN,-6.92377,109.571,WGS 1984
-465,700,Srono,Jawa Timur,Daop IX Jember,SRO,Tidak beroperasi,KAB. BANYUWANGI,-8.4021,114.2626,WGS 1984
-466,701,Sroyo,Jawa Timur,Daop VIII Surabaya,SYO,Tidak beroperasi,KAB. BOJONEGORO,-7.1637,112.0438,WGS 1984
-467,702,Srowot,Jawa Tengah,Daop VI Yogyakarta,SWT,Beroperasi,KAB. KLATEN,-7.74127,110.5494,WGS 1984
-468,703,Sruweng,Jawa Tengah,Daop V Purwokerto,SRW,Beroperasi,KAB. KEBUMEN,-7.65466,109.6024,WGS 1984
-469,704,Sudimara,Banten,Daop I Jakarta,SDM,Beroperasi,KOTA TANGERANG SELATAN,-6.29669,106.7128,WGS 1984
-470,705,Sudirman,DKI Jakarta,Daop I Jakarta,SUD,Beroperasi,KOTA JAKARTA PUSAT,-6.20209,106.8234,WGS 1984
-471,707,Sukabumi,Jawa Barat,Daop I Jakarta,SI,Beroperasi,KOTA SUKABUMI,-6.92389,106.9248,WGS 1984
-472,708,Sukatani,Jawa Barat,Daop II Bandung,SUT,Beroperasi,KAB. PURWAKARTA,-6.6109,107.4086,WGS 1984
-473,710,Sukoharjo,Jawa Tengah,Daop VI Yogyakarta,SKH,Beroperasi,KAB. SUKOHARJO,-7.67981,110.8432,WGS 1984
-474,712,Sukomoro,Jawa Timur,Daop VII Madiun,SKM,Beroperasi,KAB. NGANJUK,-7.6026,111.9426,WGS 1984
-475,713,Sukorejo,Jawa Timur,Daop VIII Surabaya,SKJ,Beroperasi,KOTA PASURUAN,-7.7193,112.7234,WGS 1984
-476,716,Sulur,Jawa Tengah,Daop IV Semarang,SL,Beroperasi,KAB. GROBOGAN,-7.17407,111.2228,WGS 1984
-477,717,Sumberbaru,Jawa Timur,Daop IX Jember,SBB,Tidak beroperasi,KAB. JEMBER,-8.1239,113.383,WGS 1984
-478,718,Sumbergempol,Jawa Timur,Daop VII Madiun,SBL,Beroperasi,KAB. TULUNGAGUNG,-8.0824,111.9446,WGS 1984
-479,719,Sumberlawang,Jawa Tengah,Daop VI Yogyakarta,SUM,Beroperasi,KAB. SRAGEN,-7.3277,110.8638,WGS 1984
-480,720,Sumberpucung,Jawa Timur,Daop VIII Surabaya,SBP,Beroperasi,KOTA MALANG,-8.15839,112.4784,WGS 1984
-481,721,Sumberrejo,Jawa Timur,Daop VIII Surabaya,SRJ,Beroperasi,KAB. BOJONEGORO,-7.17767,112.0016,WGS 1984
-482,722,Sumbersalak,Jawa Timur,Daop IX Jember,SBS,Tidak beroperasi,KAB. BLITAR,-8.15729,113.8944,WGS 1984
-483,723,Sumberwadung,Jawa Timur,Daop IX Jember,SWD,Beroperasi,KAB. BANYUWANGI,-8.30188,114.1054,WGS 1984
-484,725,Sumlaran,Jawa Timur,Daop VIII Surabaya,SLR,Tidak beroperasi,KAB. LAMONGAN,-7.09357,112.322,WGS 1984
-485,726,Sumobito,Jawa Timur,Daop VII Madiun,SBO,Beroperasi,KAB. JOMBANG,-7.51947,112.3394,WGS 1984
-486,727,Sumoroto,Jawa Timur,Daop VII Madiun,SMO,Tidak beroperasi,KAB. BOYOLALI,-7.51348,110.74788,
-487,728,Sumpiuh,Jawa Tengah,Daop V Purwokerto,SPH,beroperasi,KAB. BANYUMAS,-7.61517,109.3614,WGS 1984
-488,729,Sungai Lagoa,DKI Jakarta,Daop I Jakarta,SAO,Beroperasi,KOTA JAKARTA UTARA,-6.11279,106.8758,WGS 1984
-489,730,Sungai Tirem,DKI Jakarta,Daop I Jakarta,SGT,Tidak beroperasi,KAB. OGAN KOMERING ULU TIMUR,-4.28146,104.31971,
-490,731,Surabaya Gubeng,Jawa Timur,Daop VIII Surabaya,SGU,Beroperasi,KOTA SURABAYA,-7.2652,112.7522,WGS 1984
-491,732,Surabaya Kota,Jawa Timur,Daop VIII Surabaya,SB,Beroperasi,KOTA SURABAYA,-7.24298,112.742,WGS 1984
-492,733,Surabaya Pasarturi,Jawa Timur,Daop VIII Surabaya,SBI,Beroperasi,KOTA SURABAYA,-7.24817,112.7312,WGS 1984
-493,735,Suradadi,Jawa Tengah,Daop IV Semarang,SD,Beroperasi,KAB. TEGAL,-6.88049,109.276,WGS 1984
-494,736,Susuhan,Jawa Timur,Daop VII Madiun,SS,Beroperasi,KOTA KEDIRI,-7.77118,112.026,WGS 1984
-495,737,Tagogapu,Jawa Barat,Daop II Bandung,TAU,Beroperasi terbatas,KAB. BANDUNG BARAT,-6.81036,107.463,WGS 1984
-496,738,Talun,Jawa Timur,Daop VII Madiun,TAL,Beroperasi,KOTA BLITAR,-8.09149,112.2886,WGS 1984
-497,740,Taman Kota,DKI Jakarta,Daop I Jakarta,TKO,Beroperasi,KOTA JAKARTA BARAT,-6.15857,106.7566,WGS 1984
-498,741,Tambak,Jawa Tengah,Daop V Purwokerto,TBK,Beroperasi,KAB. BANYUMAS,-7.6131,109.408,WGS 1984
-499,742,Tambun,Jawa Barat,Daop I Jakarta,TB,Beroperasi,KAB. BEKASI,-6.25861,107.0558,WGS 1984
-500,743,Tanahabang,DKI Jakarta,Daop I Jakarta,THB,Beroperasi,KOTA ADM. JAKARTA PUSAT,-6.1861,106.8108,WGS 1984
-501,745,Tandes,Jawa Timur,Daop VIII Surabaya,TES,Beroperasi,KOTA SURABAYA,-7.25897,112.687,WGS 1984
-502,748,Tanjung (ke Cn),Jawa Tengah,Daop III Cirebon,TGN,Beroperasi,KAB. BREBES,-6.87671,108.861,WGS 1984
-503,749,Tanjung Barat,DKI Jakarta,Daop I Jakarta,TNT,Beroperasi,KOTA JAKARTA SELATAN,-6.30847,106.839,WGS 1984
-504,750,Tanjung Priok,DKI Jakarta,Daop I Jakarta,TPK,Beroperasi,KOTA ADM. JAKARTA UTARA,-6.11041,106.882,WGS 1984
-505,752,Tanjungrasa,Jawa Barat,Daop III Cirebon,TJS,Beroperasi,KAB. SUBANG,-6.40839,107.5406,WGS 1984
-506,754,Tangerang,Banten,Daop I Jakarta,TNG,Beroperasi,KOTA TANGERANG,-6.17688,106.6326,WGS 1984
-507,755,Tanggul,Jawa Timur,Daop IX Jember,TGL,Beroperasi,KAB. JEMBER,-8.16278,113.4482,WGS 1984
-508,756,Tanggulangin,Jawa Timur,Daop VIII Surabaya,TGA,Beroperasi,KAB. SIDOARJO,-7.50677,112.7082,WGS 1984
-509,757,Tanggung,Jawa Tengah,Daop IV Semarang,TGG,Beroperasi,KAB. GROBOGAN,-7.09149,110.6032,WGS 1984
-510,759,Tarik,Jawa Timur,Daop VIII Surabaya,TRK,Beroperasi,KAB. SIDOARJO,-7.45947,112.5186,WGS 1984
-511,760,Tasikmalaya,Jawa Barat,Daop II Bandung,TSM,Beroperasi,KOTA TASIKMALAYA,-7.32257,108.2242,WGS 1984
-512,762,Tayu,Jawa Tengah,Daop IV Semarang,TAY,Tidak beroperasi,KAB. PATI,-6.5354,111.0506,WGS 1984
-513,763,Tebet,DKI Jakarta,Daop I Jakarta,TEB,Beroperasi,KOTA JAKARTA SELATAN,-6.22668,106.8584,WGS 1984
-514,764,Tegal,Jawa Tengah,Daop IV Semarang,TG,Beroperasi,KOTA TEGAL,-6.86737,109.1428,WGS 1984
-515,768,Tegowanu,Jawa Tengah,Daop IV Semarang,TGW,Beroperasi,KAB. GROBOGAN,-7.05298,110.6024,WGS 1984
-516,772,Telagasari,Jawa Barat,Daop III Cirebon,TLS,Beroperasi,KAB. INDRAMAYU,-6.4646,108.235,WGS 1984
-517,774,Telawa,Jawa Tengah,Daop IV Semarang,TW,Beroperasi,KAB. BOYOLALI,-7.18567,110.752,WGS 1984
-518,775,Temanggung,Jawa Tengah,Daop VI Yogyakarta,TMG,Tidak beroperasi,KAB. TEMANGGUNG,-7.3125,110.1832,WGS 1984
-519,779,Temuguruh,Jawa Timur,Daop IX Jember,TGR,Beroperasi,KAB. BANYUWANGI,-8.30957,114.2024,WGS 1984
-520,780,Tenjo,Jawa Barat,Daop I Jakarta,TEJ,Beroperasi,KAB. BOGOR,-6.32758,106.462,WGS 1984
-521,782,Terisi,Jawa Barat,Daop III Cirebon,TIS,Beroperasi,KAB. INDRAMAYU,-6.47009,108.1604,WGS 1984
-522,784,Tobo,Jawa Timur,Daop VIII Surabaya,TBO,Beroperasi,KAB. BOJONEGORO,-7.17236,111.6552,WGS 1984
-523,791,Tulangan,Jawa Timur,Daop VIII Surabaya,TLN,Beroperasi,KAB. SIDOARJO,-7.4657,112.651,WGS 1984
-524,792,Tulungagung,Jawa Timur,Daop VII Madiun,TA,Beroperasi,KAB. TULUNGAGUNG,-8.06299,111.9048,WGS 1984
-525,794,Tuntang,Jawa Tengah,Daop IV Semarang,TTG,Beroperasi terbatas,KAB. SEMARANG,-7.26068,110.4542,WGS 1984
-526,798,Ujungnegoro,Jawa Tengah,Daop IV Semarang,UJN,Beroperasi,KAB. BATANG,-6.90869,109.7892,WGS 1984
-527,799,Universitas Indonesia,Jawa Barat,Daop I Jakarta,UI,Beroperasi,KOTA DEPOK,-6.36072,106.8318,WGS 1984
-528,800,Universitas Pancasila,DKI Jakarta,Daop I Jakarta,UP,Beroperasi,KOTA JAKARTA SELATAN,-6.33911,106.8342,WGS 1984
-529,802,Wadu,Jawa Tengah,Daop IV Semarang,WDU,Beroperasi,KAB. BLORA,-7.19641,111.5006,WGS 1984
-530,803,Walantaka,Banten,Daop I Jakarta,WLT,Beroperasi,KOTA SERANG,-6.1554,106.2188,WGS 1984
-531,804,Walikukun,Jawa Timur,Daop VII Madiun,WK,Beroperasi,KAB. NGAWI,-7.39868,111.2246,WGS 1984
-532,805,Wanaraja,Jawa Barat,Daop II Bandung,WNR,Beroperasi,KAB. GARUT,-7.16464,107.97691,
-533,807,Waru (Sidoarjo),Jawa Timur,Daop VIII Surabaya,WR,Beroperasi,KAB. SIDOARJO,-7.35248,112.7294,WGS 1984
-534,808,Waruduwur,Jawa Barat,Daop III Cirebon,WDW,Beroperasi,KAB. CIREBON,-6.78369,108.6224,WGS 1984
-535,809,Warungbandrek,Jawa Barat,Daop II Bandung,WB,Beroperasi,KAB. GARUT,-7.0647,108.007,WGS 1984
-536,812,Wates (Kulon Progo),D.I Yogyakarta,Daop VI Yogyakarta,WT,Beroperasi,KAB. KULON PROGO,-7.8595,110.158,WGS 1984
-537,813,Weleri,Jawa Tengah,Daop IV Semarang,WLR,Beroperasi,KAB. KENDAL,-6.97076,110.0698,WGS 1984
-538,815,Wilangan,Jawa Timur,Daop VII Madiun,WLG,Tidak beroperasi,KAB. NGANJUK,-7.56122,111.8038,WGS 1984
-539,819,Wlingi,Jawa Timur,Daop VIII Surabaya,WG,Beroperasi,KOTA BLITAR,-8.08832,112.32,WGS 1984
-540,820,Wojo,Jawa Tengah,Daop VI Yogyakarta,WJ,Beroperasi,KAB. PURWOREJO,-7.86188,110.0406,WGS 1984
-541,821,Wonogiri,Jawa Tengah,Daop VI Yogyakarta,WNG,Beroperasi,KAB. WONOGIRI,-7.8161,110.922,WGS 1984
-542,823,Wonokerto,Jawa Timur,Daop VIII Surabaya,WN,Beroperasi,KOTA PASURUAN,-7.66199,112.7552,WGS 1984
-543,824,Wonokromo,Jawa Timur,Daop VIII Surabaya,WO,Beroperasi,KOTA SURABAYA,-7.30206,112.7394,WGS 1984
-544,828,Wonosari,Jawa Tengah,Daop V Purwokerto,WNS,Beroperasi,KAB. KEBUMEN,-7.69727,109.7014,WGS 1984
-545,829,Wonosobo,Jawa Tengah,Daop V Purwokerto,WS,Tidak beroperasi,KAB. WONOSOBO,-7.35999,109.8984,WGS 1984
-546,830,Yogyakarta,D.I Yogyakarta,Daop VI Yogyakarta,YK,Beroperasi,KOTA YOGYAKARTA,-7.78918,110.3636,WGS 1984
+,Unnamed: 0.1,Unnamed: 0,station_name,province,daop,station_code,operating_status,city,latitude,longitude,srs_id
+0,0,1,Adi Soemarmo,Jawa Tengah,Daop VI Yogyakarta,SMO,Beroperasi,KABUPATEN BOYOLALI,-7.51348,110.74788,
+1,1,3,Alastua,Jawa Tengah,Daop IV Semarang,ATA,Beroperasi,KOTA SEMARANG,-6.98438,110.4758,WGS 1984
+2,2,5,Ambarawa,Jawa Tengah,Daop IV Semarang,ABR,Museum,KABUPATEN SEMARANG,-7.26556,110.4014,WGS 1984
+3,3,6,Ambulu,Jawa Timur,Daop IX Jember,ABL,Tidak beroperasi,KABUPATEN JEMBER,-8.34747,113.5938,WGS 1984
+4,4,7,Ancol,DKI Jakarta,Daop I Jakarta,AC,Beroperasi,KOTA JAKARTA UTARA,-6.12811,106.8448,WGS 1984
+5,5,8,Andir,Jawa Barat,Daop II Bandung,AND,Beroperasi,KOTA BANDUNG,-6.9079,107.5794,WGS 1984
+6,6,9,Angke,DKI Jakarta,Daop I Jakarta,AK,Beroperasi,KOTA JAKARTA BARAT,-6.14471,106.8008,WGS 1984
+7,7,10,Anyer Kidul,Banten,Daop I Jakarta,ANK,Tidak beroperasi,KABUPATEN SERANG,-6.0708,105.8872,WGS 1984
+8,8,12,Argopuro,Jawa Timur,Daop IX Jember,AGO,Beroperasi,KABUPATEN BANYUWANGI,-8.18359,114.3694,WGS 1984
+9,9,13,Arjawinangun,Jawa Barat,Daop III Cirebon,AWN,Beroperasi,KABUPATEN CIREBON,-6.64459,108.4146,WGS 1984
+10,10,14,Arjasa,Jawa Timur,Daop IX Jember,AJ,Beroperasi,KABUPATEN JEMBER,-8.12787,113.7484,WGS 1984
+11,11,15,Awipari,Jawa Barat,Daop II Bandung,AW,Beroperasi,KOTA TASIKMALAYA,-7.3537,108.2744,WGS 1984
+12,12,16,Babadan,Jawa Timur,Daop VII Madiun,BBD,Beroperasi,KOTA MADIUN,-7.5871,111.5886,WGS 1984
+13,13,17,Babakan,Jawa Barat,Daop III Cirebon,BBK,Beroperasi,KABUPATEN CIREBON,-6.8606,108.72,WGS 1984
+14,14,18,Babat,Jawa Timur,Daop VIII Surabaya,BBT,Beroperasi,KABUPATEN LAMONGAN,-7.10608,112.1686,WGS 1984
+15,15,21,Bagor,Jawa Timur,Daop VII Madiun,BGR,Beroperasi,KOTA MADIUN,-7.57159,111.8528,WGS 1984
+16,16,23,Balega,Jawa Timur,Daop VIII Surabaya,BGA,Tidak beroperasi,KABUPATEN BANGKALAN,-7.12988,113.0626,WGS 1984
+17,17,26,Balung,Jawa Timur,Daop IX Jember,BUG,Tidak beroperasi,KABUPATEN JEMBER,-8.27289,113.5384,WGS 1984
+18,18,27,Bangkalan,Jawa Timur,Daop VIII Surabaya,BKL,Tidak beroperasi,KABUPATEN BANGKALAN,-7.02527,112.748,WGS 1984
+19,19,28,Banjar,Jawa Barat,Daop II Bandung,BJR,Beroperasi,KOTA BANJAR,-7.3761,108.5424,WGS 1984
+20,20,32,Banjarkemantren,Jawa Timur,Daop VIII Surabaya,BJK,Tidak beroperasi,KABUPATEN SIDOARJO,-7.41187,112.7262,WGS 1984
+21,21,33,Banjarnegara,Jawa Tengah,Daop V Purwokerto,BA,Tidak beroperasi,KABUPATEN BANJARNEGARA,-7.39819,109.6544,WGS 1984
+22,22,34,Banjarsari (ke Cij),Jawa Barat,Daop II Bandung,BJI,Tidak beroperasi,KABUPATEN LAHAT,-3.67651,103.6984,WGS 1984
+23,23,36,Bandung,Jawa Barat,Daop II Bandung,BD,Beroperasi,KOTA BANDUNG,-6.91388,107.6026,WGS 1984
+24,24,37,Bandung Gudang,Jawa Barat,Daop II Bandung,BDG,Tidak beroperasi,KABUPATEN PONOROGO,-7.87921,111.3354,WGS 1984
+25,25,39,Bangil,Jawa Timur,Daop VIII Surabaya,BG,Beroperasi,KOTA PASURUAN,-7.599,112.7782,WGS 1984
+26,26,41,Bangkalan,Jawa Timur,Daop VIII Surabaya,BKL,Tidak beroperasi,KABUPATEN BANGKALAN,-7.02527,112.748,WGS 1984
+27,27,42,Bangoduwa,Jawa Barat,Daop III Cirebon,BDW,Beroperasi,KABUPATEN CIREBON,-6.66296,108.46,WGS 1984
+28,28,44,Bangsalsari,Jawa Timur,Daop IX Jember,BSS,Beroperasi,KABUPATEN JEMBER,-8.203,113.5334,WGS 1984
+29,29,47,Banyuwangi Kota,Jawa Timur,Daop IX Jember,BWI,Beroperasi,KABUPATEN BANYUWANGI,-8.21429,114.378,WGS 1984
+30,30,50,Baron,Jawa Timur,Daop VII Madiun,BRN,Beroperasi,KABUPATEN NGANJUK,-7.60278,112.039,WGS 1984
+31,31,51,Batang,Jawa Tengah,Daop IV Semarang,BTG,Beroperasi,KABUPATEN BATANG,-6.90649,109.7326,WGS 1984
+32,32,54,Batu Ceper,Banten,Daop I Jakarta,BPR,Beroperasi,KOTA TANGERANG,-6.17218,106.665,WGS 1984
+33,33,55,Batulawang,Jawa Barat,Daop II Bandung,BTW,Tidak beroperasi,KABUPATEN MALANG,-8.10876,112.636,WGS 1984
+34,34,56,Baturetno,Jawa Tengah,Daop VI Yogyakarta,BRO,Tidak beroperasi,KABUPATEN WONOGIRI,-7.97809,110.9306,WGS 1984
+35,35,57,Batutulis,Jawa Barat,Daop I Jakarta,BTT,Beroperasi,KOTA BOGOR,-6.62579,106.8096,WGS 1984
+36,36,59,Bayeman,Jawa Timur,Daop IX Jember,BYM,Beroperasi,KABUPATEN PROBOLINGGO,-7.73468,113.1188,WGS 1984
+37,37,61,Bedono,Jawa Tengah,Daop IV Semarang,BDN,Beroperasi terbatas,KABUPATEN SEMARANG,-7.3092,110.353,WGS 1984
+38,38,62,Bekasi,Jawa Barat,Daop I Jakarta,BKS,Beroperasi,KOTA BEKASI,-6.23669,106.9994,WGS 1984
+39,39,64,Benculuk,Jawa Timur,Daop IX Jember,BEN,Tidak beroperasi,KABUPATEN BANYUWANGI,-8.43359,114.2268,WGS 1984
+40,40,67,Benowo,Jawa Timur,Daop VIII Surabaya,BNW,Beroperasi,KOTA SURABAYA,-7.23407,112.6152,WGS 1984
+41,41,68,Benteng,Jawa Timur,Daop VIII Surabaya,BET,Beroperasi,KOTA SURABAYA,-7.22119,112.744,WGS 1984
+42,42,72,Blimbing (Malang),Jawa Timur,Daop VIII Surabaya,BMG,Beroperasi,KOTA MALANG,-7.9411,112.6446,WGS 1984
+43,43,73,Blitar,Jawa Timur,Daop VII Madiun,BL,Beroperasi,KOTA BLITAR,-8.10138,112.1628,WGS 1984
+44,44,75,Blora,Jawa Tengah,Daop IV Semarang,BLA,Tidak beroperasi,KABUPATEN BLORA,-6.97119,111.4242,WGS 1984
+45,45,76,Bluluk,Jawa Timur,Daop VII Madiun,BLK,Tidak beroperasi,KABUPATEN LAMONGAN,-7.27649,112.1348,WGS 1984
+46,46,77,Bojonegoro,Jawa Timur,Daop VIII Surabaya,BJ,Beroperasi,KABUPATEN BOJONEGORO,-7.16437,111.8868,WGS 1984
+47,47,78,Bojonegoro Kota,Jawa Timur,Daop VIII Surabaya,BJK,Tidak beroperasi,KABUPATEN SIDOARJO,-7.41187,112.7262,WGS 1984
+48,48,79,Bojong (Bandung),Jawa Barat,Daop II Bandung,BJG,Beroperasi,KABUPATEN CIAMIS,-7.34729,108.4294,WGS 1984
+49,49,81,Bojonggede,Jawa Barat,Daop I Jakarta,BJD,Beroperasi,KABUPATEN BOGOR,-6.49268,106.7948,WGS 1984
+50,50,82,Bojong Indah,DKI Jakarta,Daop I Jakarta,BOI,Beroperasi,KOTA JAKARTA BARAT,-6.15997,106.7366,WGS 1984
+51,51,83,Bogor,Jawa Barat,Daop I Jakarta,BOO,Beroperasi,KOTA BOGOR,-6.59381,106.7906,WGS 1984
+52,52,84,Boharan,Jawa Timur,Daop VIII Surabaya,BH,Beroperasi,KABUPATEN SIDOARJO,-7.38788,112.6196,WGS 1984
+53,53,85,Bondowoso,Jawa Timur,Daop IX Jember,BO,Museum,KABUPATEN BONDOWOSO,-7.9162,113.8302,WGS 1984
+54,54,87,Bowerno,Jawa Timur,Daop VIII Surabaya,BWO,Beroperasi,KABUPATEN BOJONEGORO,-7.13116,112.0998,WGS 1984
+55,55,88,Boyolali,Jawa Tengah,Daop VI Yogyakarta,BI,Tidak beroperasi,KABUPATEN BOYOLALI,-7.53748,110.5998,WGS 1984
+56,56,89,Brambanan,Jawa Tengah,Daop VI Yogyakarta,BBN,Beroperasi,KABUPATEN KLATEN,-7.75647,110.5004,WGS 1984
+57,57,90,Brebes,Jawa Tengah,Daop III Cirebon,BB,Beroperasi,KABUPATEN BREBES,-6.87427,109.0434,WGS 1984
+58,58,91,Bringin,Jawa Tengah,Daop IV Semarang,BRI,Tidak beroperasi,KABUPATEN SEMARANG,-7.2533,110.5236,WGS 1984
+59,59,93,Brumbung,Jawa Tengah,Daop IV Semarang,BBG,Beroperasi,KABUPATEN DEMAK,-7.02557,110.5222,WGS 1984
+60,60,94,Buaran,DKI Jakarta,Daop I Jakarta,BUA,Beroperasi,KOTA JAKARTA TIMUR,-6.21619,106.9276,WGS 1984
+61,61,95,Buduran,Jawa Timur,Daop VIII Surabaya,BDR,Tidak beroperasi,KABUPATEN SIDOARJO,-7.42792,112.723,WGS 1984
+62,62,96,Bulakamba,Jawa Tengah,Daop III Cirebon,BKA,Tidak beroperasi,KABUPATEN BREBES,-6.8761,108.9486,WGS 1984
+63,63,98,Bulumanis,Jawa Tengah,Daop IV Semarang,BIS,Tidak beroperasi,KABUPATEN PATI,-6.61108,111.0648,WGS 1984
+64,64,99,Bumiayu,Jawa Tengah,Daop V Purwokerto,BMA,Beroperasi,KABUPATEN BREBES,-7.23737,109.0098,WGS 1984
+65,65,100,Bumiwaluya,Jawa Barat,Daop II Bandung,BMW,Beroperasi,KABUPATEN GARUT,-7.05859,108.0706,WGS 1984
+66,66,101,Butuh,Jawa Tengah,Daop V Purwokerto,BTH,Beroperasi,KABUPATEN PURWOREJO,-7.72437,109.8584,WGS 1984
+67,67,103,Buyaran,Jawa Tengah,Daop IV Semarang,BYA,Tidak beroperasi,KABUPATEN DEMAK,-6.91949,110.5976,WGS 1984
+68,68,104,Cakung,DKI Jakarta,Daop I Jakarta,CUK,Beroperasi,KOTA JAKARTA TIMUR,-6.21918,106.9522,
+69,69,105,Campurdarat,Jawa Timur,Daop VII Madiun,CPT,Tidak beroperasi,KABUPATEN BANDUNG BARAT,-6.82208,107.3858,WGS 1984
+70,70,107,Cangkring,Jawa Barat,Daop III Cirebon,CNK,Beroperasi,KABUPATEN CIREBON,-6.6795,108.5008,WGS 1984
+71,71,108,Caruban,Jawa Timur,Daop VII Madiun,CRB,Beroperasi,KOTA MADIUN,-7.55096,111.6548,WGS 1984
+72,72,109,Catang,Banten,Daop I Jakarta,CT,Beroperasi,KABUPATEN SERANG,-6.26569,106.268,WGS 1984
+73,73,112,Ceper,Jawa Tengah,Daop VI Yogyakarta,CE,Beroperasi,KABUPATEN KLATEN,-7.66901,110.675,WGS 1984
+74,74,113,Cepu,Jawa Tengah,Daop IV Semarang,CU,Beroperasi,KABUPATEN BLORA,-7.15417,111.5912,WGS 1984
+75,75,115,Cerme,Jawa Timur,Daop VIII Surabaya,CME,Beroperasi,KABUPATEN GRESIK,-7.22437,112.571,WGS 1984
+76,76,116,Ciamis,Jawa Barat,Daop II Bandung,CI,Beroperasi,KABUPATEN CIAMIS,-7.32941,108.3558,WGS 1984
+77,77,117,Cianjur,Jawa Barat,Daop II Bandung,CJ,Beroperasi,KABUPATEN CIANJUR,-6.82477,107.1428,WGS 1984
+78,78,118,Ciawi,Jawa Barat,Daop II Bandung,CAW,Beroperasi,KABUPATEN TASIKMALAYA,-7.15741,108.1458,WGS 1984
+79,79,119,Cibadak,Jawa Barat,Daop I Jakarta,CBD,Beroperasi,KABUPATEN SUKABUMI,-6.88818,106.7804,WGS 1984
+80,80,122,Cibatu,Jawa Barat,Daop II Bandung,CB,Beroperasi,KABUPATEN GARUT,-7.1001,107.9796,WGS 1984
+81,81,123,Cibeber,Jawa Barat,Daop II Bandung,CBB,Beroperasi,KABUPATEN CIANJUR,-6.9375,107.1212,WGS 1984
+82,82,126,Cibungur,Jawa Barat,Daop II Bandung,CBR,Beroperasi,KABUPATEN PURWAKARTA,-6.4679,107.4796,WGS 1984
+83,83,127,Cicalengka,Jawa Barat,Daop II Bandung,CCL,Beroperasi,KABUPATEN BANDUNG,-6.98157,107.8328,WGS 1984
+84,84,129,Cicurug,Jawa Barat,Daop I Jakarta,CCR,Beroperasi,KABUPATEN SUKABUMI,-6.79041,106.7796,WGS 1984
+85,85,130,Cigading,Banten,Daop I Jakarta,CGD,Beroperasi,KOTA CILEGON,-6.02197,105.9636,WGS 1984
+86,86,131,Ciganea,Jawa Barat,Daop II Bandung,CA,Beroperasi,KABUPATEN PURWAKARTA,-6.57349,107.4308,WGS 1984
+87,87,132,Cigombong,Jawa Barat,Daop I Jakarta,CGB,Beroperasi,KABUPATEN BOGOR,-6.74219,106.803,WGS 1984
+88,88,134,Cijulang,Jawa Barat,Daop II Bandung,CIJ,Tidak beroperasi,KABUPATEN PANGANDARAN,-7.72699,108.4744,WGS 1984
+89,89,136,Cikadongdong,Jawa Barat,Daop II Bandung,CD,Beroperasi,KABUPATEN BANDUNG BARAT,-6.71521,107.3904,WGS 1984
+90,90,137,Cikampek,Jawa Barat,Daop I Jakarta,CKP,Beroperasi,KABUPATEN KARAWANG,-6.40607,107.459,WGS 1984
+91,91,139,Cikaum,Jawa Barat,Daop III Cirebon,CKM,Beroperasi,KABUPATEN SUBANG,-6.43549,107.7396,WGS 1984
+92,92,140,Cikarang,Jawa Barat,Daop I Jakarta,CKR,Beroperasi,KABUPATEN BEKASI,-6.25488,107.1446,WGS 1984
+93,93,142,Cikeusal,Banten,Daop I Jakarta,CKL,Beroperasi,KABUPATEN SERANG,-6.21698,106.2446,WGS 1984
+94,94,143,Cikini,DKI Jakarta,Daop I Jakarta,CKI,Beroperasi,KOTA JAKARTA PUSAT,-6.19849,106.8412,WGS 1984
+95,95,144,Cikoya,Banten,Daop I Jakarta,CKY,Beroperasi,KABUPATEN TANGERANG,-6.33557,106.4118,WGS 1984
+96,96,145,Cikudapateuh,Jawa Barat,Daop II Bandung,CTH,Beroperasi,KOTA BANDUNG,-6.9187,107.6262,WGS 1984
+97,97,146,Cilaku,Jawa Barat,Daop II Bandung,CLK,Tidak beroperasi,KABUPATEN CIANJUR,-6.888,107.1266,WGS 1984
+98,98,148,Cilame,Jawa Barat,Daop II Bandung,CLE,Beroperasi,KABUPATEN BANDUNG BARAT,-6.80328,107.4638,WGS 1984
+99,99,149,Cilacap,Jawa Tengah,Daop V Purwokerto,CP,Beroperasi,KABUPATEN CILACAP,-7.73608,109.007,WGS 1984
+100,100,151,Cilebut,Jawa Barat,Daop I Jakarta,CLT,Beroperasi,KABUPATEN BOGOR,-6.53052,106.8006,WGS 1984
+101,101,152,Ciledug,Jawa Barat,Daop III Cirebon,CLD,Beroperasi,KABUPATEN CIREBON,-6.90289,108.744,WGS 1984
+102,102,154,Cilejit,Jawa Barat,Daop I Jakarta,CJT,Beroperasi,KABUPATEN BOGOR,-6.35431,106.5096,WGS 1984
+103,103,155,Cilegeh,Jawa Barat,Daop III Cirebon,CLH,Beroperasi,KABUPATEN INDRAMAYU,-6.46399,108.0354,WGS 1984
+104,104,156,Cilegon,Banten,Daop I Jakarta,CLG,Beroperasi,KOTA CILEGON,-6.01959,106.0532,WGS 1984
+105,105,158,Cimahi,Jawa Barat,Daop II Bandung,CMI,Beroperasi,KOTA CIMAHI,-6.88586,107.536,WGS 1984
+106,106,159,Cimekar,Jawa Barat,Daop II Bandung,CMK,Beroperasi,KOTA BANDUNG,-6.94989,107.715,WGS 1984
+107,107,160,Cimindi,Jawa Barat,Daop II Bandung,CMD,Beroperasi,KOTA BANDUNG,-6.896,107.5612,WGS 1984
+108,108,161,Ciomas,Jawa Barat,Daop I Jakarta,CS,Reaktivikasi,KOTA BOGOR,-6.65179,106.8094,WGS 1984
+109,109,162,Cipari,Jawa Tengah,Daop V Purwokerto,CPI,Beroperasi,KABUPATEN CILACAP,-7.44019,108.7612,WGS 1984
+110,110,163,Cipatat,Jawa Barat,Daop II Bandung,CPT,Beroperasi,KABUPATEN BANDUNG BARAT,-6.82208,107.3858,WGS 1984
+111,111,165,Cipeuyeum,Jawa Barat,Daop II Bandung,CPY,Beroperasi,KABUPATEN CIANJUR,-6.81848,107.2982,WGS 1984
+112,112,166,Cipeundeuy,Jawa Barat,Daop II Bandung,CPD,Beroperasi,KABUPATEN GARUT,-7.09357,108.1006,WGS 1984
+113,113,167,Cipinang,DKI Jakarta,Daop I Jakarta,CPN,Tidak beroperasi,KOTA JAKARTA TIMUR,-6.21417,106.8844,WGS 1984
+114,114,168,Cipunegara,Jawa Barat,Daop III Cirebon,CRA,Beroperasi,KABUPATEN SUBANG,-6.4552,107.8824,WGS 1984
+115,115,170,Cirahayu,Jawa Barat,Daop II Bandung,CAA,Beroperasi,KABUPATEN TASIKMALAYA,-7.13422,108.1184,WGS 1984
+116,116,171,Ciranjang,Jawa Barat,Daop II Bandung,CRJ,Beroperasi,KABUPATEN CIANJUR,-6.81409,107.2512,WGS 1984
+117,117,172,Cirebon,Jawa Barat,Daop III Cirebon,CN,Beroperasi,KOTA CIREBON,-6.70551,108.5554,WGS 1984
+118,118,174,Cirebon Prujakan,Jawa Barat,Daop III Cirebon,CNP,Beroperasi,KOTA CIREBON,-6.71918,108.5588,WGS 1984
+119,119,175,Cireungas,Jawa Barat,Daop II Bandung,CRG,Beroperasi,KABUPATEN SUKABUMI,-6.9585,107.0368,WGS 1984
+120,120,176,Ciroyom,Jawa Barat,Daop II Bandung,CIR,Beroperasi,KOTA BANDUNG,-6.91418,107.5904,WGS 1984
+121,121,177,Cisaat,Jawa Barat,Daop I Jakarta,CSA,Beroperasi,KABUPATEN SUKABUMI,-6.91388,106.8876,WGS 1984
+122,122,178,Cisauk,Banten,Daop I Jakarta,CSK,Beroperasi,KABUPATEN TANGERANG,-6.32471,106.6412,WGS 1984
+123,123,179,Cisomang,Jawa Barat,Daop II Bandung,CG,Tidak beroperasi,KABUPATEN PURWAKARTA,-6.68628,107.3978,WGS 1984
+124,124,181,Cisurupan,Jawa Barat,Daop II Bandung,CSN,Tidak beroperasi,KABUPATEN GARUT,-7.31079,107.7954,WGS 1984
+125,125,182,Citayam,Jawa Barat,Daop I Jakarta,CTA,Beroperasi,KOTA DEPOK,-6.44897,106.8024,WGS 1984
+126,126,183,Citeras,Banten,Daop I Jakarta,CTR,Beroperasi,KABUPATEN LEBAK,-6.3349,106.3328,WGS 1984
+127,127,184,Ciwidey,Jawa Barat,Daop II Bandung,CWD,Tidak beroperasi,KOTA BANDUNG,-7.1015,107.4654,WGS 1984
+128,128,185,Comal,Jawa Tengah,Daop IV Semarang,CO,Beroperasi,KABUPATEN PEMALANG,-6.9093,109.5368,WGS 1984
+129,129,187,Curahmalang,Jawa Timur,Daop VII Madiun,CRM,Beroperasi,KABUPATEN JOMBANG,-7.5069,112.3704,WGS 1984
+130,130,189,Dampit,Jawa Timur,Daop VIII Surabaya,DPT,Tidak beroperasi,KABUPATEN MALANG,-8.21387,112.7522,WGS 1984
+131,131,190,Dangeyan,Jawa Tengah,Daop VI Yogyakarta,DNY,Tidak beroperasi,KABUPATEN MOJOKERTO,-7.5824,112.4214,WGS 1984
+132,132,191,Daru,Banten,Daop I Jakarta,DAR,Beroperasi,KABUPATEN TANGERANG,-6.33789,106.4924,WGS 1984
+133,133,192,Dawuan,Jawa Barat,Daop I Jakarta,DWN,Beroperasi,KABUPATEN KARAWANG,-6.39319,107.4334,WGS 1984
+134,134,193,Dayeuhkolot,Jawa Barat,Daop II Bandung,DYK,Tidak beroperasi,KABUPATEN BANDUNG,-6.9892,107.628,WGS 1984
+135,135,194,Delanggu,Jawa Tengah,Daop VI Yogyakarta,DL,Beroperasi,KABUPATEN KLATEN,-7.62207,110.7066,WGS 1984
+136,136,195,Delok,Jawa Tengah,Daop IV Semarang,DEK,Tidak beroperasi,KABUPATEN REMBANG,-6.70337,111.245,WGS 1984
+137,137,196,Demak,Jawa Tengah,Daop IV Semarang,DM,Tidak beroperasi,KABUPATEN DEMAK,-6.90118,110.6344,WGS 1984
+138,138,197,Depok,Jawa Barat,Daop I Jakarta,DP,Beroperasi,KOTA DEPOK,-6.40466,106.8172,WGS 1984
+139,139,198,Depok Baru,Jawa Barat,Daop I Jakarta,DPB,Beroperasi,KOTA DEPOK,-6.3913,106.8216,WGS 1984
+140,140,201,Doplang,Jawa Tengah,Daop IV Semarang,DPL,Beroperasi,KABUPATEN BLORA,-7.1828,111.288,WGS 1984
+141,141,203,Duduk,Jawa Timur,Daop VIII Surabaya,DD,Beroperasi,KABUPATEN GRESIK,-7.1546,112.5206,WGS 1984
+142,142,204,Duren Kalibata,DKI Jakarta,Daop I Jakarta,DRN,Beroperasi,KOTA JAKARTA SELATAN,-6.25568,106.855,WGS 1984
+143,143,206,Duri,DKI Jakarta,Daop I Jakarta,DU,Beroperasi,KOTA JAKARTA BARAT,-6.15588,106.8016,WGS 1984
+144,144,207,Gambir,DKI Jakarta,Daop I Jakarta,GMR,Beroperasi,KOTA JAKARTA PUSAT,-6.1767,106.8308,WGS 1984
+145,145,208,Gambringan,Jawa Tengah,Daop IV Semarang,GBN,Beroperasi,KABUPATEN GROBOGAN,-7.1438,110.915,WGS 1984
+146,146,209,Gandasoli,Jawa Barat,Daop II Bandung,GDS,Beroperasi,KABUPATEN SUKABUMI,-6.94141,106.9922,WGS 1984
+147,147,210,Gandrungmangu,Jawa Tengah,Daop V Purwokerto,GDM,Beroperasi,KABUPATEN CILACAP,-7.52808,108.8592,WGS 1984
+148,148,212,Gang Sentiong,DKI Jakarta,Daop I Jakarta,GST,Beroperasi,KOTA JAKARTA PUSAT,-6.18628,106.851,WGS 1984
+149,149,214,Garum,Jawa Timur,Daop VII Madiun,GRM,Beroperasi,KOTA BLITAR,-8.07349,112.217,WGS 1984
+150,150,215,Garut,Jawa Barat,Daop II Bandung,GRT,Beroperasi,KABUPATEN GARUT,-7.20538,107.8848,WGS 1984
+151,151,216,Gawok,Jawa Tengah,Daop VI Yogyakarta,GW,Beroperasi,KABUPATEN SUKOHARJO,-7.58942,110.7444,WGS 1984
+152,152,219,Gedangan (ke Sd),Jawa Timur,Daop VIII Surabaya,GDG,Beroperasi,KABUPATEN SIDOARJO,-7.38898,112.7286,WGS 1984
+153,153,220,Gedebage,Jawa Barat,Daop II Bandung,GDB,Beroperasi,KOTA BANDUNG,-6.94092,107.69,WGS 1984
+154,154,222,Gembong,Jawa Timur,Daop VIII Surabaya,GEB,Beroperasi,KABUPATEN LAMONGAN,-7.10229,112.2224,WGS 1984
+155,155,226,Gempolkerep,Jawa Timur,Daop VIII Surabaya,GKP,Tidak beroperasi,KABUPATEN MOJOKERTO,-7.45667,112.3876,WGS 1984
+156,156,227,Geneng,Jawa Timur,Daop VII Madiun,GG,Beroperasi,KABUPATEN NGAWI,-7.49786,111.4188,WGS 1984
+157,157,228,Genuk,Jawa Tengah,Daop IV Semarang,GNK,Tidak beroperasi,KOTA SEMARANG,-6.95227,110.4788,WGS 1984
+158,158,230,Glenmore,Jawa Timur,Daop IX Jember,GLM,Beroperasi,KABUPATEN BANYUWANGI,-8.2995,114.0494,WGS 1984
+159,159,231,Godong,Jawa Tengah,Daop IV Semarang,GOG,Tidak beroperasi,KABUPATEN GROBOGAN,-7.02258,110.7728,WGS 1984
+160,160,233,Gombong,Jawa Tengah,Daop V Purwokerto,GB,Beroperasi,KABUPATEN KEBUMEN,-7.6109,109.5068,WGS 1984
+161,161,234,Gondangdia,DKI Jakarta,Daop I Jakarta,GDD,Beroperasi,KOTA JAKARTA PUSAT,-6.1861,106.8328,WGS 1984
+162,162,235,Gondanglegi,Jawa Timur,Daop VIII Surabaya,GDL,Tidak beroperasi,KABUPATEN MALANG,-8.1709,112.6424,WGS 1984
+163,163,236,Goprak,Jawa Tengah,Daop VI Yogyakarta,GPK,Beroperasi,KABUPATEN GROBOGAN,-7.27289,110.8972,WGS 1984
+164,164,238,Grati,Jawa Timur,Daop IX Jember,GI,Beroperasi,KOTA PASURUAN,-7.71747,113.0122,WGS 1984
+165,165,239,Gresik,Jawa Timur,Daop VIII Surabaya,GS,Tidak beroperasi,KABUPATEN GRESIK,-7.15289,112.6578,WGS 1984
+166,166,241,Grogol,DKI Jakarta,Daop I Jakarta,GG,Beroperasi,KABUPATEN NGAWI,-7.49786,111.4188,WGS 1984
+167,167,244,Gubug,Jawa Tengah,Daop IV Semarang,GUB,Beroperasi,KABUPATEN GROBOGAN,-7.06097,110.6696,WGS 1984
+168,168,245,Gumilir,Jawa Tengah,Daop V Purwokerto,GM,Beroperasi,KABUPATEN CILACAP,-7.685,109.0426,WGS 1984
+169,169,247,Gundih,Jawa Tengah,Daop IV Semarang,GD,Beroperasi,KABUPATEN GROBOGAN,-7.21869,110.9,WGS 1984
+170,170,248,Gununggangsir,Jawa Timur,Daop VIII Surabaya,GNG,Tidak beroperasi,KABUPATEN PASURUAN,-7.58478,112.7248,WGS 1984
+171,171,250,Gurah,Jawa Timur,Daop VII Madiun,GU,Tidak beroperasi,KABUPATEN KEDIRI,-7.80731,112.089,WGS 1984
+172,172,251,Haurgeulis,Jawa Barat,Daop III Cirebon,HGL,Beroperasi,KABUPATEN INDRAMAYU,-6.45862,107.941,WGS 1984
+173,173,252,Haurpugur,Jawa Barat,Daop II Bandung,HRP,Beroperasi,KABUPATEN BANDUNG,-6.98071,107.7996,WGS 1984
+174,174,253,Ijo,Jawa Tengah,Daop V Purwokerto,IJ,Beroperasi,KABUPATEN KEBUMEN,-7.61548,109.4462,WGS 1984
+175,175,254,Indihiang,Jawa Barat,Daop II Bandung,IH,Beroperasi,KOTA TASIKMALAYA,-7.28711,108.2012,WGS 1984
+176,176,255,Indramayu,Jawa Barat,Daop III Cirebon,IM,Tidak beroperasi,KABUPATEN INDRAMAYU,-6.349,108.3214,WGS 1984
+177,177,256,Indro,Jawa Timur,Daop VIII Surabaya,IDO,Beroperasi,KABUPATEN GRESIK,-7.17698,112.66443,
+178,178,257,Jakarta Gudang,DKI Jakarta,Daop I Jakarta,JAKG,Beroperasi,KOTA JAKARTA UTARA,-6.1333,106.8194,WGS 1984
+179,179,258,Jakarta Kota,DKI Jakarta,Daop I Jakarta,JAKK,Beroperasi,KOTA JAKARTA BARAT,-6.1366,106.8166,WGS 1984
+180,180,260,Jamblang,Jawa Barat,Daop III Cirebon,JBG,Tidak beroperasi,KABUPATEN PROBOLINGGO,-7.74487,113.452,WGS 1984
+181,181,261,Jambon,Jawa Tengah,Daop IV Semarang,JBN,Beroperasi,KABUPATEN GROBOGAN,-7.15027,111.0102,WGS 1984
+182,182,262,Jambu,Jawa Tengah,Daop IV Semarang,JMB,Beroperasi terbatas,KABUPATEN SEMARANG,-7.27979,110.3688,WGS 1984
+183,183,263,Jambu Baru,Banten,Daop I Jakarta,JBU,Beroperasi,KABUPATEN SERANG,-6.30292,106.2606,WGS 1984
+184,184,264,Japanan,Jawa Timur,Daop VIII Surabaya,JPN,Tidak beroperasi,KABUPATEN PASURUAN,-7.56207,112.6924,WGS 1984
+185,185,267,Jatibarang,Jawa Barat,Daop III Cirebon,JTB,Beroperasi,KABUPATEN INDRAMAYU,-6.4729,108.306,WGS 1984
+186,186,268,Jatinegara,DKI Jakarta,Daop I Jakarta,JNG,Beroperasi,KOTA JAKARTA TIMUR,-6.21527,106.8704,WGS 1984
+187,187,269,Jatirogo,Jawa Timur,Daop VIII Surabaya,JTG,Tidak beroperasi,KABUPATEN TUBAN,-6.88422,111.6546,WGS 1984
+188,188,270,Jatiroto,Jawa Timur,Daop IX Jember,JTR,Beroperasi,KABUPATEN LUMAJANG,-8.12341,113.3642,WGS 1984
+189,189,273,Jember,Jawa Timur,Daop IX Jember,JR,Beroperasi,KABUPATEN JEMBER,-8.1651,113.7034,WGS 1984
+190,190,275,Jenar,Jawa Tengah,Daop VI Yogyakarta,JN,Beroperasi,KABUPATEN PURWOREJO,-7.802,110.0008,WGS 1984
+191,191,277,Jerakah,Jawa Tengah,Daop IV Semarang,JRK,Beroperasi,KOTA SEMARANG,-6.98047,110.3626,WGS 1984
+192,192,278,Jeruklegi,Jawa Tengah,Daop V Purwokerto,JRL,Beroperasi,KABUPATEN CILACAP,-7.62347,109.019,WGS 1984
+193,193,281,Jombang,Jawa Timur,Daop VII Madiun,JG,Beroperasi,KABUPATEN JOMBANG,-7.5578,112.2334,WGS 1984
+194,194,285,Juana/Juwana,Jawa Tengah,Daop IV Semarang,JU,Tidak beroperasi,KABUPATEN PATI,-6.72009,111.1444,WGS 1984
+195,195,286,Juanda,DKI Jakarta,Daop I Jakarta,JUA,Beroperasi,KOTA JAKARTA PUSAT,-6.16656,106.8304,WGS 1984
+196,196,290,Kadipaten,Jawa Barat,Daop III Cirebon,KAD,Tidak beroperasi,KABUPATEN MAJALENGKA,-6.76947,108.1698,WGS 1984
+197,197,291,Kadipiro,Jawa Tengah,Daop VI Yogyakarta,KDO,Beroperasi,KOTA SURAKARTA,-7.53103,110.81796,
+198,198,292,Kedokangabus,Jawa Barat,Daop III Cirebon,KAB,Beroperasi,KABUPATEN INDRAMAYU,-6.46771,108.107,WGS 1984
+199,199,296,Kalianget,Jawa Timur,Daop VIII Surabaya,KLG,Tidak beroperasi,KABUPATEN SUMENEP,-7.05347,113.9424,WGS 1984
+200,200,298,Kalibaru,Jawa Timur,Daop IX Jember,KBR,Beroperasi,KABUPATEN BANYUWANGI,-8.28888,113.9844,WGS 1984
+201,201,299,Kalibodri,Jawa Tengah,Daop IV Semarang,KBD,Beroperasi,KABUPATEN KENDAL,-6.97357,110.1482,WGS 1984
+202,202,301,Kalideres,DKI Jakarta,Daop I Jakarta,KDS,Beroperasi,KOTA JAKARTA BARAT,-6.16608,106.7034,WGS 1984
+203,203,302,Kalimas,Jawa Timur,Daop VIII Surabaya,KLM,Beroperasi,KOTA SURABAYA,-7.21991,112.735,WGS 1984
+204,204,304,Kalioso,Jawa Tengah,Daop VI Yogyakarta,KO,Beroperasi,KABUPATEN KARANGANYAR,-7.46619,110.8052,WGS 1984
+205,205,305,Kalipucang,Jawa Barat,Daop II Bandung,KLC,Tidak beroperasi,KABUPATEN PANGANDARAN,-7.63501,108.751,WGS 1984
+206,206,306,Kalisamin,Jawa Tengah,Daop VI Yogyakarta,KIM,Tidak beroperasi,KABUPATEN SUKOHARJO,-7.6264,110.8428,WGS 1984
+207,207,307,Kalisat,Jawa Timur,Daop IX Jember,KLT,Beroperasi,KABUPATEN JEMBER,-8.12701,113.8124,WGS 1984
+208,208,309,Kalitidu,Jawa Timur,Daop VIII Surabaya,KIT,Beroperasi,KABUPATEN BOJONEGORO,-7.13171,111.7674,WGS 1984
+209,209,310,Kaliwedi,Jawa Barat,Daop III Cirebon,KLW,Tidak beroperasi,KABUPATEN CIREBON,-6.58667,108.3852,WGS 1984
+210,210,311,Kaliwungu,Jawa Tengah,Daop IV Semarang,KLN,Beroperasi,KABUPATEN KENDAL,-6.95978,110.2548,WGS 1984
+211,211,312,Kamal,Jawa Timur,Daop VIII Surabaya,KML,Tidak beroperasi,KABUPATEN BANGKALAN,-7.16498,112.72,WGS 1984
+212,212,314,Kambangan,Jawa Timur,Daop VII Madiun,KBG,Tidak beroperasi,KABUPATEN LANGKAT,3.66359,98.46048,
+213,213,317,Kandangan (Surabaya),Jawa Timur,Daop VIII Surabaya,KDA,Beroperasi,KOTA SURABAYA,-7.25079,112.6572,WGS 1984
+214,214,320,Kapas,Jawa Timur,Daop VIII Surabaya,KPS,Beroperasi,KABUPATEN BOJONEGORO,-7.1991,111.9334,WGS 1984
+215,215,321,Kapuan,Jawa Tengah,Daop IV Semarang,KPA,Beroperasi,KABUPATEN BLORA,-7.1886,111.5552,WGS 1984
+216,216,322,Karangampel,Jawa Barat,Daop III Cirebon,KRP,Tidak beroperasi,KABUPATEN BATANG,-6.92377,109.8944,WGS 1984
+217,217,323,Karanganyar,Jawa Tengah,Daop V Purwokerto,KA,Beroperasi,KABUPATEN KEBUMEN,-7.6333,109.5734,WGS 1984
+218,218,324,Karangantu,Banten,Daop I Jakarta,KRA,Beroperasi,KOTA SERANG,-6.039,106.162,WGS 1984
+219,219,325,Karangjati,Jawa Tengah,Daop IV Semarang,KGT,Beroperasi,KABUPATEN GROBOGAN,-7.10138,110.7792,WGS 1984
+220,220,326,Karanggandul,Jawa Tengah,Daop V Purwokerto,KGD,Beroperasi,KABUPATEN BANYUMAS,-7.388,109.1858,WGS 1984
+221,221,327,Karangkandri,Jawa Tengah,Daop V Purwokerto,KKD,Beroperasi,KABUPATEN CILACAP,-7.6662,109.0756,WGS 1984
+222,222,329,Karangpilang,Jawa Timur,Daop VIII Surabaya,KAP,Tidak beroperasi,KABUPATEN INDRAMAYU,-6.46021,108.4574,WGS 1984
+223,223,330,Karangpucung,Jawa Barat,Daop II Bandun,KNP,Beroperasi,KOTA BANJAR,-7.35352,108.494,WGS 1984
+224,224,331,Karangsari (ke Bd),Jawa Barat,Daop II Bandun,KRAI,Beroperasi,KABUPATEN GARUT,-7.09827,107.9312,WGS 1984
+225,225,332,Karangsari (ke Pwt),Jawa Tengah,Daop V Purwokerto,KRR,Beroperasi,KABUPATEN BANYUMAS,-7.3822,109.1208,WGS 1984
+226,226,333,Karangsono,Jawa Tengah,Daop IV Semarang,KSO,Beroperasi,KABUPATEN GROBOGAN,-7.19629,110.8256,WGS 1984
+227,227,334,Karangsuwung,Jawa Barat,Daop III Cirebon,KRW,Tidak beroperasi,KABUPATEN CIREBON,-6.85779,108.6478,WGS 1984
+228,228,337,Karang Tengah,Jawa Barat,Daop I Jakarta,KE,Beroperasi,KABUPATEN SUKABUMI,-6.8963,106.8224,WGS 1984
+229,229,338,Karawang,Jawa Barat,Daop I Jakarta,KW,Beroperasi,KABUPATEN KARAWANG,-6.30518,107.3002,WGS 1984
+230,230,340,Karet,DKI Jakarta,Daop I Jakarta,KAT,Beroperasi,KOTA JAKARTA PUSAT,-6.20081,106.816,WGS 1984
+231,231,343,Kasugihan,Jawa Tengah,Daop V Purwokerto,KH,Beroperasi,KABUPATEN CILACAP,-7.61829,109.1218,WGS 1984
+232,232,345,Kawunganten,Jawa Tengah,Daop V Purwokerto,KWG,Beroperasi,KABUPATEN CILACAP,-7.59088,108.9194,WGS 1984
+233,233,346,Kebayoran,DKI Jakarta,Daop I Jakarta,KBY,Beroperasi,KOTA JAKARTA SELATAN,-6.23737,106.7824,WGS 1984
+234,234,347,Kebasen,Jawa Tengah,Daop V Purwokerto,KBS,Beroperasi,KABUPATEN BANYUMAS,-7.53027,109.2032,WGS 1984
+235,235,349,Kebonromo,Jawa Tengah,Daop VI Yogyakarta,KRO,Beroperasi,KABUPATEN SRAGEN,-7.41907,111.064,WGS 1984
+236,236,350,Kebumen,Jawa Tengah,Daop V Purwokerto,KM,Beroperasi,KABUPATEN KEBUMEN,-7.68188,109.6622,WGS 1984
+237,237,351,Kedinding,Jawa Timur,Daop VIII Surabaya,KDN,Beroperasi,KABUPATEN SIDOARJO,-7.43707,112.5526,WGS 1984
+238,238,352,Kediri,Jawa Timur,Daop VII Madiun,KD,Beroperasi,KOTA KEDIRI,-7.8172,112.0156,WGS 1984
+239,239,354,Kedundang,Jawa Tengah,Daop VI Yogyakarta,KDG,Beroperasi,KABUPATEN KULON PROGO,-7.85919,110.2094,WGS 1984
+240,240,355,Kedungbanteng,Jawa Tengah,Daop VI Yogyakarta,KDB,Beroperasi,KABUPATEN SRAGEN,-7.40521,111.1172,WGS 1984
+241,241,356,Kedungjati,Jawa Tengah,Daop IV Semarang,KEJ,Beroperasi,KABUPATEN GROBOGAN,-7.16351,110.6356,WGS 1984
+242,242,357,Kedunggalar,Jawa Timur,Daop VII Madiun,KG,Beroperasi,KABUPATEN NGAWI,-7.41827,111.3068,WGS 1984
+243,243,358,Kedunggedeh,Jawa Barat,Daop I Jakarta,KDH,Beroperasi,KABUPATEN BEKASI,-6.2699,107.2612,WGS 1984
+244,244,359,Kedungpring,Jawa Timur,Daop VII Madiun,KEI,Tidak beroperasi,KABUPATEN LAMONGAN,-7.18628,112.1958,WGS 1984
+245,245,361,Kemayoran,DKI Jakarta,Daop I Jakarta,KMO,Beroperasi,KOTA JAKARTA PUSAT,-6.16187,106.8414,WGS 1984
+246,246,362,Kemijen,Jawa Tengah,Daop IV Semarang,KME,Tidak beroperasi,KOTA SEMARANG,-6.95587,110.4388,WGS 1984
+247,247,363,Kemiri,Jawa Tengah,Daop VI Yogyakarta,KMR,Beroperasi,KABUPATEN KARANGANYAR,-7.534,110.9014,WGS 1984
+248,248,364,Kemranjen,Jawa Tengah,Daop V Purwokerto,KJ,Beroperasi,KABUPATEN BANYUMAS,-7.62158,109.3154,WGS 1984
+249,249,366,Kendal,Jawa Tengah,Daop IV Semarang,KL,Tidak beroperasi,KABUPATEN KENDAL,-6.9209,110.1924,WGS 1984
+250,250,369,Kepanjen,Jawa Timur,Daop VIII Surabaya,KPN,Beroperasi,KOTA MALANG,-8.1319,112.5736,WGS 1984
+251,251,372,Kertasemaya,Jawa Barat,Daop III Cirebon,KTM,Beroperasi,KABUPATEN INDRAMAYU,-6.5282,108.3534,WGS 1984
+252,252,374,Kertosono,Jawa Timur,Daop VII Madiun,KTS,Beroperasi,KABUPATEN NGANJUK,-7.5918,112.1008,WGS 1984
+253,253,375,Kesamben,Jawa Timur,Daop VIII Surabaya,KSB,Beroperasi,KOTA BLITAR,-8.14929,112.3636,WGS 1984
+254,254,377,Ketanggungan,Jawa Tengah,Daop III Cirebon,KGG,Beroperasi,KABUPATEN BREBES,-6.93829,108.8844,WGS 1984
+255,255,378,Ketanggungan Barat,Jawa Tengah,Daop III Cirebon,KGB,Tidak beroperasi,KABUPATEN BREBES,-6.9292,108.8562,WGS 1984
+256,256,380,Kiaracondong,Jawa Barat,Daop II Bandung,KAC,Beroperasi,KOTA BANDUNG,-6.92511,107.6464,WGS 1984
+257,257,381,Klakah,Jawa Timur,Daop IX Jember,KK,Beroperasi,KABUPATEN LUMAJANG,-7.99371,113.2484,WGS 1984
+258,258,382,Klari,Jawa Barat,Daop I Jakarta,KLI,Beroperasi,KABUPATEN KARAWANG,-6.34998,107.3454,WGS 1984
+259,259,383,Klaten,Jawa Tengah,Daop VI Yogyakarta,KT,Beroperasi,KABUPATEN KLATEN,-7.71228,110.603,WGS 1984
+260,260,384,Klender,DKI Jakarta,Daop I Jakarta,KLD,Beroperasi,KOTA JAKARTA TIMUR,-6.21338,106.9,WGS 1984
+261,261,385,Klender Baru,DKI Jakarta,Daop I Jakarta,KLDB,Beroperasi,KOTA JAKARTA TIMUR,-6.21759,106.9398,WGS 1984
+262,262,387,Kosambi,Jawa Barat,Daop I Jakarta,KOS,Beroperasi,KABUPATEN KARAWANG,-6.3692,107.3748,WGS 1984
+263,263,388,Kotapadang,Bengkulu,Divre III Palembang,KOP,Beroperasi,KABUPATEN REJANG LEBONG,-3.42609,102.967,WGS 1984
+264,264,389,Kotok,Jawa Timur,Daop IX Jember,KTK,Beroperasi,KABUPATEN JEMBER,-8.1261,113.779,WGS 1984
+265,265,390,Kradenan,Jawa Tengah,Daop IV Semarang,KNN,Beroperasi,KABUPATEN GROBOGAN,-7.1499,111.145,WGS 1984
+266,266,392,Kramat,DKI Jakarta,Daop I Jakarta,KMT,Beroperasi,KOTA JAKARTA PUSAT,-6.19391,106.8566,WGS 1984
+267,267,394,Kranji,Jawa Barat,Daop I Jakarta,KRI,Beroperasi,KOTA BEKASI,-6.2243,106.9792,WGS 1984
+268,268,395,Kras,Jawa Timur,Daop VII Madiun,KRS,Beroperasi,KOTA KEDIRI,-7.94867,111.9604,WGS 1984
+269,269,398,Krengseng,Jawa Tengah,Daop IV Semarang,KNS,Beroperasi,KABUPATEN BATANG,-6.95239,110.028,WGS 1984
+270,270,399,Krenceng,Banten,Daop I Jakarta,KEN,Beroperasi,KOTA CILEGON,-6.00977,106.023,WGS 1984
+271,271,400,Kretek,Jawa Tengah,Daop V Purwokerto,KRT,Beroperasi,KABUPATEN BREBES,-7.28558,109.0298,WGS 1984
+272,272,401,Krian,Jawa Timur,Daop VIII Surabaya,KRN,Beroperasi,KABUPATEN SIDOARJO,-7.4101,112.5862,WGS 1984
+273,273,402,Krikilan,Jawa Timur,Daop IX Jember,KKL,Beroperasi,KABUPATEN BANYUWANGI,-8.2959,114.029,WGS 1984
+274,274,403,Kronelan,Jawa Tengah,Daop VI Yogyakarta,KNL,Tidak beroperasi,KABUPATEN SUKOHARJO,-7.59601,110.8534,WGS 1984
+275,275,404,Kroya,Jawa Tengah,Daop V Purwokerto,KYA,Beroperasi,KABUPATEN CILACAP,-7.63,109.2538,WGS 1984
+276,276,408,Kunduran,Jawa Tengah,Daop IV Semarang,KDR,Tidak beroperasi,KABUPATEN BLORA,-7.0506,111.2408,WGS 1984
+277,277,409,Kuripan,Jawa Tengah,Daop IV Semarang,KRP,Beroperasi,KABUPATEN BATANG,-6.92377,109.8944,WGS 1984
+278,278,410,Kutoarjo,Jawa Tengah,Daop V Purwokerto,KTA,Beroperasi,KABUPATEN PURWOREJO,-7.7262,109.9074,WGS 1984
+279,279,411,Kutowinangun,Jawa Tengah,Daop V Purwokerto,KWN,Beroperasi,KABUPATEN KEBUMEN,-7.7168,109.7342,WGS 1984
+280,280,415,Kwanyar,Jawa Timur,Daop VIII Surabaya,KWR,Tidak beroperasi,KABUPATEN BANGKALAN,-7.15198,112.8676,WGS 1984
+281,281,419,Lamongan,Jawa Timur,Daop VIII Surabaya,LMG,Beroperasi,KABUPATEN LAMONGAN,-7.11249,112.4202,WGS 1984
+282,282,420,Lampegan,Jawa Barat,Daop II Bandung,LP,Beroperasi,KABUPATEN CIANJUR,-6.94989,107.0616,WGS 1984
+283,283,421,Langen,Jawa Barat,Daop V Purwokerto,LN,Beroperasi,KOTA BANJAR,-7.36011,108.637,WGS 1984
+284,284,422,Larangan (ke Smt),Jawa Tengah,Daop IV Semarang,LR,Beroperasi,KABUPATEN TEGAL,-6.86816,109.1858,WGS 1984
+285,285,423,Larangan (ke Pwt),Jawa Tengah,Daop III Cirebon,LRA,Beroperasi,KABUPATEN BREBES,-6.9906,108.9488,WGS 1984
+286,286,424,Lasem,Jawa Tengah,Daop IV Semarang,LS,Tidak beroperasi,KABUPATEN REMBANG,-6.6955,111.4372,WGS 1984
+287,287,425,Lawang,Jawa Timur,Daop VIII Surabaya,LW,Beroperasi,KOTA MALANG,-7.83679,112.6978,WGS 1984
+288,288,426,Lebakjero,Jawa Barat,Daop II Bandung,LBJ,Beroperasi,KABUPATEN BANDUNG,-7.05359,107.894,WGS 1984
+289,289,427,Lebeng,Jawa Tengah,Daop V Purwokerto,LBG,Beroperasi,KABUPATEN CILACAP,-7.62128,109.0774,WGS 1984
+290,290,428,Leces,Jawa Timur,Daop IX Jember,LEC,Beroperasi,KABUPATEN PROBOLINGGO,-7.84686,113.229,WGS 1984
+291,291,429,Ledokombo,Jawa Timur,Daop IX Jember,LDO,Beroperasi,KABUPATEN JEMBER,-8.14056,113.8756,WGS 1984
+292,292,430,Legok,Jawa Tengah,Daop V Purwokerto,LGK,Tidak beroperasi,KABUPATEN BANYUMAS,-7.35547,109.0872,WGS 1984
+293,293,432,Lemahabang,Jawa Barat,Daop I Jakarta,LMB,Beroperasi,KABUPATEN BEKASI,-6.27057,107.1798,WGS 1984
+294,294,433,Lempuyangan,D.I Yogyakarta,Daop VI Yogyakarta,LPN,Beroperasi,KOTA YOGYAKARTA,-7.7901,110.3748,WGS 1984
+295,295,437,Linggapura,Jawa Tengah,Daop V Purwokerto,LG,Beroperasi,KABUPATEN BREBES,-7.185,109.0124,WGS 1984
+296,296,439,Losari,Jawa Barat,Daop III Cirebon,LOS,Beroperasi,KABUPATEN CIREBON,-6.84607,108.8018,WGS 1984
+297,297,440,Lumajang,Jawa Timur,Daop IX Jember,LM,Tidak beroperasi,KABUPATEN LUMAJANG,-8.13538,113.2152,WGS 1984
+298,298,441,Luwung,Jawa Barat,Daop III Cirebon,LWG,Tidak beroperasi,KABUPATEN CIREBON,-6.77759,108.5932,WGS 1984
+299,299,442,Madiun,Jawa Timur,Daop VII Madiun,MN,Beroperasi,KOTA MADIUN,-7.61841,111.525,WGS 1984
+300,300,444,Magelang Kota,Jawa Tengah,Daop VI Yogyakarta,MG,Tidak beroperasi,KOTA MAGELANG,-7.46851,110.2184,WGS 1984
+301,301,446,Magetan,Jawa Timur,Daop VII Madiun,MAG,Beroperasi,KABUPATEN MAGETAN,-7.56209,111.45117,
+302,302,447,Maguwo,D.I Yogyakarta,Daop VI Yogyakarta,MGW,Beroperasi,KABUPATEN SLEMAN,-7.78497,110.437,WGS 1984
+303,303,448,Maja,Banten,Daop I Jakarta,MJ,Beroperasi,KABUPATEN LEBAK,-6.33228,106.3962,WGS 1984
+304,304,450,Malang,Jawa Timur,Daop VIII Surabaya,ML,Beroperasi,KOTA MALANG,-7.97742,112.6374,WGS 1984
+305,305,452,Malang Kotalama,Jawa Timur,Daop VIII Surabaya,MLK,Beroperasi,KOTA MALANG,-7.99512,112.6324,WGS 1984
+306,306,453,Malasan,Jawa Timur,Daop IX Jember,MLS,Beroperasi,KABUPATEN PROBOLINGGO,-7.8844,113.2596,WGS 1984
+307,307,454,Maleber,Jawa Barat,Daop II Bandung,MLB,Tidak beroperasi,KABUPATEN CIANJUR,-6.81787,107.1756,WGS 1984
+308,308,456,Mampang,DKI Jakarta,Daop I Jakarta,MPG,Tidak beroperasi,KOTA JAKARTA PUSAT,-6.20587,106.8394,WGS 1984
+309,309,458,Manggarai,DKI Jakarta,Daop I Jakarta,MRI,Beroperasi,KOTA JAKARTA SELATAN,-6.2099,106.8498,WGS 1984
+310,310,459,Mangga Besar,DKI Jakarta,Daop I Jakarta,MGB,Beroperasi,KOTA JAKARTA PUSAT,-6.14978,106.827,WGS 1984
+311,311,460,Mangkang,Jawa Tengah,Daop IV Semarang,MKG,Beroperasi,KOTA SEMARANG,-6.97107,110.303,WGS 1984
+312,312,461,Mangli,Jawa Timur,Daop IX Jember,MI,Beroperasi,KABUPATEN JEMBER,-8.1886,113.6552,WGS 1984
+313,313,462,Manonjaya,Jawa Barat,Daop II Bandung,MNJ,Beroperasi,KABUPATEN TASIKMALAYA,-7.35321,108.3026,WGS 1984
+314,314,463,Mantingan,Jawa Tengah,Daop IV Semarang,MNT,Tidak beroperasi,KABUPATEN REMBANG,-6.86377,111.4244,WGS 1984
+315,315,464,Maos,Jawa Tengah,Daop V Purwokerto,MA,Beroperasi,KABUPATEN CILACAP,-7.61908,109.1398,WGS 1984
+316,316,465,Margasari,Jawa Tengah,Daop V Purwokerto,MA,Tidak beroperasi,KABUPATEN CILACAP,-7.61908,109.1398,WGS 1984
+317,317,467,Masaran,Jawa Tengah,Daop VI Yogyakarta,MSR,Beroperasi,KABUPATEN SRAGEN,-7.46808,110.9478,WGS 1984
+318,318,468,Maseng,Jawa Barat,Daop I Jakarta,MSG,Beroperasi,KABUPATEN BOGOR,-6.70239,106.8146,WGS 1984
+319,319,469,Maswati,Jawa Barat,Daop II Bandung,MSI,Beroperasi,KABUPATEN BANDUNG BARAT,-6.76086,107.409,WGS 1984
+320,320,471,Mayong,Jawa Tengah,Daop IV Semarang,MY,Tidak beroperasi,KABUPATEN JEPARA,-6.7475,110.7562,WGS 1984
+321,321,473,Meluwung,Jawa Tengah,Daop V Purwokerto,MLW,Beroperasi,KABUPATEN CILACAP,-7.39441,108.6996,WGS 1984
+322,322,475,Merak,Banten,Daop I Jakarta,MER,Beroperasi,KOTA CILEGON,-5.9303,105.9972,WGS 1984
+323,323,476,Merakurak,Jawa Timur,Daop VIII Surabaya,MKR,Tidak beroperasi,KABUPATEN TUBAN,-6.8866,111.9992,WGS 1984
+324,324,479,Minggiran,Jawa Timur,Daop VII Madiun,MGN,Beroperasi,KOTA KEDIRI,-7.72809,112.0574,WGS 1984
+325,325,483,Mojokerto,Jawa Timur,Daop VIII Surabaya,MR,Beroperasi,KOTA MOJOKERTO,-7.47241,112.4344,WGS 1984
+326,326,488,Montelan,Jawa Tengah,Daop VI Yogyakarta,MTL,Tidak beroperasi,KABUPATEN PURWOREJO,-7.7536,109.9498,WGS 1984
+327,327,489,Mrawan,Jawa Timur,Daop IX Jember,MRW,Beroperasi,KABUPATEN JEMBER,-8.2724,113.9268,WGS 1984
+328,328,492,Nagreg,Jawa Barat,Daop II Bandung,NG,Beroperasi,KABUPATEN BANDUNG,-7.01819,107.8862,WGS 1984
+329,329,494,Nambo,Jawa Barat,Daop I Jakarta,NMO,Beroperasi,KABUPATEN BOGOR,-6.46509,106.909,WGS 1984
+330,330,495,Ngabean,D.I Yogyakarta,Daop VI Yogyakarta,NBN,Tidak beroperasi,KOTA YOGYAKARTA,-7.81177,110.355,WGS 1984
+331,331,496,Ngadiluwih,Jawa Timur,Daop VII Madiun,NDL,Beroperasi,KOTA KEDIRI,-7.89838,111.988,WGS 1984
+332,332,498,Ngaloran,Jawa Tengah,Daop IV Semarang,NLR,Tidak beroperasi,KABUPATEN DEMAK,-6.87097,110.7294,WGS 1984
+333,333,499,Nganjuk,Jawa Timur,Daop VII Madiun,NJ,Beroperasi,KABUPATEN NGANJUK,-7.6001,111.9028,WGS 1984
+334,334,501,Ngawi,Jawa Timur,Daop VII Madiun,NGW,Beroperasi,KABUPATEN NGAWI,-7.44226,111.38695,
+335,335,502,Ngebruk,Jawa Timur,Daop VIII Surabaya,NB,Beroperasi,KOTA MALANG,-8.15192,112.518,WGS 1984
+336,336,504,Ngimbang,Jawa Timur,Daop VII Madiun,NBG,Tidak beroperasi,KABUPATEN LAMONGAN,-7.28381,112.2154,WGS 1984
+337,337,505,Ngrombo,Jawa Tengah,Daop IV Semarang,NBO,Beroperasi,KABUPATEN GROBOGAN,-7.14526,110.9004,WGS 1984
+338,338,506,Ngoro KSM,Jawa Timur,Daop VII Madiun,NGR,Tidak beroperasi,KABUPATEN JOMBANG,-7.6908,112.2686,WGS 1984
+339,339,508,Ngujang,Jawa Timur,Daop VII Madiun,NJG,Beroperasi,KABUPATEN TULUNGAGUNG,-8.0105,111.9272,WGS 1984
+340,340,510,Ngunut,Jawa Timur,Daop VII Madiun,NT,Beroperasi,KABUPATEN TULUNGAGUNG,-8.10278,112.0122,WGS 1984
+341,341,512,Notog,Jawa Tengah,Daop V Purwokerto,NTG,Beroperasi,KABUPATEN BANYUMAS,-7.48578,109.2134,WGS 1984
+342,342,513,Pabuaran,Jawa Barat,Daop III Cirebon,PAB,Beroperasi,KABUPATEN SUBANG,-6.40918,107.584,WGS 1984
+343,343,515,Padalarang,Jawa Barat,Daop II Bandung,PDL,Beroperasi,KABUPATEN BANDUNG BARAT,-6.84277,107.4976,WGS 1984
+344,344,517,Padas,Jawa Tengah,Daop IV Semarang,PDS,Beroperasi,KABUPATEN GROBOGAN,-7.1792,110.672,WGS 1984
+345,345,520,Pagongan,Jawa Tengah,Daop V Purwokerto,PNG,Tidak beroperasi,KABUPATEN MUARA ENIM,-3.48169,103.813,WGS 1984
+346,346,524,Pakisaji,Jawa Timur,Daop VIII Surabaya,PSI,Beroperasi,KOTA MALANG,-8.06927,112.5986,WGS 1984
+347,347,526,Palbapang,D.I Yogyakarta,Daop VI Yogyakarta,PLP,Tidak beroperasi,KABUPATEN BANTUL,-7.9068,110.3194,WGS 1984
+348,348,527,Palmerah,DKI Jakarta,Daop I Jakarta,PLM,Beroperasi,KOTA JAKARTA PUSAT,-6.20758,106.7974,WGS 1984
+349,349,528,Palur,Jawa Tengah,Daop VI Yogyakarta,PL,Beroperasi,KABUPATEN KARANGANYAR,-7.56818,110.8756,WGS 1984
+350,350,529,Pamekasan,Jawa Timur,Daop VIII Surabaya,PM,Tidak beroperasi,KABUPATEN PAMEKASAN,-7.16107,113.487,WGS 1984
+351,351,530,Pamotan,Jawa Tengah,Daop IV Semarang,PMT,Tidak beroperasi,KABUPATEN REMBANG,-6.76337,111.4912,WGS 1984
+352,352,531,Panarukan,Jawa Timur,Daop IX Jember,PNR,Tidak beroperasi,KABUPATEN SITUBONDO,-7.69757,113.936,WGS 1984
+353,353,534,Pandeglang,Banten,Daop I Jakarta,PDG,Tidak beroperasi,KABUPATEN BANTUL,-7.96167,110.3426,WGS 1984
+354,354,535,Pangandaran,Jawa Barat,Daop II Bandung,PND,Tidak beroperasi,KABUPATEN PANGANDARAN,-7.67596,108.631,WGS 1984
+355,355,537,Panunggalan,Jawa Tengah,Daop IV Semarang,PNL,Beroperasi,KABUPATEN GROBOGAN,-7.15259,111.0608,WGS 1984
+356,356,539,Papar,Jawa Timur,Daop VII Madiun,PPR,Beroperasi,KOTA KEDIRI,-7.69757,112.0796,WGS 1984
+357,357,541,Pare,Jawa Timur,Daop VII Madiun,PE,Tidak beroperasi,KABUPATEN KEDIRI,-7.76727,112.1924,WGS 1984
+358,358,543,Parung Kuda,Jawa Barat,Daop I Jakarta,PRK,Beroperasi,KABUPATEN SUKABUMI,-6.8465,106.7606,WGS 1984
+359,359,544,Parung Panjang,Jawa Barat,Daop I Jakarta,PRP,Beroperasi,KABUPATEN BOGOR,-6.34418,106.5688,WGS 1984
+360,360,548,Pasar Minggu,DKI Jakarta,Daop I Jakarta,PSM,Beroperasi,KOTA JAKARTA SELATAN,-6.28436,106.8446,WGS 1984
+361,361,549,Pasar Minggu Baru,DKI Jakarta,Daop I Jakarta,PSMB,Beroperasi,KOTA JAKARTA SELATAN,-6.26282,106.8518,WGS 1984
+362,362,550,Pasarnguter,Jawa Tengah,Daop VI Yogyakarta,PNT,Beroperasi,KABUPATEN SUKOHARJO,-7.74139,110.8786,WGS 1984
+363,363,551,Pasar Senen,DKI Jakarta,Daop I Jakarta,PSE,Beroperasi,KOTA JAKARTA PUSAT,-6.1745,106.8442,WGS 1984
+364,364,552,Pasirbungur,Jawa Barat,Daop III Cirebon,PAS,Beroperasi,KABUPATEN SUBANG,-6.42639,107.6886,WGS 1984
+365,365,554,Pasirjengkol,Jawa Barat,Daop II Bandung,PSJ,Beroperasi,KABUPATEN GARUT,-7.12864,107.99229,
+366,366,555,Pasirian,Jawa Timur,Daop IX Jember,PSR,Tidak beroperasi,KABUPATEN LUMAJANG,-8.21649,113.1154,WGS 1984
+367,367,556,Pasoso,DKI Jakarta,Daop I Jakarta,POO,Beroperasi,KOTA JAKARTA UTARA,-6.10938,106.884,WGS 1984
+368,368,557,Pasuruan,Jawa Timur,Daop IX Jember,PS,Beroperasi,KOTA PASURUAN,-7.63739,112.9098,WGS 1984
+369,369,559,Pati,Jawa Tengah,Daop IV Semarang,PT,Tidak beroperasi,KABUPATEN PATI,-6.75018,111.0276,WGS 1984
+370,370,560,Patikraja,Jawa Tengah,Daop V Purwokerto,PTR,Tidak beroperasi,KABUPATEN JOMBANG,-7.54187,112.2792,WGS 1984
+371,371,561,Patuguran,Jawa Tengah,Daop V Purwokerto,PAT,Beroperasi,KABUPATEN BREBES,-7.32806,109.0578,WGS 1984
+372,372,562,Patukan,D.I Yogyakarta,Daop VI Yogyakarta,PTN,Beroperasi,KABUPATEN SLEMAN,-7.79077,110.3254,WGS 1984
+373,373,564,Pegaden Baru,Jawa Barat,Daop III Cirebon,PGB,Beroperasi,KABUPATEN SUBANG,-6.4538,107.8172,WGS 1984
+374,374,566,Pehsentee,Jawa Timur,Daop VII Madiun,PST,Tidak beroperasi,KABUPATEN KEDIRI,-7.81189,112.2898,WGS 1984
+375,375,567,Pekalongan,Jawa Tengah,Daop IV Semarang,PK,Beroperasi,KOTA PEKALONGAN,-6.88977,109.6642,WGS 1984
+376,376,570,Pemalang,Jawa Tengah,Daop IV Semarang,PML,Beroperasi,KABUPATEN PEMALANG,-6.88727,109.388,WGS 1984
+377,377,573,Pesantren,Jawa Timur,Daop VII Madiun,PES,Tidak beroperasi,KOTA KEDIRI,-7.83588,112.0532,WGS 1984
+378,378,574,Pesing,DKI Jakarta,Daop I Jakarta,PSG,Beroperasi,KOTA JAKARTA BARAT,-6.16119,106.772,WGS 1984
+379,379,575,Petarukan,Jawa Tengah,Daop IV Semarang,PTA,Beroperasi,KABUPATEN PEMALANG,-6.89771,109.4496,WGS 1984
+380,380,576,Peterongan,Jawa Timur,Daop VII Madiun,PTR,Beroperasi,KABUPATEN JOMBANG,-7.54187,112.2792,WGS 1984
+381,381,579,Plabuan,Jawa Tengah,Daop IV Semarang,PLB,Beroperasi,KABUPATEN BATANG,-6.9198,109.956,WGS 1984
+382,382,581,Plered,Jawa Barat,Daop II Bandung,PLD,Beroperasi,KABUPATEN PURWAKARTA,-6.64038,107.3914,WGS 1984
+383,383,582,Ploso,Jawa Timur,Daop VII Madiun,POS,Tidak beroperasi,KABUPATEN JOMBANG,-7.4538,112.2268,WGS 1984
+384,384,583,Plumpang,Jawa Timur,Daop VIII Surabaya,PMG,Tidak beroperasi,KABUPATEN TUBAN,-7.02338,112.1,WGS 1984
+385,385,584,Pohgajih,Jawa Timur,Daop VIII Surabaya,PGJ,Beroperasi,KOTA BLITAR,-8.15729,112.4206,WGS 1984
+386,386,585,Pondok Cina,Jawa Barat,Daop I Jakarta,POC,Beroperasi,KOTA DEPOK,-6.3689,106.8324,WGS 1984
+387,387,586,Pondok Jati,DKI Jakarta,Daop I Jakarta,POK,Beroperasi,KOTA JAKARTA TIMUR,-6.20898,106.8622,WGS 1984
+388,388,588,Pondok Ranji,Banten,Daop I Jakarta,PDJ,Beroperasi,KOTA TANGERANG SELATAN,-6.27667,106.7448,WGS 1984
+389,389,591,Ponorogo,Jawa Timur,Daop VII Madiun,PO,Tidak beroperasi,KABUPATEN PONOROGO,-7.8678,111.4702,WGS 1984
+390,390,592,Porong,Jawa Timur,Daop VIII Madiun,PR,Beroperasi,KABUPATEN SIDOARJO,-7.53839,112.7018,WGS 1984
+391,391,593,Poris,Banten,Daop I Jakarta,PI,Beroperasi,KOTA TANGERANG,-6.16968,106.6814,WGS 1984
+392,392,595,Prambon,Jawa Timur,Daop VIII Surabaya,PBN,Tidak beroperasi,KABUPATEN SIDOARJO,-7.46136,112.5644,WGS 1984
+393,393,596,Prembun,Jawa Tengah,Daop V Purwokerto,PRB,Beroperasi,KABUPATEN KEBUMEN,-7.72437,109.7982,WGS 1984
+394,394,597,Pringkasap,Jawa Barat,Daop III Cirebon,PRI,Beroperasi,KABUPATEN SUBANG,-6.41809,107.6344,WGS 1984
+395,395,598,Probolinggo,Jawa Timur,Daop IX Jember,PB,Beroperasi,KABUPATEN PROBOLINGGO,-7.74268,113.2158,WGS 1984
+396,396,600,Prupuk,Jawa Tengah,Daop V Purwokerto,PPK,Beroperasi,KABUPATEN TEGAL,-7.12201,108.9852,WGS 1984
+397,397,603,Pulorejo,Jawa Timur,Daop VII Madiun,PLR,Tidak beroperasi,KABUPATEN JOMBANG,-7.6731,112.2254,WGS 1984
+398,398,607,Purwakarta,Jawa Barat,Daop II Bandung,PWK,Beroperasi,KABUPATEN PURWAKARTA,-6.55267,107.4464,WGS 1984
+399,399,608,Purwoasri,Jawa Timur,Daop VII Madiun,PWA,Beroperasi,KOTA KEDIRI,-7.64728,112.1002,WGS 1984
+400,400,609,Purwodadi,Jawa Tengah,Daop IV Semarang,PW,Tidak beroperasi,KABUPATEN GROBOGAN,-7.08337,110.9116,WGS 1984
+401,401,610,Purwokerto,Jawa Tengah,Daop V Purwokerto,PWT,Beroperasi,KABUPATEN BANYUMAS,-7.41907,109.222,WGS 1984
+402,402,613,Purworejo,Jawa Tengah,Daop V Purwokerto,PWR,Tidak beroperasi,KABUPATEN PURWOREJO,-7.6886,110.0604,WGS 1984
+403,403,614,Purwosari,Jawa Tengah,Daop VI Yogyakarta,PWS,Beroperasi,KOTA SURAKARTA,-7.56177,110.7964,WGS 1984
+404,404,615,Pucuk,Jawa Timur,Daop VIII Surabaya,PC,Beroperasi,KABUPATEN LAMONGAN,-7.09747,112.2698,WGS 1984
+405,405,616,Rajamandala,Jawa Barat,Daop II Bandung,RM,Beroperasi terbatas,KABUPATEN BANDUNG BARAT,-6.82446,107.3466,WGS 1984
+406,406,617,Rajapolah,Jawa Barat,Daop II Bandung,RJP,Beroperasi,KABUPATEN TASIKMALAYA,-7.21948,108.1912,WGS 1984
+407,407,618,Rajawali,DKI Jakarta,Daop I Jakarta,RJW,Beroperasi,KOTA JAKARTA PUSAT,-6.14508,106.8368,WGS 1984
+408,408,619,Rambipuji,Jawa Timur,Daop IX Jember,RBP,Beroperasi,KABUPATEN JEMBER,-8.20337,113.6144,WGS 1984
+409,409,620,Rancaekek,Jawa Barat,Daop II Bandung,RCK,Beroperasi,KABUPATEN BANDUNG,-6.96478,107.756,WGS 1984
+410,410,621,Randegan,Jawa Tengah,Daop V Purwokerto,RDN,Beroperasi,KABUPATEN CILACAP,-7.57007,109.22,WGS 1984
+411,411,622,Randuagung,Jawa Timur,Daop IX Jember,RDA,Beroperasi,KABUPATEN LUMAJANG,-8.07111,113.3058,WGS 1984
+412,412,623,Randublatung,Jawa Tengah,Daop IV Semarang,RBG,Beroperasi,KABUPATEN BLORA,-7.1922,111.3982,WGS 1984
+413,413,624,Rangkasbitung,Banten,Daop I Jakarta,RK,Beroperasi,KABUPATEN LEBAK,-6.3526,106.2514,WGS 1984
+414,414,626,Ranuyoso,Jawa Timur,Daop IX Jember,RN,Beroperasi,KABUPATEN LUMAJANG,-7.95447,113.237,WGS 1984
+415,415,629,Rawa Buntu,Banten,Daop I Jakarta,RU,Beroperasi,KOTA TANGERANG SELATAN,-6.31488,106.6762,WGS 1984
+416,416,630,Rawa Buaya,DKI Jakarta,Daop I Jakarta,RW,Beroperasi,KOTA JAKARTA BARAT,-6.1626,106.7236,WGS 1984
+417,417,631,Rejoso,Jawa Timur,Daop IX Jember,RO,Beroperasi,KOTA PASURUAN,-7.68951,112.9658,WGS 1984
+418,418,632,Rejotangan,Jawa Timur,Daop VII Madiun,RJ,Beroperasi,KABUPATEN TULUNGAGUNG,-8.12097,112.0812,WGS 1984
+419,419,633,Rembang,Jawa Tengah,Daop IV Semarang,RB,Tidak beroperasi,KABUPATEN REMBANG,-6.70959,111.3424,WGS 1984
+420,420,635,Rendeh,Jawa Barat,Daop II Bandung,RH,Beroperasi,KABUPATEN BANDUNG BARAT,-6.7359,107.398,WGS 1984
+421,421,637,Rengasbandung,Jawa Barat,Daop I Jakarta,RBG,Tidak beroperasi,KABUPATEN BLORA,-7.1922,111.3982,WGS 1984
+422,422,638,Rewulu,D.I Yogyakarta,Daop VI Yogyakarta,RWL,Beroperasi,KABUPATEN BANTUL,-7.7959,110.2842,WGS 1984
+423,423,640,Rogojampi,Jawa Timur,Daop IX Jember,RGP,Beroperasi,KABUPATEN BANYUWANGI,-8.3045,114.2926,WGS 1984
+424,424,641,Sadang,Jawa Barat,Daop II Bandung,SAD,Tidak beroperasi,KABUPATEN PURWAKARTA,-6.51068,107.4564,WGS 1984
+425,425,642,Saketi,Banten,Daop I Jakarta,STI,Tidak beroperasi,KABUPATEN PANDEGLANG,-6.40448,105.9914,WGS 1984
+426,426,643,Salem,Jawa Tengah,Daop VI Yogyakarta,SLM,Beroperasi,KABUPATEN SRAGEN,-7.39557,110.8272,WGS 1984
+427,427,646,Sampang,Jawa Timur,Daop VIII Surabaya,SPG,Tidak beroperasi,KABUPATEN SAMPANG,-7.20306,113.2492,WGS 1984
+428,428,647,Saradan,Jawa Timur,Daop VII Madiun,SRD,Beroperasi,KOTA MADIUN,-7.54749,111.7322,WGS 1984
+429,429,648,Sasaksaat,Jawa Barat,Daop II Bandung,SKT,Beroperasi,KABUPATEN BANDUNG BARAT,-6.77917,107.4316,WGS 1984
+430,430,650,Sawotratap,Jawa Timur,Daop VIII Surabaya,STP,Tidak beroperasi,KABUPATEN SIDOARJO,-7.3678,112.7294,WGS 1984
+431,431,651,Sayung,Jawa Tengah,Daop IV Semarang,SYG,Tidak beroperasi,KABUPATEN DEMAK,-6.9411,110.5102,WGS 1984
+432,432,652,Secang,Jawa Tengah,Daop VI Yogyakarta,SCA,Tidak beroperasi,KABUPATEN MAGELANG,-7.39209,110.2418,WGS 1984
+433,433,653,Sedadi,Jawa Tengah,Daop IV Semarang,SDI,Beroperasi,KABUPATEN GROBOGAN,-7.14056,110.8484,WGS 1984
+434,434,655,Sedayu (ke Yk),D.I Yogyakarta,Daop VI Yogyakarta,SDY,Tidak beroperasi,KABUPATEN BANTUL,-7.80341,110.259,WGS 1984
+435,435,656,Selajambe,Jawa Barat,Daop II Bandung,SLJ,Tidak beroperasi,KABUPATEN CIANJUR,-6.8136,107.2226,WGS 1984
+436,436,659,Semarang Poncol,Jawa Tengah,Daop IV Semarang,SMC,Beroperasi,KOTA SEMARANG,-6.9729,110.4148,WGS 1984
+437,437,660,Semarang Tawang,Jawa Tengah,Daop IV Semarang,SMT,Beroperasi,KOTA SEMARANG,-6.96448,110.4282,WGS 1984
+438,438,662,Sembung (Jg),Jawa Timur,Daop VII Madiun,SMB,Beroperasi,KABUPATEN JOMBANG,-7.5827,112.1672,WGS 1984
+439,439,664,Sempolan,Jawa Timur,Daop IX Jember,SPL,Beroperasi,KABUPATEN JEMBER,-8.19257,113.8962,WGS 1984
+440,440,665,Sengon,Jawa Timur,Daop VIII Surabaya,SN,Beroperasi,KOTA PASURUAN,-7.75519,112.7246,WGS 1984
+441,441,666,Sentolo,D.I Yogyakarta,Daop VI Yogyakarta,STL,Beroperasi,KABUPATEN KULON PROGO,-7.83319,110.2202,WGS 1984
+442,442,667,Sepanjang,Jawa Timur,Daop VIII Surabaya,SPJ,Beroperasi,KABUPATEN SIDOARJO,-7.34717,112.6978,WGS 1984
+443,443,668,Serang,Banten,Daop I Jakarta,SG,Beroperasi,KOTA SERANG,-6.11237,106.1586,WGS 1984
+444,444,669,Serpong,Banten,Daop I Jakarta,SRP,Beroperasi,KOTA TANGERANG SELATAN,-6.32019,106.6656,WGS 1984
+445,445,671,Sidareja,Jawa Tengah,Daop V Purwokerto,SDR,Beroperasi,KABUPATEN CILACAP,-7.48651,108.8076,WGS 1984
+446,446,672,Sidoarjo,Jawa Timur,Daop VIII Surabaya,SDA,Beroperasi,KABUPATEN SIDOARJO,-7.45697,112.7126,WGS 1984
+447,447,673,Sidotopo,Jawa Timur,Daop VIII Surabaya,SDT,Beroperasi,KOTA SURABAYA,-7.23529,112.7574,WGS 1984
+448,448,674,Sikampuh,Jawa Tengah,Daop V Purwokerto,SKP,Beroperasi,KABUPATEN CILACAP,-7.62579,109.1976,WGS 1984
+449,449,676,Sindanglaut,Jawa Barat,Daop III Cirebon,SDU,Beroperasi,KABUPATEN CIREBON,-6.83276,108.626,WGS 1984
+450,450,679,Singojuruh,Jawa Timur,Daop IX Jember,SGJ,Beroperasi,KABUPATEN BANYUWANGI,-8.30658,114.2408,WGS 1984
+451,451,680,Singosari,Jawa Timur,Daop VIII Surabaya,SGS,Beroperasi,KOTA MALANG,-7.89697,112.6664,WGS 1984
+452,452,682,Situbondo,Jawa Timur,Daop IX Jember,SIT,Tidak beroperasi,KABUPATEN SITUBONDO,-7.71387,113.995,WGS 1984
+453,453,684,Slahung,Jawa Timur,Daop VII Madiun,SLH,Tidak beroperasi,KABUPATEN PONOROGO,-8.03131,111.4162,WGS 1984
+454,454,685,Slawi,Jawa Tengah,Daop V Purwokerto,SLW,Beroperasi,KABUPATEN TEGAL,-6.98182,109.13654,
+455,455,687,Sleman,D.I Yogyakarta,Daop VI Yogyakarta,SMN,Tidak beroperasi,KABUPATEN SUMENEP,-7.00616,113.864,WGS 1984
+456,456,690,Soka,Jawa Tengah,Daop V Purwokerto,SOA,Tidak Beroperasi,KABUPATEN KEBUMEN,-7.67908,109.6396,WGS 1984
+457,457,691,Sokaraja,Jawa Tengah,Daop V Purwokerto,SOK,Tidak beroperasi,KABUPATEN BANYUMAS,-7.46088,109.2902,WGS 1984
+458,458,692,Solo Balapan,Jawa Tengah,Daop VI Yogyakarta,SLO,Beroperasi,KOTA SURAKARTA,-7.55719,110.8214,WGS 1984
+459,459,693,Solo Jebres,Jawa Tengah,Daop VI Yogyakarta,SK,Beroperasi,KOTA SURAKARTA,-7.56207,110.8394,WGS 1984
+460,460,694,Solo-Kota,Jawa Tengah,Daop VI Yogyakarta,SKA,Beroperasi,KABUPATEN SOLOK,-0.6922,100.5998,WGS 1984
+461,461,695,Songgom,Jawa Tengah,Daop III Cirebon,SGG,Beroperasi,KABUPATEN BREBES,-7.02448,108.9888,WGS 1984
+462,462,696,Soreang (Bd),Jawa Barat,Daop II Bandung,SRG,Tidak beroperasi,KABUPATEN BANDUNG,-7.02667,107.5202,WGS 1984
+463,463,697,Sragen,Jawa Tengah,Daop VI Yogyakarta,SR,Beroperasi,KABUPATEN SRAGEN,-7.42938,111.018,WGS 1984
+464,464,698,Sragi,Jawa Tengah,Daop IV Semarang,SRI,Beroperasi,KABUPATEN PEKALONGAN,-6.92377,109.571,WGS 1984
+465,465,700,Srono,Jawa Timur,Daop IX Jember,SRO,Tidak beroperasi,KABUPATEN BANYUWANGI,-8.4021,114.2626,WGS 1984
+466,466,701,Sroyo,Jawa Timur,Daop VIII Surabaya,SYO,Tidak beroperasi,KABUPATEN BOJONEGORO,-7.1637,112.0438,WGS 1984
+467,467,702,Srowot,Jawa Tengah,Daop VI Yogyakarta,SWT,Beroperasi,KABUPATEN KLATEN,-7.74127,110.5494,WGS 1984
+468,468,703,Sruweng,Jawa Tengah,Daop V Purwokerto,SRW,Beroperasi,KABUPATEN KEBUMEN,-7.65466,109.6024,WGS 1984
+469,469,704,Sudimara,Banten,Daop I Jakarta,SDM,Beroperasi,KOTA TANGERANG SELATAN,-6.29669,106.7128,WGS 1984
+470,470,705,Sudirman,DKI Jakarta,Daop I Jakarta,SUD,Beroperasi,KOTA JAKARTA PUSAT,-6.20209,106.8234,WGS 1984
+471,471,707,Sukabumi,Jawa Barat,Daop I Jakarta,SI,Beroperasi,KOTA SUKABUMI,-6.92389,106.9248,WGS 1984
+472,472,708,Sukatani,Jawa Barat,Daop II Bandung,SUT,Beroperasi,KABUPATEN PURWAKARTA,-6.6109,107.4086,WGS 1984
+473,473,710,Sukoharjo,Jawa Tengah,Daop VI Yogyakarta,SKH,Beroperasi,KABUPATEN SUKOHARJO,-7.67981,110.8432,WGS 1984
+474,474,712,Sukomoro,Jawa Timur,Daop VII Madiun,SKM,Beroperasi,KABUPATEN NGANJUK,-7.6026,111.9426,WGS 1984
+475,475,713,Sukorejo,Jawa Timur,Daop VIII Surabaya,SKJ,Beroperasi,KOTA PASURUAN,-7.7193,112.7234,WGS 1984
+476,476,716,Sulur,Jawa Tengah,Daop IV Semarang,SL,Beroperasi,KABUPATEN GROBOGAN,-7.17407,111.2228,WGS 1984
+477,477,717,Sumberbaru,Jawa Timur,Daop IX Jember,SBB,Tidak beroperasi,KABUPATEN JEMBER,-8.1239,113.383,WGS 1984
+478,478,718,Sumbergempol,Jawa Timur,Daop VII Madiun,SBL,Beroperasi,KABUPATEN TULUNGAGUNG,-8.0824,111.9446,WGS 1984
+479,479,719,Sumberlawang,Jawa Tengah,Daop VI Yogyakarta,SUM,Beroperasi,KABUPATEN SRAGEN,-7.3277,110.8638,WGS 1984
+480,480,720,Sumberpucung,Jawa Timur,Daop VIII Surabaya,SBP,Beroperasi,KOTA MALANG,-8.15839,112.4784,WGS 1984
+481,481,721,Sumberrejo,Jawa Timur,Daop VIII Surabaya,SRJ,Beroperasi,KABUPATEN BOJONEGORO,-7.17767,112.0016,WGS 1984
+482,482,722,Sumbersalak,Jawa Timur,Daop IX Jember,SBS,Tidak beroperasi,KABUPATEN BLITAR,-8.15729,113.8944,WGS 1984
+483,483,723,Sumberwadung,Jawa Timur,Daop IX Jember,SWD,Beroperasi,KABUPATEN BANYUWANGI,-8.30188,114.1054,WGS 1984
+484,484,725,Sumlaran,Jawa Timur,Daop VIII Surabaya,SLR,Tidak beroperasi,KABUPATEN LAMONGAN,-7.09357,112.322,WGS 1984
+485,485,726,Sumobito,Jawa Timur,Daop VII Madiun,SBO,Beroperasi,KABUPATEN JOMBANG,-7.51947,112.3394,WGS 1984
+486,486,727,Sumoroto,Jawa Timur,Daop VII Madiun,SMO,Tidak beroperasi,KABUPATEN BOYOLALI,-7.51348,110.74788,
+487,487,728,Sumpiuh,Jawa Tengah,Daop V Purwokerto,SPH,beroperasi,KABUPATEN BANYUMAS,-7.61517,109.3614,WGS 1984
+488,488,729,Sungai Lagoa,DKI Jakarta,Daop I Jakarta,SAO,Beroperasi,KOTA JAKARTA UTARA,-6.11279,106.8758,WGS 1984
+489,489,730,Sungai Tirem,DKI Jakarta,Daop I Jakarta,SGT,Tidak beroperasi,KABUPATEN OGAN KOMERING ULU TIMUR,-4.28146,104.31971,
+490,490,731,Surabaya Gubeng,Jawa Timur,Daop VIII Surabaya,SGU,Beroperasi,KOTA SURABAYA,-7.2652,112.7522,WGS 1984
+491,491,732,Surabaya Kota,Jawa Timur,Daop VIII Surabaya,SB,Beroperasi,KOTA SURABAYA,-7.24298,112.742,WGS 1984
+492,492,733,Surabaya Pasarturi,Jawa Timur,Daop VIII Surabaya,SBI,Beroperasi,KOTA SURABAYA,-7.24817,112.7312,WGS 1984
+493,493,735,Suradadi,Jawa Tengah,Daop IV Semarang,SD,Beroperasi,KABUPATEN TEGAL,-6.88049,109.276,WGS 1984
+494,494,736,Susuhan,Jawa Timur,Daop VII Madiun,SS,Beroperasi,KOTA KEDIRI,-7.77118,112.026,WGS 1984
+495,495,737,Tagogapu,Jawa Barat,Daop II Bandung,TAU,Beroperasi terbatas,KABUPATEN BANDUNG BARAT,-6.81036,107.463,WGS 1984
+496,496,738,Talun,Jawa Timur,Daop VII Madiun,TAL,Beroperasi,KOTA BLITAR,-8.09149,112.2886,WGS 1984
+497,497,740,Taman Kota,DKI Jakarta,Daop I Jakarta,TKO,Beroperasi,KOTA JAKARTA BARAT,-6.15857,106.7566,WGS 1984
+498,498,741,Tambak,Jawa Tengah,Daop V Purwokerto,TBK,Beroperasi,KABUPATEN BANYUMAS,-7.6131,109.408,WGS 1984
+499,499,742,Tambun,Jawa Barat,Daop I Jakarta,TB,Beroperasi,KABUPATEN BEKASI,-6.25861,107.0558,WGS 1984
+500,500,743,Tanahabang,DKI Jakarta,Daop I Jakarta,THB,Beroperasi,KOTA JAKARTA PUSAT,-6.1861,106.8108,WGS 1984
+501,501,745,Tandes,Jawa Timur,Daop VIII Surabaya,TES,Beroperasi,KOTA SURABAYA,-7.25897,112.687,WGS 1984
+502,502,748,Tanjung (ke Cn),Jawa Tengah,Daop III Cirebon,TGN,Beroperasi,KABUPATEN BREBES,-6.87671,108.861,WGS 1984
+503,503,749,Tanjung Barat,DKI Jakarta,Daop I Jakarta,TNT,Beroperasi,KOTA JAKARTA SELATAN,-6.30847,106.839,WGS 1984
+504,504,750,Tanjung Priok,DKI Jakarta,Daop I Jakarta,TPK,Beroperasi,KOTA JAKARTA UTARA,-6.11041,106.882,WGS 1984
+505,505,752,Tanjungrasa,Jawa Barat,Daop III Cirebon,TJS,Beroperasi,KABUPATEN SUBANG,-6.40839,107.5406,WGS 1984
+506,506,754,Tangerang,Banten,Daop I Jakarta,TNG,Beroperasi,KOTA TANGERANG,-6.17688,106.6326,WGS 1984
+507,507,755,Tanggul,Jawa Timur,Daop IX Jember,TGL,Beroperasi,KABUPATEN JEMBER,-8.16278,113.4482,WGS 1984
+508,508,756,Tanggulangin,Jawa Timur,Daop VIII Surabaya,TGA,Beroperasi,KABUPATEN SIDOARJO,-7.50677,112.7082,WGS 1984
+509,509,757,Tanggung,Jawa Tengah,Daop IV Semarang,TGG,Beroperasi,KABUPATEN GROBOGAN,-7.09149,110.6032,WGS 1984
+510,510,759,Tarik,Jawa Timur,Daop VIII Surabaya,TRK,Beroperasi,KABUPATEN SIDOARJO,-7.45947,112.5186,WGS 1984
+511,511,760,Tasikmalaya,Jawa Barat,Daop II Bandung,TSM,Beroperasi,KOTA TASIKMALAYA,-7.32257,108.2242,WGS 1984
+512,512,762,Tayu,Jawa Tengah,Daop IV Semarang,TAY,Tidak beroperasi,KABUPATEN PATI,-6.5354,111.0506,WGS 1984
+513,513,763,Tebet,DKI Jakarta,Daop I Jakarta,TEB,Beroperasi,KOTA JAKARTA SELATAN,-6.22668,106.8584,WGS 1984
+514,514,764,Tegal,Jawa Tengah,Daop IV Semarang,TG,Beroperasi,KOTA TEGAL,-6.86737,109.1428,WGS 1984
+515,515,768,Tegowanu,Jawa Tengah,Daop IV Semarang,TGW,Beroperasi,KABUPATEN GROBOGAN,-7.05298,110.6024,WGS 1984
+516,516,772,Telagasari,Jawa Barat,Daop III Cirebon,TLS,Beroperasi,KABUPATEN INDRAMAYU,-6.4646,108.235,WGS 1984
+517,517,774,Telawa,Jawa Tengah,Daop IV Semarang,TW,Beroperasi,KABUPATEN BOYOLALI,-7.18567,110.752,WGS 1984
+518,518,775,Temanggung,Jawa Tengah,Daop VI Yogyakarta,TMG,Tidak beroperasi,KABUPATEN TEMANGGUNG,-7.3125,110.1832,WGS 1984
+519,519,779,Temuguruh,Jawa Timur,Daop IX Jember,TGR,Beroperasi,KABUPATEN BANYUWANGI,-8.30957,114.2024,WGS 1984
+520,520,780,Tenjo,Jawa Barat,Daop I Jakarta,TEJ,Beroperasi,KABUPATEN BOGOR,-6.32758,106.462,WGS 1984
+521,521,782,Terisi,Jawa Barat,Daop III Cirebon,TIS,Beroperasi,KABUPATEN INDRAMAYU,-6.47009,108.1604,WGS 1984
+522,522,784,Tobo,Jawa Timur,Daop VIII Surabaya,TBO,Beroperasi,KABUPATEN BOJONEGORO,-7.17236,111.6552,WGS 1984
+523,523,791,Tulangan,Jawa Timur,Daop VIII Surabaya,TLN,Beroperasi,KABUPATEN SIDOARJO,-7.4657,112.651,WGS 1984
+524,524,792,Tulungagung,Jawa Timur,Daop VII Madiun,TA,Beroperasi,KABUPATEN TULUNGAGUNG,-8.06299,111.9048,WGS 1984
+525,525,794,Tuntang,Jawa Tengah,Daop IV Semarang,TTG,Beroperasi terbatas,KABUPATEN SEMARANG,-7.26068,110.4542,WGS 1984
+526,526,798,Ujungnegoro,Jawa Tengah,Daop IV Semarang,UJN,Beroperasi,KABUPATEN BATANG,-6.90869,109.7892,WGS 1984
+527,527,799,Universitas Indonesia,Jawa Barat,Daop I Jakarta,UI,Beroperasi,KOTA DEPOK,-6.36072,106.8318,WGS 1984
+528,528,800,Universitas Pancasila,DKI Jakarta,Daop I Jakarta,UP,Beroperasi,KOTA JAKARTA SELATAN,-6.33911,106.8342,WGS 1984
+529,529,802,Wadu,Jawa Tengah,Daop IV Semarang,WDU,Beroperasi,KABUPATEN BLORA,-7.19641,111.5006,WGS 1984
+530,530,803,Walantaka,Banten,Daop I Jakarta,WLT,Beroperasi,KOTA SERANG,-6.1554,106.2188,WGS 1984
+531,531,804,Walikukun,Jawa Timur,Daop VII Madiun,WK,Beroperasi,KABUPATEN NGAWI,-7.39868,111.2246,WGS 1984
+532,532,805,Wanaraja,Jawa Barat,Daop II Bandung,WNR,Beroperasi,KABUPATEN GARUT,-7.16464,107.97691,
+533,533,807,Waru (Sidoarjo),Jawa Timur,Daop VIII Surabaya,WR,Beroperasi,KABUPATEN SIDOARJO,-7.35248,112.7294,WGS 1984
+534,534,808,Waruduwur,Jawa Barat,Daop III Cirebon,WDW,Beroperasi,KABUPATEN CIREBON,-6.78369,108.6224,WGS 1984
+535,535,809,Warungbandrek,Jawa Barat,Daop II Bandung,WB,Beroperasi,KABUPATEN GARUT,-7.0647,108.007,WGS 1984
+536,536,812,Wates (Kulon Progo),D.I Yogyakarta,Daop VI Yogyakarta,WT,Beroperasi,KABUPATEN KULON PROGO,-7.8595,110.158,WGS 1984
+537,537,813,Weleri,Jawa Tengah,Daop IV Semarang,WLR,Beroperasi,KABUPATEN KENDAL,-6.97076,110.0698,WGS 1984
+538,538,815,Wilangan,Jawa Timur,Daop VII Madiun,WLG,Tidak beroperasi,KABUPATEN NGANJUK,-7.56122,111.8038,WGS 1984
+539,539,819,Wlingi,Jawa Timur,Daop VIII Surabaya,WG,Beroperasi,KOTA BLITAR,-8.08832,112.32,WGS 1984
+540,540,820,Wojo,Jawa Tengah,Daop VI Yogyakarta,WJ,Beroperasi,KABUPATEN PURWOREJO,-7.86188,110.0406,WGS 1984
+541,541,821,Wonogiri,Jawa Tengah,Daop VI Yogyakarta,WNG,Beroperasi,KABUPATEN WONOGIRI,-7.8161,110.922,WGS 1984
+542,542,823,Wonokerto,Jawa Timur,Daop VIII Surabaya,WN,Beroperasi,KOTA PASURUAN,-7.66199,112.7552,WGS 1984
+543,543,824,Wonokromo,Jawa Timur,Daop VIII Surabaya,WO,Beroperasi,KOTA SURABAYA,-7.30206,112.7394,WGS 1984
+544,544,828,Wonosari,Jawa Tengah,Daop V Purwokerto,WNS,Beroperasi,KABUPATEN KEBUMEN,-7.69727,109.7014,WGS 1984
+545,545,829,Wonosobo,Jawa Tengah,Daop V Purwokerto,WS,Tidak beroperasi,KABUPATEN WONOSOBO,-7.35999,109.8984,WGS 1984
+546,546,830,Yogyakarta,D.I Yogyakarta,Daop VI Yogyakarta,YK,Beroperasi,KOTA YOGYAKARTA,-7.78918,110.3636,WGS 1984
