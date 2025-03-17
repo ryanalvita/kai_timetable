@@ -140,32 +140,56 @@ supabase: Client = create_client(url, key)
 
 
 ## Add stop
-route = pd.read_csv("parsed/route.csv", index_col=0)
-for file in os.listdir("parsed/KA_reordered"):
-    df = pd.read_csv(f"parsed/KA_reordered/{file}", index_col=0)
-    ka_number = file.lstrip("KA").rstrip(".csv")
-    for ix, row in df.iterrows():
-        station_name = row["station_name"]
-        station_code = row["station_code"]
-        route_id = (
-            supabase.table(table_name="route")
-            .select("id")
-            .eq("ka_number", ka_number)
-            .execute()
-        ).data[0]["id"]
-        station_id = (
-            supabase.table(table_name="station")
-            .select("id")
-            .eq("code", station_code)
-            .execute()
-        ).data[0]["id"]
-        json = {
-            "route_id": route_id,
-            "station_id": station_id,
-            "arrival_time": row["arrival_time"],
-            "departure_time": row["departure_time"],
-            "order": ix - 1,
-        }
-        response = supabase.table(table_name="stop").upsert(json=json).execute()
+# route = pd.read_csv("parsed/route.csv", index_col=0)
+# for file in os.listdir("parsed/KA_reordered"):
+#     df = pd.read_csv(f"parsed/KA_reordered/{file}", index_col=0)
+#     ka_number = file.lstrip("KA").rstrip(".csv")
+#     for ix, row in df.iterrows():
+#         station_name = row["station_name"]
+#         station_code = row["station_code"]
+#         route_id = (
+#             supabase.table(table_name="route")
+#             .select("id")
+#             .eq("ka_number", ka_number)
+#             .execute()
+#         ).data[0]["id"]
+#         station_id = (
+#             supabase.table(table_name="station")
+#             .select("id")
+#             .eq("code", station_code)
+#             .execute()
+#         ).data[0]["id"]
+#         json = {
+#             "route_id": route_id,
+#             "station_id": station_id,
+#             "arrival_time": row["arrival_time"],
+#             "departure_time": row["departure_time"],
+#             "order": ix - 1,
+#         }
+#         response = supabase.table(table_name="stop").upsert(json=json).execute()
 
-a = 1
+# city = pd.read_csv("parsed/city.csv", index_col=0)
+# for ix, row in city.iterrows():
+#     json = {
+#         "name": row["name"],
+#     }
+#     response = (
+#         supabase.table(table_name="city")
+#         .upsert(json=json, ignore_duplicates=True)
+#         .execute()
+#     )
+
+# station = pd.read_csv("parsed/station.csv", index_col=0)
+# station_supabase = supabase.table(table_name="station").select("*").execute()
+
+# for ix, row in station.iterrows():
+#     json = {
+#         "name": row["name"],
+#     }
+#     response = (
+#         supabase.table(table_name="city")
+#         .upsert(json=json, ignore_duplicates=True)
+#         .execute()
+#     )
+
+# a = 1
