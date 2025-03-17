@@ -1,0 +1,8 @@
+No.,station_name,station_code,arrival_time,departure_time,notes
+1,YOGYAKARTA,YK,,18:25:00,
+2,PATUKAN,PTN,,18:30:00,
+3,REWULU,RWL,,18:33:00,
+4,SENTOLO,STL,,18:40:00,
+5,WATES,WT,18:49:00,18:51:00,
+6,KEDUNDANG,KDG,,18:58:00,
+7,AIRPORT,YIA,19:04:00,,
