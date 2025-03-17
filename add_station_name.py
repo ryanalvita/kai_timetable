@@ -13,3 +13,7 @@ df_routes["origin_station_name"] = df_routes["origin_station_code"].map(station_
 df_routes["destination_station_name"] = df_routes["destination_station_code"].map(station_name_mapping)
 
 a = 1
+
+df_routes.to_csv("parsed/routes.csv")
+
+
